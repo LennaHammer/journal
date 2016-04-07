@@ -1,0 +1,114 @@
+<Treepad version 3.0>
+dt=Text
+<node>
+ProjectEuler
+0
+Username: LennaHammer
+Password: LennaHammer
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+1..10
+1
+# 1 Multiples of 3 and 5
+
+puts (1..1000).inject(0){|a,b|a+(b%3==0 || b%5==0 ? b : 0)}
+
+
+# 2 Even Fibonacci numbers
+
+sum = 0
+a, b = 1,2
+while b < 4_000_000
+  sum += b if b%2==0
+  a, b = b, a+b
+end
+puts sum
+
+
+# 3 Largest prime factor
+
+x = 600851475143
+i = 2
+while i < x
+  if x%i==0
+    x /= i
+  else
+    i += 1
+  end
+end
+puts x
+
+
+# 4 Largest palindrome product
+
+y = 0
+pred = ->(x){t=x.to_s;t.reverse==t}
+(100..999).each{|i|(i..999).each{|j|if pred.(t=i*j) then y = [y,t].max end}}
+puts y
+
+
+# 5 Smallest multiple
+
+!!!!!!!!!!!!!!!!!!!!!!
+
+# 6 Sum square difference	
+
+puts (1..100).inject(:+)**2-(1..100).inject(0){|a,b|a+b**2}
+
+# 7 10001st prime	
+
+ps = []
+i = 2
+while ps.size < 10_001
+  ps << i unless ps.any?{|e|i%e==0}
+  i += 1
+end
+puts ps.last
+
+ps = []
+i = 2
+while ps.size < 6
+  (ps << i) if ps.all?{|e|i%e!=0} 
+  i += 1
+end
+puts ps.last
+
+#(2..n).inject([]){|a,b|a.any?{|e|b%e==0} ? a : a<<b}
+
+# 8 Largest product in a series	
+
+ 
+# 9 Special Pythagorean triplet	
+
+ 
+# 10 Summation of primes
+
+
+
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+utils
+1
+# palindrome
+
+def palindrome?(x)
+
+end
+
+# prime?
+
+def primes?(x)
+  
+end
+
+# primes
+
+def primes(n)
+  (2..n).inject([]){|a,b|a.any?{|e|b%e==0} ? a : a<<b}
+end
+
+<end node> 5P9i0s8y19Z
