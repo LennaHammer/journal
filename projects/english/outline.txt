@@ -1,0 +1,1212 @@
+﻿* Class I. Words Expressing Abstract Relations[*]
+** Section I. Existence[*]
+*** 1. Being, in The Abstract
+**** 1. existence
+**** 2. inexistence
+*** 2. Being, In The Concrete
+**** 3. substantiality
+**** 4. unsubstantiality
+*** 3. Formal Existence
+**** 5. intrinsicality
+**** 6. extrinsicality
+*** 4. Modal Existence
+**** 7. state
+**** 8. circumstance
+** Section II. Relation[*]
+*** 1. Absolute Relation
+**** 9. relation
+**** 10. irrelation
+**** 11. consanguinity
+**** 12. correlation
+**** 13. identity
+**** 14. contrariety
+**** 15. difference
+*** 2. Continuous Relation
+**** 16. uniformity
+**** 16.a. Nonuniformity
+*** 3. Partial Relation
+**** 17. similarity
+**** 18. dissimilarity
+**** 19. imitation
+**** 20. nonimitation
+**** 20.a. variation
+**** 21. copy
+**** 22. prototype
+*** 4. General Relation
+**** 23. agreement
+**** 24. disagreement
+** Section III. Quantity[*]
+*** 1. Simple Quantity
+**** 25. quantity
+**** 26. degree
+*** 2. Comparative Quantity
+**** 27. equality
+**** 28. inequality
+**** 29. mean
+**** 30. compensation
+*** 1 Quantity by Comparison with a Standard
+**** 31. greatness
+**** 32. smallness
+*** 2 Quantity by Comparison with a Similar Object
+**** 33. superiority
+**** 34. inferiority
+*** 3 Changes in Quantity
+**** 35. increase
+**** 36. nonincrease - o, decrease
+*** 3. Conjunctive Quantity
+**** 37. addition
+**** 38. nonaddition - o. subtraction
+**** 39. adjunct
+**** 40. remainder
+**** 40.a. decrement
+**** 41. mixture
+**** 42. simpleness
+**** 43. junction
+**** 44. disjunction
+**** 45. connection
+**** 46. coherence
+**** 47. incoherence
+**** 48. combination
+**** 49. decomposition
+*** 4. Concrete Quantity
+**** 50. whole
+**** 51. part
+**** 52. completeness
+**** 53. incompleteness
+**** 54. composition
+**** 55. exclusion
+**** 56. component
+**** 57. extraneousness
+** Section IV. Order[*]
+*** 1. Order in General
+**** 58. order
+**** 59. disorder
+**** 59.a. complexity
+**** 60. arrangement
+**** 61. derangement
+*** 2. Consecutive Order
+**** 62. precedence
+**** 63. sequence
+**** 64. precursor
+**** 65. sequel
+**** 66. beginning
+**** 67. end
+**** 68. middle
+**** 69. continuity
+**** 70. discontinuity
+**** 71. term
+*** 3. Collective Order
+**** 72. assemblage
+**** 73. nonassemblage - o. dispersion
+**** 74. focus
+*** 4. Distributive Order
+**** 75. class
+**** 76. inclusion
+**** 77. exclusion
+**** 78. generality
+**** 79. speciality
+*** 5. Order as Regards Categories
+**** 80. normality
+**** 81. multiformity
+**** 82. conformity
+**** 83. unconformity
+** Section V. Number[*]
+*** 1. Number, in the Abstract
+**** 84. number
+**** 85. numeration
+**** 86. list
+*** 2. Determinate Number
+**** 87. unity
+**** 88. accompaniment
+**** 89. duality
+**** 90. duplication
+**** 91. bisection
+**** 92. triality
+**** 93. triplication
+**** 94. trisection
+**** 95. four
+**** 96. quadruplication
+**** 97. quadrisection
+**** 98. five
+**** 99. quinquesection
+*** 3. Indeterminate Number
+**** 100. plurality
+**** 100.a. fraction
+**** 101. zero
+**** 102. multitude
+**** 103. fewness
+**** 104. repetition
+**** 105. infinity
+** Section VI. Time[*]
+*** 1. Absolute Time
+**** 106. time
+**** 107. neverness
+**** 108. period
+**** 108.a. contingent - o duration
+**** 109. course
+**** 110. diuturnity
+**** 111. transientness
+**** 112. perpetuity
+**** 113. instantaneity
+**** 114. chronometry
+**** 115. anachronism
+*** 2. Relative Time
+*** 1. Time with Reference to Succession
+**** 116. priority
+**** 117. posteriority
+**** 118. the present time
+**** 119. different time
+**** 120. synchronism
+**** 121. futurity
+**** 122. past
+*** 2. Time with Reference to a Particular Period
+**** 123. newness
+**** 124. oldness
+**** 125. morning
+**** 126. evening
+**** 127. youth
+**** 128. age
+**** 129. infant
+**** 130. veteran
+**** 131. adolescence
+*** 3. Time with Reference to an Effect or Purpose
+**** 132. earliness
+**** 132.a. punctuality
+**** 133. lateness
+**** 134. occasion
+**** 135. untimeliness
+*** 3. Recurrent Time
+**** 136. frequency
+**** 137. infrequency
+**** 138. periodicity
+**** 139. irregularity - o of recurrence
+** Section VII. Change[*]
+*** 1. Simple Change
+**** 140. change
+**** 141. permanence
+**** 142. cessation
+**** 143. continuance
+**** 144. conversion
+**** 145. reversion
+**** 146. revolution
+**** 147. substitution
+**** 148. interchange
+*** 2. Complex Change
+**** 149. changeableness
+**** 150. stability
+**** 151. eventuality
+**** 152. destiny
+** Section VIII. Causation[*]
+*** 1. Constancy of Sequence in Events
+**** 153. cause - o - WS (causation
+**** 154. effect
+**** 155. attribution
+**** 156. chance
+*** 2. Connection between Cause and Effect
+**** 157. power
+**** 158. impotence
+**** 159. strength
+**** 160. weakness
+*** 3. Power in Operation
+**** 161. production
+**** 162. destruction
+**** 163. reproduction
+**** 164. producer
+**** 165. destroyer
+**** 166. paternity
+**** 167. posterity
+**** 168. productiveness
+**** 169. unproductiveness
+**** 170. agency
+**** 171. physical energy
+**** 172. physical inertness
+**** 173. violence
+**** 174. moderation
+*** 4. Indirect Power
+**** 175. influence
+*** 175.a. Absence Of Influence
+**** 176. tendency
+**** 177. liability
+*** 5. Combinations of Causes
+**** 178. concurrence
+**** 179. counteraction
+* Class II. Words Relating to Space[*]
+** Section I. Space in General[*]
+*** 1. Abstract Space
+**** 180. space
+**** 180.a. inextension
+**** 181. region
+**** 182. place
+*** 2. Relative Space
+**** 183. situation
+**** 184. location
+**** 185. displacement
+*** 3. Existence in Space
+**** 186. presence
+**** 187. absence
+**** 188. inhabitant
+**** 189. abode
+**** 190. contents
+**** 191. receptacle
+** Section II. Dimensions[*]
+*** 1. General Dimensions
+**** 192. size
+**** 193. littleness
+**** 194. expansion
+**** 195. contraction
+**** 196. distance
+**** 197. nearness
+**** 198. interval
+**** 199. contiguity
+*** 2. Linear Dimensions
+**** 200. length
+**** 201. shortness
+**** 202. breadth - o, thickness
+**** 203. narrowness - o, thinness
+**** 204. layer
+**** 205. filament
+**** 206. height
+**** 207. lowness
+**** 208. depth
+**** 209. shallowness
+**** 210. summit
+**** 211. base
+**** 212. verticality
+**** 213. horizontality
+**** 214. pendency
+**** 215. support
+**** 216. parallelism
+**** 216.a. perpendicularity
+**** 217. obliquity
+**** 218. inversion
+**** 219. crossing
+*** 3. Centrical Dimensions
+*** 1. General.
+**** 220. exteriority
+**** 221. interiority
+**** 222. centrality
+**** 223. covering
+**** 224. lining
+**** 225. clothing
+**** 226. divestment
+**** 227. circumjacence
+**** 228. interposition
+**** 229. circumscription
+**** 230. outline
+**** 231. edge
+**** 232. inclosure
+**** 233. limit
+*** 2. Special
+**** 234. front
+**** 235. rear
+**** 236. laterality
+**** 237. contraposition
+**** 238. dextrality
+**** 239. sinistrality
+** Section III. Form[*]
+*** 1. General Form
+**** 240. form
+**** 241. amorphism
+**** 242. symmetry
+**** 243. distortion
+*** 2. Special Form
+**** 244. angularity
+**** 245. curvature
+**** 246. straightness
+**** 247. circularity
+**** 248. convolution
+**** 249. rotundity
+*** 3. Superficial Form
+**** 250. convexity
+**** 251. flatness
+**** 252. concavity
+**** 252.a. sponge
+**** 253. sharpness
+**** 254. bluntness
+**** 255. smoothness
+**** 256. roughness
+**** 257. notch
+**** 258. fold
+**** 259. furrow
+**** 260. opening
+**** 261. closure
+**** 262. perforator
+**** 263. stopper
+** Section IV. Motion[*]
+*** 1. Motion in General
+**** 264. motion
+**** 265. quiescence
+**** 266. journey
+**** 267. navigation
+**** 268. traveler
+**** 269. mariner
+**** 270. transference
+**** 271. carrier
+**** 272. vehicle
+**** 273. ship
+*** 2. Degrees of Motion
+**** 274. velocity
+**** 275. slowness
+*** 3. Motion Conjoined with Force
+**** 276. impulse
+**** 277. recoil
+*** 4. Motion with Reference to Direction
+**** 278. direction
+**** 279. deviation
+**** 280. precession
+**** 281. sequence
+**** 282. progression
+**** 283. regression
+**** 284. propulsion
+**** 285. traction
+**** 286. approach
+**** 287. recession
+**** 288. attraction
+**** 289. repulsion
+**** 290. convergence
+**** 291. divergence
+**** 292. arrival
+**** 293. departure
+**** 294. ingress
+**** 295. egress
+**** 296. reception
+**** 297. ejection
+**** 298. food
+**** 299. excretion
+**** 300. insertion
+**** 301. extraction
+**** 302. passage
+**** 303. transcursion
+**** 304. shortcoming
+**** 305. ascent
+**** 306. descent
+**** 307. elevation
+**** 308. depression
+**** 309. leap
+**** 310. plunge
+**** 311. circuition
+**** 312. rotation
+**** 313. evolution
+**** 314. oscillation
+**** 315. agitation
+* Class III. Words Relating to Matter[*]
+** Section I. Matter in General[*]
+**** 316. materiality
+**** 317. immateriality
+**** 318. world
+**** 319. gravity
+**** 320. levity
+** Section II. Inorganic Matter[*]
+*** 1. Solid Matter
+**** 321. density
+**** 322. rarity
+**** 323. hardness
+**** 324. softness
+**** 325. elasticity
+**** 326. inelasticity
+**** 327. tenacity
+**** 328. brittleness
+**** 329. texture
+**** 330. pulverulence
+**** 331. friction
+**** 332. lubrication
+*** 2. Fluid Matter
+*** 1. Fluids In General
+**** 333. fluidity
+**** 334. gaseity - o (gas
+**** 335. liquefaction
+**** 336. vaporization
+*** 2. Specific Fluids
+**** 337. water
+**** 338. air
+**** 339. moisture
+**** 340. dryness
+**** 341. ocean
+**** 342. land
+**** 343. gulf - o. lake
+**** 344. plain
+**** 345. marsh
+**** 346. island
+*** 3. Fluids in Motion
+**** 347. stream
+**** 348. river
+**** 349. wind
+**** 350. conduit
+**** 351. airpipe
+*** 3. Imperfect Fluids
+**** 352. semiliquidity
+**** 353. bubble
+**** 354. pulpiness
+**** 355. unctuousness
+**** 356. oil
+**** 356.a. resin
+** Section III. Organic Matter[*]
+*** 1. Vitality
+*** 1. Vitality in General
+**** 357. organization
+**** 358. inorganization
+**** 359. life
+**** 360. death
+**** 361. killing
+**** 362. corpse
+**** 363. burial - o, interment
+*** 2. Special Vitality
+**** 364. animality
+**** 365. vegetability
+**** 366. animal
+**** 367. vegetable
+**** 368. zoology
+**** 369. botany
+**** 370. husbandry
+**** 371. agriculture
+**** 372. mankind
+**** 373. man
+**** 374. woman
+**** 374.a. sexuality
+*** 2. sensation
+*** 1. Sensation in General
+**** 375. physical sensibility
+**** 376. physical insensibility
+**** 377. physical pleasure
+**** 378. physical pain
+*** 2. Special Sensation
+* (1) Touch
+**** 379. touch
+**** 380. sensations
+**** 381. numbness
+* (2) Heat
+**** 382. heat
+**** 383. cold
+**** 384. calefaction - o (heating
+**** 385. refrigeration
+**** 386. furnace
+**** 387. refrigerator
+**** 388. fuel
+**** 388.a. insulation
+**** 389. thermometer
+* (3) Taste
+**** 390. taste
+**** 391. insipidity
+**** 392. pungency - o (spice
+**** 392.a. saltiness - o (salt
+**** 392.b. bitterness
+**** 393. condiment
+**** 394. savoriness
+**** 395. unsavoriness
+**** 396. sweetness - o (sugar
+**** 397. sourness
+* (4) Odor
+**** 398. odor
+**** 399. inodorousness
+**** 400. fragrance
+**** 401. fetor
+**** 401.a. acridity
+* (5) sound
+* (I) Sound in General
+**** 402. sound
+**** 403. silence
+**** 404. loudness
+**** 405. faintness
+* (II) Specific Sounds
+**** 406. snap
+**** 407. roll
+**** 408. resonance
+**** 408.a. nonresonance
+**** 409. sibilation
+**** 410. stridor
+**** 411. cry
+**** 412. ululation
+* (III) Musical Sounds
+**** 413. melody - o. concord
+**** 414. discord
+**** 415. music
+**** 416. musician
+**** 417. musical instrument
+* (IV) Perception Of Sound
+**** 418. hearing
+**** 419. deafness
+* (6) light
+* (I) Light in General
+**** 420. light
+**** 421. darkness
+**** 422. dimness
+**** 423. luminary
+**** 424. shade
+**** 425. transparency
+**** 426. opacity
+**** 426.a. turbidity
+**** 427. semitransparency
+* (II) Specific Light
+**** 428. color
+**** 429. achromatism
+**** 430. whiteness
+**** 431. blackness
+**** 432. gray
+**** 433. brown
+**** 434. redness
+**** 435. greenness
+**** 436. yellowness
+**** 437. purple
+**** 438. blueness
+**** 439. orange
+**** 440. variegation
+* (III) Perceptions of Light
+**** 441. vision
+**** 442. blindness
+**** 443. dimsightedness
+**** 444. spectator
+**** 445. optical instrument
+**** 446. visibility
+**** 447. invisibility
+**** 448. appearance
+**** 449. disappearance
+* Class IV. Words Relating to the Intellectual Faculties[*]
+* Division I. Formation of Ideas[*]
+** Section I. Operations of Intellect in General[*]
+**** 450. intellect
+**** 450.a. absence
+**** 451. thought
+**** 452. incogitancy
+**** 453. idea
+**** 454. topic
+** Section II. Precursory Conditions and Operations[*]
+**** 455. curiosity
+**** 456. incuriosity
+**** 457. attention
+**** 458. inattention
+**** 459. care
+**** 460. neglect
+**** 461. inquiry
+**** 462. answer
+**** 463. experiment
+**** 464. comparison
+**** 464.a. incomparability
+**** 465. discrimination
+**** 465.a. indiscrimination
+**** 465.b. identification
+**** 466. measurement
+** Section III. Materials for Reasoning[*]
+**** 467. evidence
+**** 468. counter evidence
+**** 469. qualification
+**** 470. possibility
+**** 471. impossibility
+**** 472. probability
+**** 473. improbability
+**** 474. certainty
+**** 475. uncertainty
+** Section IV. Reasoning Processes[*]
+**** 476. reasoning
+**** 477. intuition - o & sophistry
+**** 478. demonstration
+**** 479. confutation
+** Section V. Results Of Reasoning[*]
+**** 480. judgment
+**** 480.a. discovery
+**** 481. misjudgment
+**** 482. overestimation
+**** 483. underestimation
+**** 484. belief
+**** 485. unbelief - o. doubt
+**** 486. credulity
+**** 487. incredulity
+**** 488. assent
+**** 489. dissent
+**** 490. knowledge
+**** 491. ignorance
+**** 492. scholar
+**** 493. ignoramus
+**** 494. truth
+**** 495. error
+**** 496. maxim
+**** 497. absurdity
+**** 498. intelligence
+**** 499. imbecility
+**** 500. sage
+**** 501. fool
+**** 502. sanity
+**** 503. insanity
+**** 504. madman
+** Section VI. Extension of Thought[*]
+*** 1. To the Past
+**** 505. memory
+**** 506. oblivion
+*** 2. To the Future
+**** 507. expectation
+**** 508. inexpectation
+**** 509. disappointment
+**** 510. foresight
+**** 511. prediction
+**** 512. omen
+**** 513. oracle
+** Section VII. Creative Thought[*]
+**** 514. supposition
+**** 514.a. analogy
+**** 515. imagination
+* Division II. Communication of Ideas[*]
+** Section I. Nature of Ideas Communicated[*]
+**** 516. meaning
+**** 517. unmeaningness
+**** 518. intelligibility
+**** 519. unintelligibility
+**** 520. equivocalness
+**** 521. metaphor
+**** 522. interpretation
+**** 523. misinterpretation
+**** 524. interpreter
+** Section II. Modes of Communication[*]
+**** 525. manifestation
+**** 526. latency - o. implication
+**** 527. information
+**** 527.a. correction
+**** 528. concealment
+**** 529. disclosure
+**** 530. ambush
+**** 531. publication
+**** 532. news
+**** 533. secret
+**** 534. messenger
+**** 535. affirmation
+**** 536. negation
+**** 537. teaching
+**** 538. misteaching
+**** 539. learning
+**** 540. teacher
+**** 541. learner
+**** 542. school
+**** 543. veracity
+**** 544. falsehood
+**** 545. deception
+**** 546. untruth
+**** 547. dupe
+**** 548. deceiver
+**** 549. exaggeration
+** Section III. Means of Communicating Ideas[*]
+*** 1. Natural Means
+**** 550. indication
+**** 551. record
+**** 552. obliteration
+**** 553. recorder
+**** 554. representation
+**** 555. misrepresentation
+**** 556. painting
+**** 557. sculpture
+**** 558. engraving
+**** 559. artist
+*** 2. Conventional Means
+*** 1. Language Generally
+**** 560. language
+**** 561. letter
+**** 562. word
+**** 563. neologism
+**** 564. nomenclature
+**** 565. misnomer
+**** 566. phrase
+**** 567. grammar
+**** 568. solecism
+**** 569. style
+**** 570. perspicuity
+**** 571. obscurity
+**** 572. conciseness
+**** 573. diffuseness
+**** 574. vigor
+**** 575. feebleness
+**** 576. plainness
+**** 577. ornament
+**** 578. elegance
+**** 579. inelegance
+*** 2. Spoken Language
+**** 580. voice
+**** 581. aphony
+**** 582. speech
+**** 583. stammering
+**** 584. loquacity
+**** 585. taciturnity
+**** 586. allocution
+**** 587. response
+**** 588. conversation
+**** 589. soliloquy
+*** 3. Written Language
+**** 590. writing
+**** 591. printing
+**** 592. correspondence
+**** 593. book
+**** 594. description
+**** 595. dissertation
+**** 596. compendium
+**** 597. poetry
+**** 598. prose
+**** 599. The drama
+* Class V. Words Relating to the Voluntary Powers[*]
+* Division I. Individual Volition[*]
+** Section I. Volition in General[*]
+*** 1. Acts Of Volition
+**** 600. will
+**** 601. necessity
+**** 602. willingness
+**** 603. unwillingness
+**** 604. resolution
+**** 604.a. perseverance
+**** 605. irresolution
+**** 606. obstinacy
+**** 607. tergiversation
+**** 608. caprice
+**** 609. choice
+**** 609.a. absence of choice
+**** 610. rejection
+**** 611. predetermination
+**** 612. impulse
+**** 613. habit
+**** 614. desuetude
+*** 2. Causes of Volition
+**** 615. motive
+**** 615.a. absence of motive
+**** 616. dissuasion
+**** 617. pretext
+*** 3. Objects of Volition
+**** 618. good
+**** 619. evil
+** Section II. Prospective Volition[*]
+*** 1. Conceptional Volition
+**** 620. intention
+**** 621. chance
+**** 622. pursuit
+**** 623. avoidance
+**** 624. relinquishment
+**** 625. business
+**** 626. plan
+**** 627. method
+**** 628. mid-course
+**** 629. circuit
+**** 630. requirement
+*** 2. Subservience to Ends
+*** 1. Actual Subservience
+**** 631. instrumentality
+**** 632. means
+**** 633. instrument
+**** 634. substitute
+**** 635. materials
+**** 636. store
+**** 637. provision
+**** 638. waste
+**** 639. sufficiency
+**** 640. insufficiency
+**** 641. redundancy
+*** 2. Degree of Subservience
+**** 642. importance
+**** 643. unimportance
+**** 644. utility
+**** 645. inutility
+**** 646. expedience
+**** 647. inexpedience
+**** 648. goodness
+**** 649. badness
+**** 650. perfection
+**** 651. imperfection
+**** 652. cleanness
+**** 653. uncleanness
+**** 654. health
+**** 655. disease
+**** 656. salubrity
+**** 657. insalubrity
+**** 658. improvement
+**** 659. deterioration
+**** 660. restoration
+**** 661. relapse
+**** 662. remedy
+**** 663. bane
+*** 3. Contingent Subservience
+**** 664. safety
+**** 665. danger
+**** 666. refuge
+**** 667. pitfall
+**** 668. warning
+**** 669. alarm
+**** 670. preservation
+**** 671. escape
+**** 672. deliverance
+*** 3. Precursory Measures
+**** 673. preparation
+**** 674. nonpreparation
+**** 675. essay
+**** 676. undertaking
+**** 677. use
+**** 678. disuse
+**** 679. misuse
+** Section III. Voluntary Action[*]
+*** 1. Simple Voluntary Action
+**** 680. action
+**** 681. inaction
+**** 682. activity
+**** 683. inactivity
+**** 684. haste
+**** 685. leisure
+**** 686. exertion
+**** 687. repose
+**** 688. fatigue
+**** 689. refreshment
+**** 690. agent
+**** 691. workshop
+*** 2. Complex Voluntary Action
+**** 692. conduct
+**** 693. direction
+**** 694. director
+**** 695. advice
+**** 696. council
+**** 697. precept
+**** 698. skill
+**** 699. unskillfulness
+**** 700. proficient
+**** 701. bungler
+**** 702. cunning
+**** 703. artlessness
+** Section IV. Antagonism[*]
+*** 1. Conditional Antagonism
+**** 704. difficulty
+**** 705. facility
+*** 2. Active Antagonism
+**** 706. hindrance
+**** 707. aid
+**** 708. opposition
+**** 709. cooperation
+**** 710. opponent
+**** 711. auxiliary
+**** 712. party
+**** 713. discord
+**** 714. concord
+**** 715. defiance
+**** 716. attack
+**** 717. defense
+**** 718. retaliation
+**** 719. resistance
+**** 720. contention
+**** 721. peace
+**** 722. warfare
+**** 723. pacification
+**** 724. mediation
+**** 725. submission
+**** 726. combatant
+**** 727. arms
+**** 728. arena
+** Section V. Results of Voluntary Action[*]
+**** 729. completion
+**** 730. noncompletion
+**** 731. success
+**** 732. failure
+**** 733. trophy
+**** 734. prosperity
+**** 735. adversity
+**** 736. mediocrity
+* Division II. Intersocial Volition[*]
+** Section I. General Intersocial Volition[*]
+**** 737. authority
+**** 737.a. government
+**** 737.b. politics
+**** 738. laxity
+**** 739. severity
+**** 740. lenity
+**** 741. command
+**** 742. disobedience
+**** 743. obedience
+**** 744. compulsion
+**** 745. master
+**** 746. servant
+**** 747. scepter
+**** 748. freedom
+**** 749. subjection
+**** 750. liberation
+**** 751. restraint
+**** 752. prison
+**** 753. keeper
+**** 754. prisoner
+**** 755. commission
+**** 756. abrogation
+**** 757. resignation
+**** 758. consignee
+**** 759. deputy
+** Section II. Special Intersocial Volition[*]
+**** 760. permission
+**** 761. prohibition
+**** 762. consent
+**** 763. offer
+**** 764. refusal
+**** 765. request
+**** 766. deprecation
+**** 767. petitioner
+** Section III. Conditional Intersocial Volition[*]
+**** 768. promise
+**** 768.a. release
+**** 769. compact
+**** 770. conditions
+**** 771. security
+**** 772. observance
+**** 773. nonobservance
+**** 774. compromise
+** Section IV. Possessive Relations[*]
+*** 1. Property In General
+**** 775. acquisition
+**** 776. loss
+**** 777. possession
+**** 777.a. exemption
+**** 778. participation
+**** 779. possessor
+**** 780. property
+**** 781. retention
+**** 782. relinquishment
+*** 2. Transfer of Property
+**** 783. transfer
+**** 784. giving
+**** 785. receiving
+**** 786. apportionment
+**** 787. lending
+**** 788. borrowing
+**** 789. taking
+**** 790. restitution
+**** 791. stealing
+**** 792. thief
+**** 793. booty
+*** 3. Interchange of Property
+**** 794. barter
+**** 795. purchase
+**** 796. sale
+**** 797. merchant
+**** 798. merchandise
+**** 799. mart
+**** 799.a. stock market
+**** 799.b. securities
+*** 4. Monetary Relations
+**** 800. money
+**** 801. treasurer
+**** 802. treasury
+**** 803. wealth
+**** 804. poverty
+**** 805. credit
+**** 806. debt
+**** 807. payment
+**** 808. nonpayment
+**** 809. expenditure
+**** 810. receipt
+**** 811. accounts
+**** 812. price
+**** 812.a. value
+**** 812.b. worthlessness
+**** 813. discount
+**** 814. dearness
+**** 815. cheapness
+**** 816. liberality
+**** 817. economy
+**** 817.a. greed
+**** 818. prodigality
+**** 819. parsimony
+* Class VI. Words Relating to the Sentient and Moral Powers[*]
+** Section I. Affections in General[*]
+**** 820. affections
+**** 821. feeling
+**** 822. sensibility
+**** 823. insensibility
+**** 824. excitation
+**** 825. excitability
+**** 826. inexcitability
+** Section II. Personal Affections[*]
+*** 1. Passive Affections[*]
+**** 827. pleasure
+**** 828. pain
+**** 829. pleasurableness
+**** 830. painfulness
+**** 831. content
+**** 832. discontent
+**** 833. regret
+**** 834. relief
+**** 835. aggravation
+**** 836. cheerfulness
+**** 837. dejection - o (see depression
+**** 838. rejoicing
+**** 839. lamentation
+**** 840. amusement
+**** 841. weariness
+**** 842. wit
+**** 843. dullness
+**** 844. humorist
+*** 2. Discriminative Affections[*]
+**** 845. beauty
+**** 846. ugliness
+**** 847. ornament
+**** 847.a. jewelry
+**** 848. blemish
+**** 849. simplicity
+**** 850. taste
+**** 851. vulgarity
+**** 852. fashion
+**** 853. ridiculousness
+**** 854. fop
+**** 855. affectation
+**** 856. ridicule
+**** 857. laughingstock
+*** 3. Prospective Affections[*]
+**** 858. hope
+**** 859. hopelessness
+**** 860. fear
+**** 861. courage
+**** 862. cowardice
+**** 863. rashness
+**** 864. caution
+**** 865. desire
+**** 866. indifference
+**** 867. dislike
+**** 868. fastidiousness
+**** 869. satiety
+*** 4. Contemplative Affections[*]
+**** 870. wonder
+**** 871. expectance
+**** 872. prodigy
+*** 5. Extrinsic Affections[*]
+**** 873. repute
+**** 874. disrepute
+**** 875. nobility
+**** 876. commonalty
+**** 877. title
+**** 878. pride
+**** 879. humility
+**** 880. vanity
+**** 881. modesty
+**** 882. ostentation
+**** 883. celebration
+**** 884. boasting
+**** 885. insolence
+**** 886. servility
+**** 887. blusterer
+** Section III. Sympathetic Affections[*]
+*** 1. Social Affections[*]
+**** 888. friendship
+**** 889. enmity
+**** 890. friend
+**** 891. enemy
+**** 892. sociality
+**** 893. seclusion - o. exclusion
+**** 894. courtesy
+**** 895. discourtesy
+**** 896. congratulation
+**** 897. love
+**** 898. hate
+**** 899. favorite
+**** 900. resentment
+**** 901. irascibility
+**** 901.a. sullenness
+**** 902. endearment
+**** 903. marriage
+**** 904. celibacy
+**** 905. divorce
+*** 2. Diffusive Sympathetic Affections[*]
+**** 906. benevolence
+**** 907. malevolence
+**** 908. malediction
+**** 909. threat
+**** 910. philanthropy
+**** 911. misanthropy
+**** 912. benefactor
+**** 913. evil doer - o (malefactor
+*** 3. Special Sympathetic Affections[*]
+**** 914. pity
+**** 914.a. pitilessness
+**** 915. condolence
+*** 4. Retrospective Sympathetic Affections[*]
+**** 916. gratitude
+**** 917. ingratitude
+**** 918. forgiveness
+**** 919. revenge
+**** 920. jealousy
+**** 921. envy
+** Section IV. Moral Affections[*]
+*** 1. Moral Obligations[*]
+**** 922. right
+**** 923. wrong
+**** 924. dueness
+**** 925. undueness
+**** 926. duty
+**** 927. dereliction of duty
+**** 927.a. exemption
+*** 2. Moral Sentiments[*]
+**** 928. respect
+**** 929. disrespect
+**** 930. contempt
+**** 931. approbation
+**** 932. disapprobation
+**** 933. flattery
+**** 934. detraction
+**** 935. flatterer
+**** 936. detractor
+**** 937. vindication
+**** 938. accusation
+*** 3. Moral Conditions[*]
+**** 939. probity
+**** 940. improbity
+**** 941. knave
+**** 942. disinterestedness
+**** 943. selfishness
+**** 944. virtue
+**** 945. vice
+**** 946. innocence
+**** 947. guilt
+*** 948. good man
+*** 949. bad man
+**** 950. penitence
+**** 951. impenitence
+**** 952. atonement
+*** 4. Moral Practice[*]
+**** 953. temperance
+**** 954. intemperance
+**** 954.a. sensualist
+**** 955. asceticism
+**** 956. fasting
+**** 957. gluttony
+**** 958. sobriety
+**** 959. drunkenness
+**** 960. purity
+**** 961. impurity
+**** 962. libertine
+*** 5. Moral Institutions[*]
+**** 963. legality
+**** 964. illegality
+**** 965. jurisdiction
+**** 966. tribunal
+**** 967. judge
+**** 968. lawyer
+**** 969. lawsuit
+**** 970. acquittal
+**** 971. condemnation
+**** 972. punishment
+**** 973. reward
+**** 974. penalty
+**** 975. scourge
+** Section V. Religious Affections[*]
+*** 1. Superhuman Beings and Regions[*]
+**** 976. deity
+**** 977. angel
+**** 978. satan
+**** 979. jupiter
+**** 980. demon
+**** 981. heaven
+**** 982. hell
+*** 2. Religious Doctrines[*]
+**** 983. theology
+**** 983.a. orthodoxy
+**** 984. heterodoxy
+**** 985. Judeo-Christian
+**** 986. pseudo-revelation
+*** 3. Religious Sentiments[*]
+**** 987. piety
+**** 988. impiety
+**** 989. irreligion
+*** 4. Acts Of Religion[*]
+**** 990. worship
+**** 991. idolatry
+**** 992. sorcery
+**** 993. spell
+**** 994. sorcerer
+*** 5. Religious Institutions[*]
+**** 995. churchdom
+**** 996. clergy
+**** 997. laity
+**** 998. rite
+**** 999. canonicals
+**** 1000. temple
