@@ -50,9 +50,9 @@ open("output_6000_tree.txt","w:utf-8"){|out|
   out.puts "* GRE Word list / sorted by Roget's Thesaurus\n\n\n"
 
   out.puts(open('outline.txt','r:utf-8').read.gsub("[*]","").gsub("\n","\n\n").gsub(/^\*\*\*\*\* (.+)\. .*$/){|x|
-    "#{$text[$~[1]]||"#{$~[0].gsub(/(\d\S+)\. (\S+)/,"\\2 \\1")}"}"
+    "#{$text[$~[1]]||"#{$~[0].gsub(/(\d\S+)\. (.+$)/,"\\2 \\1")}"}"
   })
-  out.puts "\n* \n"
+  out.puts "\n* \n\n"
   out.puts ($ab.keys-$my_keys).map{|w| gg(w)}
 }
 

@@ -2000,7 +2000,7 @@ subsequent    a.随后的，后来的，连续的    [sub-se-quent]
 epoch    n.纪元；重大的事件    [e-poch]
 extant    a.现存的，传世的    [ex-tant]
 
-***** different 119 time
+***** different time 119
 
 ***** synchronism 120
 
@@ -18186,6 +18186,7 @@ shrine    n.神龛，圣地    [shrine]
 stall    v.使停止，使延迟    [stall]
 
 * 
+
 abnegate    v.否认，放弃    [ab-ne-gate]
 abrasive    a.磨损的；生硬粗暴的    [a-bra-sive]
 abstentious    a.节制的    [ab-sten-tious]
