@@ -1,9 +1,9 @@
-* GRE Words / Roget's Thesaurus
+* GRE Word list / sorted by Roget's Thesaurus
 
 
-﻿* Class I. Words Expressing Abstract Relations[*]
+﻿* Class I. Words Expressing Abstract Relations
 
-** Section I. Existence[*]
+** Section I. Existence
 
 *** 1. Being, in The Abstract
 
@@ -146,7 +146,7 @@ provisional    a.暂时的，临时的    [pro-vi-sion-al]
 regime    n.政权，政治制度    [re-gime]
 status    n.身分，地位    [sta-tus]
 
-** Section II. Relation[*]
+** Section II. Relation
 
 *** 1. Absolute Relation
 
@@ -428,7 +428,7 @@ repugnant    a.令人厌恶的    [re-pug-nant]
 unbecoming    a.不合身的；不得体的    [un-be-com-ing]
 variance    n.矛盾；不同    [var-i-ance]
 
-** Section III. Quantity[*]
+** Section III. Quantity
 
 *** 1. Simple Quantity
 
@@ -1160,7 +1160,7 @@ exceptional    a.特别(好)的    [ex-cep-tion-al]
 extraneous    a.外来的；无关的    [ex-tra-ne-ous]
 slant    v.倾斜；n.斜面；看法    [slant]
 
-** Section IV. Order[*]
+** Section IV. Order
 
 *** 1. Order in General
 
@@ -1643,7 +1643,7 @@ unique    a.独一无二的，独特的；无与伦比的    [u-nique]
 unprecedented    a.前所未有的    [un-prec-e-dent-ed]
 unwonted    a.不寻常的，不习惯的    [un-wont-ed]
 
-** Section V. Number[*]
+** Section V. Number
 
 *** 1. Number, in the Abstract
 
@@ -1854,7 +1854,7 @@ interminable    a.无尽头的    [in-ter-mi-na-ble]
 perpetual    a.连续不断的；永久的    [per-pet-u-al]
 untold    a.无数的，数不清的    [un-told]
 
-** Section VI. Time[*]
+** Section VI. Time
 
 *** 1. Absolute Time
 
@@ -2226,7 +2226,7 @@ serial    a.连续的，一系列的    [se-ri-al]
 capricious    a.变化无常的，任性的    [ca-pri-cious]
 desultory    a.不连贯的，散漫的    [des-ul-to-ry]
 
-** Section VII. Change[*]
+** Section VII. Change
 
 *** 1. Simple Change
 
@@ -2442,7 +2442,7 @@ predestine    v.注定    [pre-des-tine]
 pregnant    a.怀孕的；充满的    [preg-nant]
 prospect    v.勘探；n.期望；前景    [pros-pect]
 
-** Section VIII. Causation[*]
+** Section VIII. Causation
 
 *** 1. Constancy of Sequence in Events
 
@@ -3036,9 +3036,9 @@ stultify    v.使变得荒谬可笑；使无用    [stul-ti-fy]
 traverse    v.横穿过，横跨    [trav-erse]
 withstand    v.顶住；经受住    [with-stand]
 
-* Class II. Words Relating to Space[*]
+* Class II. Words Relating to Space
 
-** Section I. Space in General[*]
+** Section I. Space in General
 
 *** 1. Abstract Space
 
@@ -3290,7 +3290,7 @@ vascular    a.血管的，脉管的    [vas-cu-lar]
 vault    n.拱顶；地窖    [vault]
 vessel    n.血管；容器；船只    [ves-sel]
 
-** Section II. Dimensions[*]
+** Section II. Dimensions
 
 *** 1. General Dimensions
 
@@ -4106,7 +4106,7 @@ ambidextrous    a.十分灵巧的    [am-bi-dex-trous]
 
 ***** sinistrality 239
 
-** Section III. Form[*]
+** Section III. Form
 
 *** 1. General Form
 
@@ -4522,7 +4522,7 @@ spike    n.长钉，大钉    [spike]
 tourniquet    n.止血带    [tour-ni-quet]
 valve    n.活门，阀门    [valve]
 
-** Section IV. Motion[*]
+** Section IV. Motion
 
 *** 1. Motion in General
 
@@ -5469,9 +5469,9 @@ wag    v.(狗尾巴等)摆动；n.诙谐幽默者    [wag]
 whirlpool    n.漩涡    [whirl-pool]
 wield    v.支配，掌权    [wield]
 
-* Class III. Words Relating to Matter[*]
+* Class III. Words Relating to Matter
 
-** Section I. Matter in General[*]
+** Section I. Matter in General
 
 ***** materiality 316
 
@@ -5545,7 +5545,7 @@ thermal    a.热的，热量的；温暖的n.热气流    [ther-mal]
 volatile    a.反复无常的；挥发性的    [vol-a-tile]
 yeast    n.酵母；兴奋    [yeast]
 
-** Section II. Inorganic Matter[*]
+** Section II. Inorganic Matter
 
 *** 1. Solid Matter
 
@@ -6059,7 +6059,7 @@ pitch    n.沥青，柏油；音调    [pitch]
 resin    n.树脂    [res-in]
 varnish    n.清漆；v.涂上清漆    [var-nish]
 
-** Section III. Organic Matter[*]
+** Section III. Organic Matter
 
 *** 1. Vitality
 
@@ -7321,11 +7321,11 @@ evaporate    v.(使某物)蒸发掉    [e-vap-o-rate]
 fade    v.褪色，消失，凋谢    [fade]
 vaporize    v.(使)蒸发    [va-por-ize]
 
-* Class IV. Words Relating to the Intellectual Faculties[*]
+* Class IV. Words Relating to the Intellectual Faculties
 
-* Division I. Formation of Ideas[*]
+* Division I. Formation of Ideas
 
-** Section I. Operations of Intellect in General[*]
+** Section I. Operations of Intellect in General
 
 ***** intellect 450
 
@@ -7389,7 +7389,7 @@ proposition    n.看法；提议    [prop-o-si-tion]
 subject    n.受支配的人，隶属    [sub-ject]
 thesis    n.论题，论文    [the-sis]
 
-** Section II. Precursory Conditions and Operations[*]
+** Section II. Precursory Conditions and Operations
 
 ***** curiosity 455
 
@@ -7615,7 +7615,7 @@ probe    v.探索，探测    [probe]
 scale    n.鱼鳞；(音乐)音阶    [scale]
 span    n.跨度；两个界限间的距离    [span]
 
-** Section III. Materials for Reasoning[*]
+** Section III. Materials for Reasoning
 
 ***** evidence 467
 
@@ -7767,7 +7767,7 @@ timidity    n.胆怯    [ti-mid-i-ty]
 untold    a.无数的，数不清的    [un-told]
 vague    a.模糊的    [vague]
 
-** Section IV. Reasoning Processes[*]
+** Section IV. Reasoning Processes
 
 ***** reasoning 476
 
@@ -7868,7 +7868,7 @@ parry    v.挡开，避开(武器，问题等)    [par-ry]
 refute    v.驳斥    [re-fute]
 retort    v.反驳    [re-tort]
 
-** Section V. Results Of Reasoning[*]
+** Section V. Results Of Reasoning
 
 ***** judgment 480
 
@@ -8368,7 +8368,7 @@ vertigo    n.眩晕    [ver-ti-go]
 fanatic    n.狂热者    [fa-nat-ic]
 lunatic    n.疯子；a.极蠢的    [lu-na-tic]
 
-** Section VI. Extension of Thought[*]
+** Section VI. Extension of Thought
 
 *** 1. To the Past
 
@@ -8485,7 +8485,7 @@ oracle    n.代神发布神谕的人    [or-a-cle]
 prophet    n.先知，预言家    [proph-et]
 sibyl    n.女预言家，女先知    [sib-yl]
 
-** Section VII. Creative Thought[*]
+** Section VII. Creative Thought
 
 ***** supposition 514
 
@@ -8554,9 +8554,9 @@ whim    n.多变，怪念头    [whim]
 whimsical    a.古怪的，异想天开的    [whim-si-cal]
 whimsy    n.古怪，异想天开    [whimsy]
 
-* Division II. Communication of Ideas[*]
+* Division II. Communication of Ideas
 
-** Section I. Nature of Ideas Communicated[*]
+** Section I. Nature of Ideas Communicated
 
 ***** meaning 516
 
@@ -8703,7 +8703,7 @@ travesty    v./n.歪曲模仿，曲解    [trav-es-ty]
 
 exponent    n.说明者，支持者；指数    [ex-po-nent]
 
-** Section II. Modes of Communication[*]
+** Section II. Modes of Communication
 
 ***** manifestation 525
 
@@ -9280,7 +9280,7 @@ rant    v.咆哮；口出狂言    [rant]
 stretch    v.变长；伸展    [stretch]
 yarn    n.纱线    [yarn]
 
-** Section III. Means of Communicating Ideas[*]
+** Section III. Means of Communicating Ideas
 
 *** 1. Natural Means
 
@@ -10053,11 +10053,11 @@ repertoire    n.(剧团等)常备剧目    [rep-er-toire]
 sock    v.重击，痛打    [sock]
 tragedy    n.悲剧，惨事，灾难    [trag-e-dy]
 
-* Class V. Words Relating to the Voluntary Powers[*]
+* Class V. Words Relating to the Voluntary Powers
 
-* Division I. Individual Volition[*]
+* Division I. Individual Volition
 
-** Section I. Volition in General[*]
+** Section I. Volition in General
 
 *** 1. Acts Of Volition
 
@@ -10491,7 +10491,7 @@ prejudice    n.偏见，成见；v.使产生偏见    [prej-u-dice]
 stroke    v.抚摸；n.击，打；一笔    [stroke]
 tragedy    n.悲剧，惨事，灾难    [trag-e-dy]
 
-** Section II. Prospective Volition[*]
+** Section II. Prospective Volition
 
 *** 1. Conceptional Volition
 
@@ -11750,7 +11750,7 @@ desecrate    v.玷辱，亵渎    [des-e-crate]
 profane    v.亵渎，玷污    [pro-fane]
 waste    v.使身体消瘦，损耗    [waste]
 
-** Section III. Voluntary Action[*]
+** Section III. Voluntary Action
 
 *** 1. Simple Voluntary Action
 
@@ -12216,7 +12216,7 @@ unaffected    a.自然的，不矫揉造作的    [un-af-fect-ed]
 unreserved    a.无限制的；未被预定的    [un-re-served]
 untutored    a.未经教育的    [un-tu-tored]
 
-** Section IV. Antagonism[*]
+** Section IV. Antagonism
 
 *** 1. Conditional Antagonism
 
@@ -12797,7 +12797,7 @@ sprig    n.嫩枝，小枝    [sprig]
 arena    n.(角斗的)竞技场    [a-re-na]
 canvas    n.画布；帆布    [can-vas]
 
-** Section V. Results of Voluntary Action[*]
+** Section V. Results of Voluntary Action
 
 ***** completion 729
 
@@ -12937,9 +12937,9 @@ untoward    a.不幸的，(坏事)没料到的    [un-to-ward]
 
 mediocrity    n.平庸，碌碌无为    [me-di-oc-ri-ty]
 
-* Division II. Intersocial Volition[*]
+* Division II. Intersocial Volition
 
-** Section I. General Intersocial Volition[*]
+** Section I. General Intersocial Volition
 
 ***** authority 737
 
@@ -13438,7 +13438,7 @@ substitute    n.代替品；v.代替    [sub-sti-tute]
 surrogate    n.代替品；代理人    [sur-ro-gate]
 vicar    n.教区牧师    [vic-ar]
 
-** Section II. Special Intersocial Volition[*]
+** Section II. Special Intersocial Volition
 
 ***** permission 760
 
@@ -13587,7 +13587,7 @@ suppliant    a.恳求的，哀求的；n.恳求者    [sup-pli-ant]
 supplicant    n.乞求者，恳求者    [sup-pli-cant]
 tout    v.招徕顾客；极力赞扬    [tout]
 
-** Section III. Conditional Intersocial Volition[*]
+** Section III. Conditional Intersocial Volition
 
 ***** promise 768
 
@@ -13712,7 +13712,7 @@ commute    v.交换；坐公交车上下班    [com-mute]
 compound    n.复合物；v.搀和    [com-pound]
 compromise    v.妥协；危害    [com-pro-mise]
 
-** Section IV. Possessive Relations[*]
+** Section IV. Possessive Relations
 
 *** 1. Property In General
 
@@ -14374,9 +14374,9 @@ tenacity    n.坚持，固执    [tenacity]
 venal    a.惟利是图的，贪赃枉法的    [ve-nal]
 withhold    v.扣留，保留    [with-hold]
 
-* Class VI. Words Relating to the Sentient and Moral Powers[*]
+* Class VI. Words Relating to the Sentient and Moral Powers
 
-** Section I. Affections in General[*]
+** Section I. Affections in General
 
 ***** affections 820
 
@@ -14655,9 +14655,9 @@ tolerance    n.容许量，公差；容忍，忍受    [tol-er-ance]
 tranquility    n.宁静，安静    [tran-quil-i-ty]
 unimpassioned    a.没有激情的    [un-im-pas-sioned]
 
-** Section II. Personal Affections[*]
+** Section II. Personal Affections
 
-*** 1. Passive Affections[*]
+*** 1. Passive Affections
 
 ***** pleasure 827
 
@@ -15201,7 +15201,7 @@ spark    n.火花，火星    [spark]
 wag    v.(狗尾巴等)摆动；n.诙谐幽默者    [wag]
 wit    n.智力，机智    [wit]
 
-*** 2. Discriminative Affections[*]
+*** 2. Discriminative Affections
 
 ***** beauty 845
 
@@ -15520,7 +15520,7 @@ butt    v.用头抵撞，顶撞；n.粗大的一端；烟蒂    [butt]
 jest    v./n.说笑，玩笑    [jest]
 original    a.最初的，原始的；有创意的    [o-rig-i-nal]
 
-*** 3. Prospective Affections[*]
+*** 3. Prospective Affections
 
 ***** hope 858
 
@@ -15817,7 +15817,7 @@ spoil    v.损坏，破坏；溺爱    [spoil]
 surfeit    n.(食物)过量，过度；v.使过量    [sur-feit]
 tire    n.轮胎(tyre)；v.疲劳    [tire]
 
-*** 4. Contemplative Affections[*]
+*** 4. Contemplative Affections
 
 ***** wonder 870
 
@@ -15843,7 +15843,7 @@ marvel    v.对…感到惊异；n.奇迹    [mar-vel]
 miracle    n.奇事，奇迹    [mir-a-cle]
 prodigy    n.奇事；奇才    [prod-i-gy]
 
-*** 5. Extrinsic Affections[*]
+*** 5. Extrinsic Affections
 
 ***** repute 873
 
@@ -16229,9 +16229,9 @@ bully    v.以强欺弱，威胁；n.欺负别人者    [bul-ly]
 doctrinaire    n.空论家；a.教条的，迂腐的    [doc-tri-naire]
 pistol    n.手枪    [pis-tol]
 
-** Section III. Sympathetic Affections[*]
+** Section III. Sympathetic Affections
 
-*** 1. Social Affections[*]
+*** 1. Social Affections
 
 ***** friendship 888
 
@@ -16595,7 +16595,7 @@ rib    n.肋骨；伞骨    [rib]
 
 separate    v.使分开；a.不同的；独自的    [sep-a-rate]
 
-*** 2. Diffusive Sympathetic Affections[*]
+*** 2. Diffusive Sympathetic Affections
 
 ***** benevolence 906
 
@@ -16726,7 +16726,7 @@ siren    n.汽笛，警报器    [si-ren]
 tyrant    n.暴君    [ty-rant]
 vulture    n.秃鹫    [vul-ture]
 
-*** 3. Special Sympathetic Affections[*]
+*** 3. Special Sympathetic Affections
 
 ***** pity 914
 
@@ -16761,7 +16761,7 @@ inexorable    a.不为所动的；坚决不变的    [in-ex-o-ra-ble]
 
 console    v.安慰，抚慰    [con-sole]
 
-*** 4. Retrospective Sympathetic Affections[*]
+*** 4. Retrospective Sympathetic Affections
 
 ***** gratitude 916
 
@@ -16823,9 +16823,9 @@ invidious    a.惹人反感的，导致伤害和仇恨的，招人嫉妒的    [
 rivalry    n.竞争，对抗    [ri-val-ry]
 spite    n.怨恨，恶意    [spite]
 
-** Section IV. Moral Affections[*]
+** Section IV. Moral Affections
 
-*** 1. Moral Obligations[*]
+*** 1. Moral Obligations
 
 ***** right 922
 
@@ -16967,7 +16967,7 @@ liberty    n.随意，冒失    [lib-er-ty]
 license    n.放肆，自由；许可证，执照    [li-cense]
 release    v.释放，放出；n.释放    [re-lease]
 
-*** 2. Moral Sentiments[*]
+*** 2. Moral Sentiments
 
 ***** respect 928
 
@@ -17270,7 +17270,7 @@ slur    v.含糊不清地讲    [slur]
 stigmatize    v.污蔑，玷污    [stig-ma-tize]
 vicious    a.残酷的，危险的    [vi-cious]
 
-*** 3. Moral Conditions[*]
+*** 3. Moral Conditions
 
 ***** probity 939
 
@@ -17515,7 +17515,7 @@ redress    n.改正，修正    [re-dress]
 reparation    n.赔偿，补偿    [rep-a-ra-tion]
 sacrifice    n.牺牲；v.宰牲祭神    [sac-ri-fice]
 
-*** 4. Moral Practice[*]
+*** 4. Moral Practice
 
 ***** temperance 953
 
@@ -17651,7 +17651,7 @@ pander    v.怂恿，迎合(不良欲望)    [pan-der]
 rig    v.欺骗，舞弊，伪造    [rig]
 skit    n.幽默讽刺短剧    [skit]
 
-*** 5. Moral Institutions[*]
+*** 5. Moral Institutions
 
 ***** legality 963
 
@@ -17863,9 +17863,9 @@ scaffold    n.脚手架(造房时搭的架子)    [scaf-fold]
 scourge    n.鞭笞；磨难；v.鞭笞，磨难    [scourge]
 stake    n.柱桩；赌注    [stake]
 
-** Section V. Religious Affections[*]
+** Section V. Religious Affections
 
-*** 1. Superhuman Beings and Regions[*]
+*** 1. Superhuman Beings and Regions
 
 ***** deity 976
 
@@ -17925,7 +17925,7 @@ inferno    n.火海，地狱般的场所    [in-fer-no]
 purgatory    n.炼狱；受苦受难的地方    [pur-ga-to-ry]
 stygian    a.阴暗的，阴森森的    [stygian]
 
-*** 2. Religious Doctrines[*]
+*** 2. Religious Doctrines
 
 ***** theology 983
 
@@ -17977,7 +17977,7 @@ scripture    n.经文，圣典    [scrip-ture]
 
 ***** pseudo-revelation 986
 
-*** 3. Religious Sentiments[*]
+*** 3. Religious Sentiments
 
 ***** piety 987
 
@@ -18032,7 +18032,7 @@ earthly    a.现世的，尘世的    [earth-ly]
 incredulity    n.怀疑，不相信    [in-cre-du-li-ty]
 mundane    a.现世的，世俗的    [mun-dane]
 
-*** 4. Acts Of Religion[*]
+*** 4. Acts Of Religion
 
 ***** worship 990
 
@@ -18095,7 +18095,7 @@ talisman    n.避邪物，护身符    [tal-is-man]
 medium    n.媒介；(细菌等的)生存环境    [me-di-um]
 siren    n.汽笛，警报器    [si-ren]
 
-*** 5. Religious Institutions[*]
+*** 5. Religious Institutions
 
 ***** churchdom 995
 

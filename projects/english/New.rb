@@ -47,9 +47,9 @@ $text = $group.keys.inject({}){|a,key|
 p $text.first
 
 open("output_6000_tree.txt","w:utf-8"){|out|
-  out.puts "* GRE Words / Roget's Thesaurus\n\n\n"
+  out.puts "* GRE Word list / sorted by Roget's Thesaurus\n\n\n"
 
-  out.puts(open('outline.txt','r:utf-8').read.gsub("\n","\n\n").gsub(/^\*\*\*\*\* (.+)\. .*$/){|x|
+  out.puts(open('outline.txt','r:utf-8').read.gsub("[*]","").gsub("\n","\n\n").gsub(/^\*\*\*\*\* (.+)\. .*$/){|x|
     "#{$text[$~[1]]||"#{$~[0].gsub(/(\d\S+)\. (\S+)/,"\\2 \\1")}"}"
   })
   out.puts "\n* \n"
