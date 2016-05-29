@@ -1,4 +1,4 @@
-* Word list / Roget's Thesaurus
+* Word Tree / Roget's Thesaurus
 
 
 ﻿* Class I. Words Expressing Abstract Relations
@@ -10678,7 +10678,7 @@
 
 *** 2. Subservience to Ends
 
-*** 1. Actual Subservience
+**** 1. Actual Subservience
 
 ***** instrumentality 631
 
@@ -10885,7 +10885,7 @@
  - surplus    a.过剩的；盈余的    [sur-plus]
  - turgid    a.浮肿的，肿胀的；浮夸的    [tur-gid]
 
-*** 2. Degree of Subservience
+**** 2. Degree of Subservience
 
 ***** importance 642
 
@@ -11516,7 +11516,7 @@
  + thorn    n.刺；荆棘    [thorn]
  + toxin    n.毒素，毒质    [tox-in]
 
-*** 3. Contingent Subservience
+**** 3. Contingent Subservience
 
 ***** safety 664
 
