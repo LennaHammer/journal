@@ -65,7 +65,7 @@ p $text.first
 OUT = "output/output_#{$ab.size}_tree.txt"
 OUT = "output_6000_tree.txt"
 open(OUT,"w:utf-8"){|out|
-  out.puts "* Word list / Roget's Thesaurus\n\n\n"
+  out.puts "* Word Tree / Roget's Thesaurus\n\n\n"
 
   out.puts(open('outline.txt','r:utf-8').read.gsub("[*]","").gsub("\n","\n\n").gsub(/^\*\*\*\*\* (.+)\. .*$/){|x|
     "#{(t=$text[$~[1]]) && t.() || "#{$~[0].gsub(/(\d\S+)\. (.+$)/,"\\2 \\1")}"}"

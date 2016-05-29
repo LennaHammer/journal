@@ -780,7 +780,7 @@
 ***** 629. circuit
 ***** 630. requirement
 *** 2. Subservience to Ends
-*** 1. Actual Subservience
+**** 1. Actual Subservience
 ***** 631. instrumentality
 ***** 632. means
 ***** 633. instrument
@@ -792,7 +792,7 @@
 ***** 639. sufficiency
 ***** 640. insufficiency
 ***** 641. redundancy
-*** 2. Degree of Subservience
+**** 2. Degree of Subservience
 ***** 642. importance
 ***** 643. unimportance
 ***** 644. utility
@@ -815,7 +815,7 @@
 ***** 661. relapse
 ***** 662. remedy
 ***** 663. bane
-*** 3. Contingent Subservience
+**** 3. Contingent Subservience
 ***** 664. safety
 ***** 665. danger
 ***** 666. refuge
