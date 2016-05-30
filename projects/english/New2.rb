@@ -14,8 +14,8 @@ when 1
   $words = open('wordlist/托福单词.txt','r:utf-8:utf-8').each_line.map{|line|line.tap(&:chomp!).split("\t")}.inject({}){|h,(k,v)|h[k]=v;h};
   OUT = "output/output_#{$words.size}_tree.txt"
 when 2
-  $words = open('wordlist/kaoyan.txt','r').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
-  $gg = ->(w){"#{w}    [#{$mhyph[w]||w}]"}
+  $words = open('wordlist/kaoyan.txt','r:ascii').each_line.inject({}){|hash,line|line.chomp!;line.strip!;hash[line.strip]='';hash}
+  #$gg = ->(w){"#{w}    [#{$mhyph[w]||w}]"}
   OUT = "output/output_#{$words.size}_tree.txt"
 when 3
   $words = open('wordlist/gre3000.txt','r:utf-8').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
