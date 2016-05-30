@@ -17882,9 +17882,30 @@
  - transgression    n.违法，罪过    [trans-gres-sion]
  - trespass    v.侵犯，闯入私人领地    [tres-pass]
 
-*** 948. good man
+***** good man 948
 
-*** 949. bad man
+ - benefactor    n.行善者，捐助者    [ben-e-fac-tor]
+ - gem    n.宝石，珠宝；精华    [gem]
+ - paragon    n.模范，典型    [par-a-gon]
+
+***** bad man 949
+
+ - bully    v.以强欺弱，威胁；n.欺负别人者    [bul-ly]
+ - convict    v.定罪；n.罪犯    [con-vict]
+ - crook    v.使弯曲；n.钩状物    [crook]
+ + delinquent    a.疏忽职务的    [de-lin-quent]
+ + felon    n.重罪犯    [fel-on]
+ - incendiary    a.放火的，纵火的    [in-cen-di-ar-y]
+ - jade    n.疲惫的老马；玉，翡翠    [jade]
+ - limb    n.肢(手或脚)，翼    [limb]
+ - loon    n.愚人；疯子    [loon]
+ + miscreant    n.恶棍，歹徒    [mis-cre-ant]
+ - mongrel    n.杂种动物；混血儿    [mon-grel]
+ - prodigal    a.挥霍的；n.挥霍者    [prod-i-gal]
+ - reprobate    v.谴责，指责；adj./n.堕落的(人)    [rep-ro-bate]
+ - reptile    n.爬行动物；卑鄙的人    [rep-tile]
+ - ruffian    n.恶棍，歹徒；a.残暴的    [ruf-fi-an]
+ - wicked    a.极坏的；淘气的    [wick-ed]
 
 ***** penitence 950
 
@@ -18757,7 +18778,6 @@
  + deforestation    n.采伐森林    [de-for-est-a-tion]
  + defuse    v.从(爆破装置)中卸除引信；缓和紧张状态或危急局面    [de-fuse]
  + delimit    v.定界，划界    [de-lim-it]
- + delinquent    a.疏忽职务的    [de-lin-quent]
  + demography    n.人口统计，人口学    [de-mog-ra-phy]
  + demote    v.降级，降职    [de-mote]
  + demotic    a.民众的，通俗的    [de-mot-ic]
@@ -18845,7 +18865,6 @@
  + faultfinder    n.喜欢挑剔的人    [fault-find-er]
  + feckless    a.无目标无计划的    [feck-less]
  + feedback    n.(信息的)反馈    [feed-back]
- + felon    n.重罪犯    [fel-on]
  + feral    a.凶猛的，野的    [fe-ral]
  + ferrous    a.含铁的    [fer-rous]
  + fertilizer    n.肥料，化肥    [fer-ti-liz-er]
@@ -19009,7 +19028,6 @@
  + microorganism    n.微生物，细菌    [mi-cro-or-gan-ism]
  + minutes    n.会议记录    [min-utes]
  + minutia    n.细枝末节，细节    [mi-nu-ti-a]
- + miscreant    n.恶棍，歹徒    [mis-cre-ant]
  + misperceive    v.误解    [mis-per-ceive]
  + monochromatic    a.单色的    [mon-o-chro-mat-ic]
  + monolithic    a.巨石的，巨大的    [mon-o-lith-ic]

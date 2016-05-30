@@ -1147,8 +1147,8 @@
 ***** 945. vice
 ***** 946. innocence
 ***** 947. guilt
-*** 948. good man
-*** 949. bad man
+***** 948. good man
+***** 949. bad man
 ***** 950. penitence
 ***** 951. impenitence
 ***** 952. atonement

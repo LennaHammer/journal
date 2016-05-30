@@ -9,10 +9,13 @@ $index = open('10681-index.txt','r:MacRoman:utf-8').read.scan(/((.+)\n(        .
 }
 p $index.size
 p $index.assoc("abide")
+p $index.assoc("abut on")
+#p $index.assoc('felon');gets;
 $rogot_keys = $index.map(&:first)*"\n"
 #$k1=$index.map(&:first)
 $index = $index.inject({}){|a,b|a[b.shift]=b;a}
 p $index.size
+#p $index['felon'];gets
 #$keys = $index2.keys#.map(&:first)
 #p $keys.size
 
@@ -25,17 +28,18 @@ $group = $index.each_pair.inject(Hash.new{|h,k|h[k]=[]}){|h,(k,v)|v.each{|x|h[x]
 
 
 p $group.size
+#p $group['bad man 949'];gets
 #p $group.first
 
 
 $index.each_key{|x|
-#fail if x=='obsession!'
+  #fail if x=='obsession!'
   if x[/ |!/]
     w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out']
-     if x=='obsession!'
-     p x,w
-     #gets
-     end
+    if x=='obsession!'
+      p x,w
+      #gets
+    end
     if w.size==1
       w = w[0]
       #p [w,$index[w],x,$index[x]]
@@ -43,12 +47,12 @@ $index.each_key{|x|
       if w=='obsession!'#'abut'
         p w,$index[x]
         #gets
-              $index[x].each{|group|
-      p $group[group] 
-       $group[group]|=[w]
-      p $group[group]
-       gets
-      }
+        $index[x].each{|group|
+          p $group[group]
+          $group[group]|=[w]
+          p $group[group]
+          gets
+        }
       end
       $index[x].each{|group|
         $group[group]|=[w]
@@ -74,7 +78,13 @@ $mhyph = {}&&open('mhyph.txt','r:MacRoman:utf-8').each_line.inject({}){|a,b|b.ch
 
 
 $text = $group.keys.inject({}){|a,key|
+
   a[key[/\d+.*$/]] = ->{"***** #{key}\n\n"<<($group[key].select{|x|$words[x]}.sort.map{|w| gg(w)<<""}*"\n")}
+  if key == 'bad man 949'
+    p key[/\d+.*$/];
+    p a[key[/\d+.*$/]]#.()
+    #gets
+  end
   a
 }
 
@@ -86,6 +96,8 @@ open(OUT,"w:utf-8"){|out|
   out.puts "* Word Tree / Roget's Thesaurus\n\n\n"
 
   out.puts(open('outline.txt','r:utf-8').read.gsub("[*]","").gsub("\n","\n\n").gsub(/^\*\*\*\*\* (.+)\. .*$/){|x|
+  #fail if $~[1]=='949'
+ # p $~[1];gets
     "#{(t=$text[$~[1]]) && t.() || "#{$~[0].gsub(/(\d\S+)\. (.+$)/,"\\2 \\1")}"}"
   })
   out.puts "\n* \n\n"
