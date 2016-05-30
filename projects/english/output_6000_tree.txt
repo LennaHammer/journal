@@ -161,6 +161,7 @@
  + homogeneity    n.同种，同质    [ho-mo-ge-ne-i-ty]
  + pertain    v.属于；关于    [per-tain]
  + relate    v.讲述；有关联    [re-late]
+ + score    n.乐谱    [score]
 
 ***** irrelation 10
 
@@ -216,6 +217,7 @@
  + converse    v.谈话；a.逆向的n.相反的事物    [con-verse]
  + foil    n.钝剑；箔，锡箔纸    [foil]
  + hostile    a.敌对的，敌意的    [hos-tile]
+ + inverse    a.相反的；倒转的    [in-verse]
  + invert    v.上下倒置    [in-vert]
  + oppose    v.反对    [op-pose]
  + repugnance    n.嫌恶，反感    [re-pug-nance]
@@ -581,6 +583,7 @@
 
  + bare    v.暴露；a.赤裸的    [bare]
  + bit    n.钻头    [bit]
+ + brink    n.(峭壁的)边沿，边缘    [brink]
  - cast    n.演员阵容；剧团；v.扔；铸造    [cast]
  + chip    n.薄片，碎片；集成电路片    [chip]
  + corpuscle    n.血球，细胞    [cor-pus-cle]
@@ -1201,6 +1204,7 @@
  - discord    n.不和，纷争    [dis-cord]
  + ferment    v./n.(使)发酵；骚动    [fer-ment]
  + fracas    n.喧嚷，吵闹    [fra-cas]
+ + gear    n.齿轮；装备；仪器    [gear]
  + hodgepodge    n.混淆；杂菜    [hodge-podge]
  + imbroglio    n.纠纷，纠葛    [im-bro-gli-o]
  - jumble    v.混杂，掺杂；n.混杂，掺杂    [jum-ble]
@@ -1700,7 +1704,7 @@
  + overhaul    v.彻底检查；大修    [o-ver-haul]
  + poll    n.民意测验；选举投票    [poll]
  + recapitulate    v.扼要重述    [re-ca-pit-u-late]
- + score    n.乐谱    [score]
+ - score    n.乐谱    [score]
  - subtract    v.减去，减掉    [sub-tract]
  + summation    n.总结，概要；总数，合计    [sum-ma-tion]
  - tally    v.(使)一致，符合    [tal-ly]
@@ -1894,6 +1898,7 @@
 
  + duration    n.持续的时间    [du-ra-tion]
  + epoch    n.纪元；重大的事件    [e-poch]
+ - hold    n.(船)货舱    [hold]
  + interim    n.中间时期，过渡时期；a.暂时的    [in-ter-im]
  + interlude    n.(活动间的)暂时休息    [in-ter-lude]
  - intermission    n.暂停，间歇    [in-ter-mis-sion]
@@ -1944,6 +1949,7 @@
  + persistence    n.坚持不懈，持续    [per-sis-tence]
  + prolong    v.延长，拉长    [pro-long]
  + protract    v.延长，拖长    [pro-tract]
+ + spin    v.旋转；纺，纺纱；n.旋转    [spin]
  - survive    v.幸存    [sur-vive]
  + temporize    v.拖延；见风使舵    [tem-po-rize]
  - unremitting    a.不间断的，持续的    [un-re-mit-ting]
@@ -2055,6 +2061,7 @@
 
  - anticipate    v.预期，期待    [an-tic-i-pate]
  + approach    v.接近，靠近；着手处理；n.方法    [ap-proach]
+ - brink    n.(峭壁的)边沿，边缘    [brink]
  + foresight    n.远见，深谋远虑    [fore-sight]
  - forestall    v.先发制人，预先阻止    [fore-stall]
  + prospect    v.勘探；n.期望；前景    [pros-pect]
@@ -2104,6 +2111,7 @@
 
 ***** morning 125
 
+ + lark    n./v.玩乐，嬉耍    [lark]
  - prime    n.全盛时期；a.首先的；最好的    [prime]
 
 ***** evening 126
@@ -2201,6 +2209,8 @@
  + reserve    n.储备(物)，储藏量；缄默，谨慎；v.保留，储备，预订    [re-serve]
  - respite    n.休息；暂缓    [res-pite]
  + retard    v.妨碍；减速    [re-tard]
+ - spin    v.旋转；纺，纺纱；n.旋转    [spin]
+ + stretch    v.变长；伸展    [stretch]
  + suspend    v.暂缓，中止；吊，悬    [sus-pend]
  - table    v.搁置，不加考虑    [ta-ble]
  + tardy    a.缓慢的，迟缓的    [tar-dy]
@@ -2590,6 +2600,7 @@
  - dummy    n.人体模型，假人    [dum-my]
  + enervate    v.使虚弱，使无力    [en-er-vate]
  + exhaust    n.(机器排出的)废气，蒸气；v.使非常疲倦    [ex-haust]
+ - gear    n.齿轮；装备；仪器    [gear]
  + impuissance    n.无力，虚弱    [im-pu-is-sance]
  + incompetent    a.无能力的，不能胜任的    [in-com-pe-tent]
  + ineffectual    a.无效的，徒劳无益的    [in-ef-fec-tu-al]
@@ -2762,10 +2773,12 @@
  - sap    n.树液；活力；v.消弱，耗尽    [sap]
  + squash    v.压碎，挤压；n.南瓜    [squash]
  + squelch    v.压制，镇压    [squelch]
+ - stamp    v./n.跺脚；在…上盖印    [stamp]
  + subversive    a.颠覆性的，破坏性的    [sub-ver-sive]
  + subvert    v.颠覆，推翻    [sub-vert]
  + swamp    n.沼泽；v.使陷入；淹没    [swamp]
  - topple    v.倾覆，推倒    [top-ple]
+ + trample    v.踩坏，践踏    [tram-ple]
  + vaporize    v.(使)蒸发    [va-por-ize]
  - waste    v.使身体消瘦，损耗    [waste]
 
@@ -3108,7 +3121,7 @@
  + margin    n.页边空白，边缘；差额；余地；利润    [mar-gin]
  - purchase    n.支点(阻止东西下滑)    [pur-chase]
  - scope    n.眼界；范围    [scope]
- + stretch    v.变长；伸展    [stretch]
+ - stretch    v.变长；伸展    [stretch]
  - swing    v.摇摆；旋转；n.秋千    [swing]
  + tolerance    n.容许量，公差；容忍，忍受    [tol-er-ance]
  - void    a.空的，缺乏的；n.空隙，空处；空虚感    [void]
@@ -3496,6 +3509,7 @@
  + adjacent    a.接近的，毗连的    [ad-ja-cent]
  - approach    v.接近，靠近；着手处理；n.方法    [ap-proach]
  - approximate    a.大约的，估计的    [ap-prox-i-mate]
+ - brink    n.(峭壁的)边沿，边缘    [brink]
  - bystander    n.旁观者    [by-stand-er]
  - clasp    n.钩子，扣子；紧握    [clasp]
  - cling    v.紧抓住；舍不得放弃    [cling]
@@ -3565,6 +3579,7 @@
  + radius    n.半径    [ra-di-us]
  - scale    n.鱼鳞；(音乐)音阶    [scale]
  - span    n.跨度；两个界限间的距离    [span]
+ - spin    v.旋转；纺，纺纱；n.旋转    [spin]
  + spoke    n.(车轮上)辐条    [spoke]
  + streak    n.线条，条纹；v.加线条    [streak]
  - stretch    v.变长；伸展    [stretch]
@@ -3869,7 +3884,7 @@
 
 ***** inversion 218
 
- + inverse    a.相反的；倒转的    [in-verse]
+ - inverse    a.相反的；倒转的    [in-verse]
  - invert    v.上下倒置    [in-vert]
  - overturn    v.翻倒；推翻    [o-ver-turn]
  + pirouette    n./v.(舞蹈)脚尖立地的旋转    [pir-ou-ette]
@@ -3989,7 +4004,7 @@
  + cravat    n.领巾，领结    [cra-vat]
  - crown    v.加冕，使成王，居…之顶    [crown]
  + garment    n.衣服    [gar-ment]
- + gear    n.齿轮；装备；仪器    [gear]
+ - gear    n.齿轮；装备；仪器    [gear]
  - guise    n.外观，装束    [guise]
  - harness    n.马具；v.束以马具；利用    [har-ness]
  + helmet    n.头盔，钢盔    [hel-met]
@@ -4092,7 +4107,7 @@
 
 ***** edge 231
 
- + brink    n.(峭壁的)边沿，边缘    [brink]
+ - brink    n.(峭壁的)边沿，边缘    [brink]
  - confine    v.限制，禁闭    [con-fine]
  - flange    n.(火车车轮的)凸缘，轮缘    [flange]
  + fringe    n.(窗帘等)须边；边缘    [fringe]
@@ -4187,6 +4202,7 @@
  + configuration    n.结构，配置；轮廓    [con-fig-u-ra-tion]
  - feature    n.特色，特点，特征    [fea-ture]
  - formation    n.组织，形成；(军队)编队    [for-ma-tion]
+ - hammer    n.锤子，槌    [ham-mer]
  - hew    v.砍伐；遵守    [hew]
  - knead    v.揉制，捏制    [knead]
  - mold    n.模子；(美)霉；v.塑造    [mold]
@@ -4339,6 +4355,7 @@
  - hub    n.轴心；中心    [hub]
  + hunch    n.直觉，预感    [hunch]
  + molar    n.臼齿    [mo-lar]
+ - poke    v.刺，戳；嘲弄    [poke]
  + pout    v.噘嘴，板脸    [pout]
  + proboscis    n.(象)长鼻；(昆虫等)吸管    [pro-bos-cis]
  + projection    n.凸出物    [pro-jec-tion]
@@ -5045,6 +5062,7 @@
  + affluent    a.富裕的，丰富的    [af-flu-ent]
  - approach    v.接近，靠近；着手处理；n.方法    [ap-proach]
  - approximate    a.大约的，估计的    [ap-prox-i-mate]
+ - forward    a.过激的，莽撞的    [for-ward]
  - imminent    a.即将发生的，逼近的    [im-mi-nent]
  - impending    a.行将发生的，逼近的    [im-pend-ing]
  - pursue    v.追赶，追求，追踪    [pur-sue]
@@ -5102,6 +5120,7 @@
  + attain    v.达到，实现    [at-tain]
  + debark    v.下船，下飞机，下车，卸载    [de-bark]
  - encounter    v.遭遇    [en-coun-ter]
+ + hail    n.冰雹；v.致敬    [hail]
  - harbor    n.港，避难所；v.包庇，隐匿    [har-bor]
  - haven    n.安息所，避难所    [ha-ven]
  - meet    a.合适的    [meet]
@@ -5183,6 +5202,7 @@
 
 ***** ejection 297
 
+ - bale    n.大包裹；灾祸，不幸    [bale]
  - banish    v.放逐某人    [ban-ish]
  + boycott    v.抵制(贸易)    [boy-cott]
  - broach    v.开瓶；提出(讨论)    [broach]
@@ -5211,8 +5231,10 @@
  - relegate    v.降级，贬谪    [rel-e-gate]
  + secrete    v.隐藏；分泌    [se-crete]
  - shed    v.流出(眼泪等)；脱落(叶子)    [shed]
+ - squeeze    v.压，挤；n.压榨，紧握    [squeeze]
  + unearth    v.挖出；发现    [un-earth]
  - void    a.空的，缺乏的；n.空隙，空处；空虚感    [void]
+ - weed    n.杂草，野草；v.除草    [weed]
 
 ***** food 298
 
@@ -5311,7 +5333,12 @@
  + extort    v.强索，敲诈    [ex-tort]
  + extract    v.拔出；强索    [ex-tract]
  + extricate    v.拯救，救出    [ex-tri-cate]
+ + pluck    n.在困难面前足智多谋的勇气，胆量；精力；v.拔毛；弹拉    [pluck]
+ - press    v.挤压    [press]
  - remove    v.移走；脱掉；迁移    [re-move]
+ - squeeze    v.压，挤；n.压榨，紧握    [squeeze]
+ - tear    v.撕裂    [tear]
+ - weed    n.杂草，野草；v.除草    [weed]
  - wrench    v.扭，拧；n.板钳，扳手    [wrench]
 
 ***** passage 302
@@ -5359,7 +5386,7 @@
  + buoyant    a.有浮力的；快乐的    [buoy-ant]
  + elevate    v.将…举起    [el-e-vate]
  - hover    v.翱翔；(人)徘徊    [hov-er]
- + lark    n./v.玩乐，嬉耍    [lark]
+ - lark    n./v.玩乐，嬉耍    [lark]
  - plane    n.刨子；平面；v.刨    [plane]
  - scale    n.鱼鳞；(音乐)音阶    [scale]
  - soar    v.高飞，翱翔；猛增    [soar]
@@ -5470,7 +5497,7 @@
  - pirouette    n./v.(舞蹈)脚尖立地的旋转    [pir-ou-ette]
  + rotate    v.旋转，转动；轮流，交替    [ro-tate]
  - screw    n.螺丝钉，螺旋；吝啬鬼    [screw]
- + spin    v.旋转；纺，纺纱；n.旋转    [spin]
+ - spin    v.旋转；纺，纺纱；n.旋转    [spin]
  - surge    v.波涛汹涌，波动    [surge]
  + tire    n.轮胎(tyre)；v.疲劳    [tire]
  + tornado    n.飓风，龙卷风    [tor-na-do]
@@ -6192,6 +6219,7 @@
 
  + asphyxiate    v.(使)无法呼吸，窒息而死    [as-phyx-i-ate]
  - casualty    n.伤亡事故；伤亡者    [cas-u-al-ty]
+ - chase    v.雕镂；追捕    [chase]
  - choke    v.(使)窒息，阻塞    [choke]
  - decimate    v.毁掉大部分；大量杀死    [dec-i-mate]
  - dispatch    v.派遣；一下子做完；吃完；n.迅速    [dis-patch]
@@ -6514,7 +6542,7 @@
  + frigid    a.寒冷的；死板的    [frig-id]
  + frigidity    n.寒冷；冷淡    [fri-gid-i-ty]
  - glacial    a.冰期的，冰河期的；寒冷的    [gla-ci-al]
- + hail    n.冰雹；v.致敬    [hail]
+ - hail    n.冰雹；v.致敬    [hail]
  + icicle    n.冰柱，冰垂    [i-ci-cle]
  + inclement    a.(天气)严酷的；严厉的    [in-clem-ent]
  - lukewarm    a.微温的，不热心的    [luke-warm]
@@ -6578,6 +6606,7 @@
  - pierce    v.刺透；穿过    [pierce]
  - pinch    v.捏，掐；n.一撮，一点    [pinch]
  - refresh    v.消除…的疲劳，使精神振作    [re-fresh]
+ - stamp    v./n.跺脚；在…上盖印    [stamp]
 
 ***** furnace 386
 
@@ -6609,12 +6638,14 @@
 
  - bucket    >n.圆桶    [buck-et]
  - damp    v.减弱，制止振动；a.潮湿的    [damp]
+ - die    n.金属模子，印模    [die]
  - douse    v.把…浸入水中；熄灭    [douse]
  - extinguish    v.使…熄灭；使…不复存在    [ex-tin-guish]
  + nonflammable    a.不易燃的    [non-flam-ma-ble]
  - quench    v.熄灭(火)；抑制(欲望)    [quench]
  - slack    a.懒散的，懈怠的；(绳)松弛的；v.松懈，怠惰    [slack]
  - smother    v.覆盖；(使)闷死    [smoth-er]
+ - stamp    v./n.跺脚；在…上盖印    [stamp]
 
 ***** thermometer 389
 
@@ -7374,6 +7405,7 @@
  - materialize    v.赋予形体，使具体化；实现    [ma-te-ri-al-ize]
  + obvious    a.明显的，显而易见的    [ob-vi-ous]
  - palpable    a.可触知的，明显的    [pal-pa-ble]
+ - peer    n.同等之人，同辈    [peer]
  - plain    a.简单的；清楚的；n.平原    [plain]
 
 ***** invisibility 447
@@ -7595,6 +7627,7 @@
  - dodge    v.闪开，躲避    [dodge]
  - espionage    n.间谍活动    [es-pi-o-nage]
  - fathom    n.英寻(量水深用，相当于1.83米)；v.彻底明白，了解    [fath-om]
+ + ferret    n.雪貂；v.用雪貂猎取；搜寻    [fer-ret]
  + induction    n.就职，入伍仪式；归纳    [in-duc-tion]
  + inquiry    n.询问    [in-quir-y]
  - inquisitive    a.过分好问的；好奇的    [in-quis-i-tive]
@@ -8011,6 +8044,7 @@
  - elucidate    v.阐明，说明    [e-lu-ci-date]
  - evolve    v.使逐渐形成，进化    [e-volve]
  - fathom    n.英寻(量水深用，相当于1.83米)；v.彻底明白，了解    [fath-om]
+ - ferret    n.雪貂；v.用雪貂猎取；搜寻    [fer-ret]
  - meet    a.合适的    [meet]
  + revelation    n.显示；泄露的事实    [rev-e-la-tion]
  - unearth    v.挖出；发现    [un-earth]
@@ -8072,6 +8106,7 @@
  - conception    n.概念；开始    [con-cep-tion]
  + confidence    n.信任，自信，信心    [con-fi-dence]
  - convert    v.使改变(信仰等)；n.改变信仰的人    [con-vert]
+ + convict    v.定罪；n.罪犯    [con-vict]
  - conviction    n.判罪；坚信    [con-vic-tion]
  - convince    v.使某人确信；说服    [con-vince]
  + credence    n.相信，信任    [cre-dence]
@@ -8468,6 +8503,7 @@
  - doting    a.溺爱的    [dot-ing]
  - drivel    n./v.说废话    [driv-el]
  - eccentric    a.古怪的，反常的；n.古怪的人    [ec-cen-tric]
+ - flip    v.用指轻弹；蹦跳；a.无礼的    [flip]
  - frantic    a.疯狂的，狂乱的    [fran-tic]
  + frenetic    a.狂乱的，发狂的    [fre-net-ic]
  + frenzy    n.极度激动的状态，狂暴    [fren-zy]
@@ -8588,6 +8624,7 @@
  + ominous    a.预兆的，不祥的    [om-i-nous]
  - oracle    n.代神发布神谕的人    [or-a-cle]
  + portentous    a.凶兆的，有危险的    [por-ten-tous]
+ - precursor    n.先驱，先兆    [pre-cur-sor]
  - pregnant    a.怀孕的；充满的    [preg-nant]
  - premise    n.前提    [prem-ise]
  - premonition    n.预感，预兆    [pre-mo-ni-tion]
@@ -8624,6 +8661,7 @@
  + conjecture    v./n.推测，臆测    [con-jec-ture]
  - divine    v.推测，预言    [di-vine]
  - gratuitous    a.无缘无故的；免费的    [gra-tu-i-tous]
+ - hazard    n.危险    [haz-ard]
  + hypothesis    n.假设，假说    [hy-poth-e-sis]
  - hypothetical    a.假设的    [hy-po-thet-i-cal]
  - impression    n.印象，感想；盖印，压痕    [im-pres-sion]
@@ -8816,6 +8854,7 @@
  - paraphrase    v.传译，释义    [par-a-phrase]
  - render    v.呈递，表现；提供    [ren-der]
  + rendering    n.演出；翻译    [ren-der-ing]
+ - spell    n.连续的一段时间    [spell]
  - unfold    v.展开，打开；逐渐呈现    [un-fold]
  - unravel    v.解开，拆散    [un-rav-el]
  - wit    n.智力，机智    [wit]
@@ -8903,6 +8942,7 @@
  - announce    v.宣布，发表；通报…的到来    [an-nounce]
  + apprise    v.通知，告诉    [ap-prise]
  - bit    n.钻头    [bit]
+ + blurt    v.脱口而出    [blurt]
  + communicate    v.传送信息，沟通    [com-mu-ni-cate]
  + cue    v.暗示，提示；n.暗示，提示    [cue]
  + disabuse    v.打消(某人的)错误念头；纠正    [dis-a-buse]
@@ -8983,9 +9023,11 @@
  - avow    v.承认；公开宣称    [a-vow]
  - bare    v.暴露；a.赤裸的    [bare]
  + betray    v.背叛；暴露    [be-tray]
+ - blurt    v.脱口而出    [blurt]
  - canary    n.金丝雀；女歌星    [ca-nar-y]
  - concede    v.承认(为正确)；让步    [con-cede]
  - confess    v.承认，供认    [con-fess]
+ - creep    v.匍匐前进；悄悄地移动    [creep]
  - denouement    n.(小说的)结尾，结局    [de-noue-ment]
  - disabuse    v.打消(某人的)错误念头；纠正    [dis-a-buse]
  - disclose    v.使某物显露    [dis-close]
@@ -8993,6 +9035,7 @@
  - exposition    n.阐释；博览会    [ex-po-si-tion]
  - exposure    n.暴露，显露，曝光    [ex-po-sure]
  + grant    v.同意给予    [grant]
+ - leak    v.泄漏；n.泄漏；漏出量，漏洞    [leak]
  - revelation    n.显示；泄露的事实    [rev-e-la-tion]
  + snitch    v.告密；偷    [snitch]
  - split    n./v.分裂，裂开    [split]
@@ -9032,6 +9075,7 @@
  + manifesto    n.宣言，声明    [man-i-fes-to]
  - notorious    a.臭名昭著的    [no-to-ri-ous]
  + poster    n.海报，招贴画    [post-er]
+ - press    v.挤压    [press]
  - proclaim    v.宣告，宣布；显示    [pro-claim]
  + proclamation    n.宣布，公告    [proc-la-ma-tion]
  + promulgate    v.颁布(法令)；宣传    [prom-ul-gate]
@@ -9045,6 +9089,7 @@
  - correspondent    a.符合的；n.记者    [cor-re-spond-ent]
  - dispatch    v.派遣；一下子做完；吃完；n.迅速    [dis-patch]
  + errand    n.差使；差事    [er-rand]
+ - press    v.挤压    [press]
  - rife    a.流行的，普遍的    [rife]
  + scandal    n.丑闻；恶意诽谤    [scan-dal]
  + tract    n.传单；大片土地    [tract]
@@ -9094,6 +9139,7 @@
  + emphatic    a.重视的，强调的    [em-phat-ic]
  + enunciate    v.发音；(清楚地)表达    [e-nun-ci-ate]
  - explicit    a.清楚明确的    [ex-plic-it]
+ - hold    n.(船)货舱    [hold]
  - marked    a.明显的；被监视的    [marked]
  + oath    n.誓言；咒骂    [oath]
  + peremptory    a.不容反抗的；专横的    [per-emp-to-ry]
@@ -9349,7 +9395,7 @@
  - nick    n.小伤口，刻痕    [nick]
  - overreach    v.做事过头    [o-ver-reach]
  - pitfall    n.陷阱，未料到的危险或困难    [pit-fall]
- + pluck    n.在困难面前足智多谋的勇气，胆量；精力；v.拔毛；弹拉    [pluck]
+ - pluck    n.在困难面前足智多谋的勇气，胆量；精力；v.拔毛；弹拉    [pluck]
  + prestigious    a.有名望的，有威信的    [pres-tig-ious]
  - sham    n.虚假；v.伪装    [sham]
  - snare    n.罗网，陷阱    [snare]
@@ -9364,6 +9410,7 @@
  - unsound    a.不结实的，不坚固的；无根据的    [un-sound]
  - veneer    n.(镶于劣质东西上的)镶面板；外表    [ve-neer]
  - victimize    v.使受害，迫害    [vic-tim-ize]
+ - wit    n.智力，机智    [wit]
 
 ***** untruth 546
 
@@ -9528,6 +9575,7 @@
  - expunge    v.删除    [ex-punge]
  - extinction    n.熄灭；消灭    [ex-tinc-tion]
  - obliterate    v.涂掉，擦掉    [o-blit-e-rate]
+ - raze    v.彻底破坏    [raze]
 
 ***** recorder 553
 
@@ -9796,6 +9844,8 @@
  - ramble    n./v.漫步    [ram-ble]
  - rant    v.咆哮；口出狂言    [rant]
  - redundancy    n.过剩；备份；似乎多余其实重要的后备力量    [re-dun-dan-cy]
+ - spin    v.旋转；纺，纺纱；n.旋转    [spin]
+ - swell    v.肿胀，增强    [swell]
  - verbiage    n.罗嗦，冗长    [ver-bi-age]
  + verbose    a.冗长的，罗嗦的    [ver-bose]
 
@@ -10052,6 +10102,7 @@
  + justification    n.正当理由，好的（正义的）原因；辨护    [jus-ti-fi-ca-tion]
  - matrix    n.模子；矩阵    [ma-trix]
  - offset    v.补偿，抵消    [off-set]
+ - press    v.挤压    [press]
  - revise    n./v.改变，修正    [re-vise]
  - scale    n.鱼鳞；(音乐)音阶    [scale]
  - shoulder    n.肩；路肩    [shoul-der]
@@ -10660,6 +10711,7 @@
 ***** intention 620
 
  - animus    n.敌意，憎恨    [an-i-mus]
+ - anvil    n.铁砧    [an-vil]
  - aspire    v.向往，有志于    [as-pire]
  - butt    v.用头抵撞，顶撞；n.粗大的一端；烟蒂    [butt]
  - compass    n.指南针，罗盘；界限，范围    [com-pass]
@@ -10746,6 +10798,7 @@
 
 ***** business 625
 
+ - anvil    n.铁砧    [an-vil]
  - beat    v.心跳；搅拌    [beat]
  + commission    n.委托；佣金    [com-mis-sion]
  - craft    n.行业；手艺    [craft]
@@ -11525,6 +11578,7 @@
  + blight    n.植物枯萎病；v.使…枯萎    [blight]
  + blighted    a.枯萎的；衰老的    [blighted]
  - collapse    v.坍塌，塌陷;虚脱，晕倒    [col-lapse]
+ - commission    n.委托；佣金    [com-mis-sion]
  - contaminate    v.使…受污染    [con-tam-i-nate]
  - corrode    v.腐蚀，侵蚀    [cor-rode]
  - corrupt    a.堕落的，腐败的；文体有错误的    [cor-rupt]
@@ -11825,7 +11879,9 @@
 ***** preparation 673
 
  - adjust    v.整顿，整理；适应    [ad-just]
+ - alert    a.警惕的，机警的; n.警报    [a-lert]
  - anticipate    v.预期，期待    [an-tic-i-pate]
+ - anvil    n.铁砧    [an-vil]
  - array    v.部署；n.陈列；大批    [ar-ray]
  - attune    (to)v.使调和    [at-tune]
  - barbecue    n.烤肉架；烤肉    [bar-be-cue]
@@ -11836,6 +11892,7 @@
  + fledge    v.小鸟长飞羽，变得羽毛丰满    [fledge]
  - forecast    v.预报，预测；n.预测    [fore-cast]
  - garnish    v.装饰    [gar-nish]
+ - hammer    n.锤子，槌    [ham-mer]
  - harness    n.马具；v.束以马具；利用    [har-ness]
  - hatch    n.船舱盖；v.孵化    [hatch]
  - inchoate    a.刚开始的；未发展的    [in-cho-ate]
@@ -11859,6 +11916,7 @@
  - ripen    v.使成熟    [rip-en]
  - scaffold    n.脚手架(造房时搭的架子)    [scaf-fold]
  - snug    a.温暖的，舒适的    [snug]
+ - table    v.搁置，不加考虑    [ta-ble]
  - temper    v.锤炼；缓和；n.脾气    [tem-per]
 
 ***** nonpreparation 674
@@ -11869,6 +11927,7 @@
  - extemporaneous    a.即席的，没有准备的    [ex-tem-po-ra-ne-ous]
  - extemporize    v.即席演说    [ex-tem-po-rize]
  - fallow    n.休耕地；a.(土地)休耕的    [fal-low]
+ - gear    n.齿轮；装备；仪器    [gear]
  - germ    n.胚芽，芽孢；微生物，细菌    [germ]
  - green    a.新鲜的，未成熟的，无经验的    [green]
  - improvident    a.无远见的，不节俭的    [im-prov-i-dent]
@@ -11892,6 +11951,7 @@
 
 ***** undertaking 676
 
+ - anvil    n.铁砧    [an-vil]
  - apprentice    n.学徒    [ap-pren-tice]
  - compact    a.结实的；简洁的；n.合同，协议    [com-pact]
  - contract    n.合同；v.订合同；收缩    [con-tract]
@@ -12760,6 +12820,7 @@
  - inroad    n.突袭；消耗    [in-road]
  - invade    v.侵犯，侵入    [in-vade]
  - malign    v.诽谤，中伤；a.邪恶的    [ma-lign]
+ + obsession    n.入迷；固执的念头    [ob-ses-sion]
  - offensive    a.令人不快的，得罪人的    [of-fen-sive]
  - onset    n.(坏情况)开始发作    [on-set]
  - poke    v.刺，戳；嘲弄    [poke]
@@ -12798,6 +12859,7 @@
  - mask    n.假面具；v.隐藏(感情)    [mask]
  - moat    n.壕沟；护城河    [moat]
  - munition    n.军火，弹药    [mu-ni-tion]
+ + mural    a.墙壁的；n.壁画    [mu-ral]
  - parry    v.挡开，避开(武器，问题等)    [par-ry]
  + rampart    n.壁垒；城墙    [ram-part]
  - repel    v.击退，使…反感    [re-pel]
@@ -12820,6 +12882,7 @@
 ***** resistance 719
 
  - confront    v.面临；对抗    [con-front]
+ - hold    n.(船)货舱    [hold]
  + insurrection    n.造反，叛乱    [in-sur-rec-tion]
  - oppose    v.反对    [op-pose]
  - rebuff    v.断然拒绝    [re-buff]
@@ -13030,13 +13093,16 @@
  - exhaust    n.(机器排出的)废气，蒸气；v.使非常疲倦    [ex-haust]
  - exhaustive    a.彻底的，无遗漏的    [ex-haus-tive]
  - finale    n.最后，最终；乐曲的最后部分    [fi-na-le]
+ - hammer    n.锤子，槌    [ham-mer]
  - issue    v.出来，流出；发给，分发；n.(书刊的)期    [is-sue]
  - ripen    v.使成熟    [rip-en]
  - stamp    v./n.跺脚；在…上盖印    [stamp]
  - terminus    n.(火车，汽车)终点站    [ter-mi-nus]
+ + wrought    a.做成的，精炼的    [wrought]
 
 ***** noncompletion 730
 
+ - anvil    n.铁砧    [an-vil]
  - collapse    v.坍塌，塌陷;虚脱，晕倒    [col-lapse]
  - sketchy    a.概略的，粗略的    [sketch-y]
 
@@ -13144,6 +13210,7 @@
  - disaster    n.灾难，大不幸    [dis-as-ter]
  - reverse    n.反面；相反；v.倒车；反转    [re-verse]
  - untoward    a.不幸的，(坏事)没料到的    [un-to-ward]
+ - wane    v.减少，衰微    [wane]
 
 ***** mediocrity 736
 
@@ -13444,6 +13511,7 @@
  - denizen    n.居民；外籍居民    [den-i-zen]
  - discretionary    a.自由决定的    [dis-cre-tion-ar-y]
  + exempt    a.被免除的；v.使免除    [ex-empt]
+ - harness    n.马具；v.束以马具；利用    [har-ness]
  + immunity    n.免疫；豁免    [im-mu-ni-ty]
  - irrepressible    a.无法约束或阻止的    [ir-re-press-i-ble]
  - latitude    n.言行自由；纬度    [lat-i-tude]
@@ -13464,6 +13532,7 @@
  - constraint    n.强制，强迫；对感情的压抑    [con-straint]
  - liability    n.责任；债务    [li-a-bil-i-ty]
  + servitude    n.奴役，劳役    [ser-vi-tude]
+ - sport    v.炫耀，卖弄    [sport]
  - subject    n.受支配的人，隶属    [sub-ject]
  - subjugate    v.征服，镇压    [sub-ju-gate]
  - submission    n.恭顺    [sub-mis-sion]
@@ -13480,6 +13549,7 @@
  - disentangle    v.解决，解脱，解开，澄清    [dis-en-tan-gle]
  - emancipate    v.解放，解除    [e-man-ci-pate]
  - extricate    v.拯救，救出    [ex-tri-cate]
+ - harness    n.马具；v.束以马具；利用    [har-ness]
  + liberate    v.释放，解放    [lib-er-ate]
  - loosen    v.变松，松开    [loos-en]
  + manumit    v.解放(奴隶)    [man-u-mit]
@@ -13593,6 +13663,7 @@
  - abolition    n.废除，革除    [ab-o-li-tion]
  - abrogate    v.废止，废除    [ab-ro-gate]
  + annul    v.宣告无效；取消    [an-nul]
+ - cast    n.演员阵容；剧团；v.扔；铸造    [cast]
  + countermand    v.撤回(命令)，取消(订货)    [coun-ter-mand]
  - depose    v.免职；作证    [de-pose]
  - deposition    n.免职；沉积；作证    [dep-o-si-tion]
@@ -13701,6 +13772,7 @@
  - exclusive    a.(人)孤僻的；(物)专用的    [ex-clu-sive]
  + forbid    v.不许，禁止；妨碍，阻止    [for-bid]
  + forbidding    a.(表情)冷峻的；形势险恶的    [for-bid-ding]
+ - hold    n.(船)货舱    [hold]
  + illegal    a.违法的    [il-le-gal]
  - inhibit    v.抑制    [in-hib-it]
  - injunction    n.命令，强制令    [in-junc-tion]
@@ -13732,6 +13804,7 @@
 
  - bid    v.命令；出价，投标    [bid]
  - bribe    v.贿赂    [bribe]
+ - hold    n.(船)货舱    [hold]
  - overture    n.前奏曲，序曲    [o-ver-ture]
  + presentation    n.表演，介绍，描述    [pres-en-ta-tion]
  - press    v.挤压    [press]
@@ -13965,6 +14038,7 @@
 
  - bereft    a.被剥夺的；缺少的    [be-reft]
  + deprivation    n.剥夺；缺乏    [dep-ri-va-tion]
+ - farewell    interj.再会，再见；n.辞行，告别    [fare-well]
  - forfeit    v.丧失，被罚没收；n.丧失物    [for-feit]
  - lapse    n.失误；(时间等)流逝    [lapse]
  + privation    n.丧失，贫困    [pri-va-tion]
@@ -14113,10 +14187,12 @@
  - lavish    a.浪费的；丰富的    [lav-ish]
  - legacy    n.遗产；遗留之物    [leg-a-cy]
  + liberality    n.慷慨；心胸开阔    [lib-er-al-i-ty]
+ - mete    v.给予，分配；测量；n.边界    [mete]
  - presentation    n.表演，介绍，描述    [pres-en-ta-tion]
  - render    v.呈递，表现；提供    [ren-der]
  - sacrifice    n.牺牲；v.宰牲祭神    [sac-ri-fice]
  - shed    v.流出(眼泪等)；脱落(叶子)    [shed]
+ - squeeze    v.压，挤；n.压榨，紧握    [squeeze]
  + subsidy    n.补助金    [sub-si-dy]
  + tribute    n.赞辞；贡物    [trib-ute]
 
@@ -14271,6 +14347,7 @@
 
  - bargain    n.交易; 物美价廉的东西；v.讨价还价    [bar-gain]
  - barter    v.易货贸易    [bar-ter]
+ - bid    v.命令；出价，投标    [bid]
  - dealing    n.生意行为；作风    [deal-ing]
  + huckster    n.叫卖小贩，零售商    [huck-ster]
  - interchangeable    a.可互换的    [in-ter-change-a-ble]
@@ -14336,6 +14413,7 @@
 
 ***** money 800
 
+ - blunt    a.钝的；直率的；v.变钝    [blunt]
  - check    v.使突然停止，阻止    [check]
  - circulate    v.循环；流通；发行    [cir-cu-late]
  - circulation    n.循环，流通；发行额    [cir-cu-la-tion]
@@ -14435,6 +14513,7 @@
  - release    v.释放，放出；n.释放    [re-lease]
  - retribution    n.报应，惩罚    [ret-ri-bu-tion]
  - settle    v.安置于；决定；栖息    [set-tle]
+ - shell    n.贝壳；炮弹；v.剥去…的壳    [shell]
  - stake    n.柱桩；赌注    [stake]
 
 ***** nonpayment 808
@@ -14459,6 +14538,7 @@
  - garnish    v.装饰    [gar-nish]
  - purchase    n.支点(阻止东西下滑)    [pur-chase]
  - quota    n.定额，配额    [quo-ta]
+ - shell    n.贝壳；炮弹；v.剥去…的壳    [shell]
  - subsidy    n.补助金    [sub-si-dy]
  - tribute    n.赞辞；贡物    [trib-ute]
 
@@ -14572,6 +14652,7 @@
  + insatiable    a.不能满足的，贪心的    [in-sa-tia-ble]
  - rapacious    a.强夺的，贪婪的    [ra-pa-cious]
  - ravenous    a.饿极了的，贪婪的    [rav-en-ous]
+ + sordid    a.卑鄙的；肮脏的    [sor-did]
  + voracious    a.狼吞虎咽的，贪婪的    [vo-ra-cious]
 
 ***** prodigality 818
@@ -14608,7 +14689,7 @@
  - rapacious    a.强夺的，贪婪的    [ra-pa-cious]
  - screw    n.螺丝钉，螺旋；吝啬鬼    [screw]
  + skinflint    n.吝啬鬼    [skin-flint]
- + sordid    a.卑鄙的；肮脏的    [sor-did]
+ - sordid    a.卑鄙的；肮脏的    [sor-did]
  - sparing    a.节俭的    [spar-ing]
  + stinginess    n.小气    [stin-gi-ness]
  - stingy    a.吝啬的，小气的    [stin-gy]
@@ -14940,6 +15021,7 @@
  - fret    n./v.(使)烦躁，焦虑    [fret]
  + grief    n.忧伤，悲伤    [grief]
  + grieve    v.使某人极为悲伤    [grieve]
+ - humor    v.纵容，迁就    [hu-mor]
  - incubus    n.恶梦；梦魇般的精神压力，负担    [in-cu-bus]
  - infelicitous    a.不幸的，不妥当的    [in-fe-lic-i-tous]
  - infelicity    n.不幸；不恰当    [in-fe-lic-i-ty]
@@ -15146,6 +15228,7 @@
  - exigent    a.需要立即采取行动的    [ex-i-gent]
  - fret    n./v.(使)烦躁，焦虑    [fret]
  - grumble    v.喃喃诉苦，发怨言    [grum-ble]
+ - humor    v.纵容，迁就    [hu-mor]
  + lament    v./n.悲伤；哀悼    [la-ment]
  - malcontent    a.不满的；n.不满分子，反抗者    [mal-con-tent]
  - mortification    n.耻辱，屈辱    [mor-ti-fi-ca-tion]
@@ -15153,6 +15236,7 @@
  - repine    v.不满，心中抱怨    [re-pine]
  - sulky    a.生气的    [sulk-y]
  - taking    a.楚楚动人的    [tak-ing]
+ - temper    v.锤炼；缓和；n.脾气    [tem-per]
 
 ***** regret 833
 
@@ -15241,6 +15325,7 @@
  - gravity    n.严肃，正经    [grav-i-ty]
  - grieve    v.使某人极为悲伤    [grieve]
  - grim    a.冷酷的，可怕的    [grim]
+ - humor    v.纵容，迁就    [hu-mor]
  - jaundiced    a.有偏见的    [jaun-diced]
  + lachrymose    a.好流泪的；引人落泪的    [lach-ry-mose]
  - lackadaisical    a.无精打采的；无兴趣的    [lack-a-dai-si-cal]
@@ -15275,6 +15360,7 @@
  + exult    v.欢腾，喜悦    [ex-ult]
  - flush    n./v.脸红；奔流；冲洗    [flush]
  + grin    v.露齿而笑    [grin]
+ - hail    n.冰雹；v.致敬    [hail]
  + jubilation    n.欢快，欢庆    [ju-bi-la-tion]
  + paean    n.赞美歌，颂歌    [pae-an]
  - rejoice    v.喜欢，高兴    [re-joice]
@@ -15510,6 +15596,7 @@
  - grim    a.冷酷的，可怕的    [grim]
  + grisly    a.恐怖的，可怕的    [gris-ly]
  - gross    a.总的；粗野的；n.整个，全部    [gross]
+ + harridan    n.凶恶的老妇，老巫婆    [har-ri-dan]
  - hideous    a.讨厌的，丑恶的    [hid-e-ous]
  - misshapen    a.畸形的，奇形怪状的    [mis-shap-en]
  - odious    a.可憎的，讨厌的    [o-di-ous]
@@ -15544,6 +15631,7 @@
  - embroider    v.刺绣，修饰    [em-broi-der]
  - enamel    n.珐琅，瓷釉    [e-nam-el]
  - epaulet    n.肩章，肩饰    [ep-au-let]
+ - fig    n.无花果；一点儿    [fig]
  - flourish    v.昌盛，兴旺；活跃而有影响    [flour-ish]
  - fret    n./v.(使)烦躁，焦虑    [fret]
  - fringe    n.(窗帘等)须边；边缘    [fringe]
@@ -15887,6 +15975,7 @@
  - fortitude    n.坚毅，坚韧不拔    [for-ti-tude]
  + gallant    a.勇敢的；(向女人)献殷勤的    [gal-lant]
  - hardy    a.耐寒的；强壮的    [har-dy]
+ - hold    n.(船)货舱    [hold]
  + intrepid    a.无畏的，刚毅的    [in-trep-id]
  - meet    a.合适的    [meet]
  - mettle    n.勇气，斗志    [met-tle]
@@ -16029,6 +16118,7 @@
  + antipathy    n.反感，厌恶    [an-tip-a-thy]
  + aversion    n.嫌恶，憎恨    [a-ver-sion]
  - avoid    v.避开，躲避    [a-void]
+ - conceit    n.自负，自大    [con-ceit]
  + detest    v.深恶，憎恶    [de-test]
  - disgust    n.反感，厌恶    [dis-gust]
  - eschew    v.避开，戒绝    [es-chew]
@@ -16065,6 +16155,7 @@
  - bore    v.钻孔；使厌烦；n.孔；令人厌烦的人    [bore]
  - glut    v./n.过多；供过于求    [glut]
  - gorge    n.峡谷    [gorge]
+ - hold    n.(船)货舱    [hold]
  - pall    v.令人发腻，失去吸引力    [pall]
  - quench    v.熄灭(火)；抑制(欲望)    [quench]
  + sate    v.使心满意足，使厌腻    [sate]
@@ -16085,6 +16176,7 @@
  - bewilder    v.迷惑，混乱    [be-wil-der]
  - confound    v.使迷惑，搞混    [con-found]
  - gape    v.裂开；目瞪口呆地凝视    [gape]
+ - hem    v.包围；n.袖边，边缘；interj.吞吞吐吐地说    [hem]
  + marvel    v.对…感到惊异；n.奇迹    [mar-vel]
  - petrify    v.石化；吓呆    [pet-ri-fy]
  - prodigious    a.巨大的    [pro-di-gious]
@@ -16135,6 +16227,7 @@
  + full-blown    a.(鲜花)盛开的    [full-blown]
  - galaxy    n.(银河)星群；显赫的人群    [gal-ax-y]
  + grandeur    n.壮丽，伟大    [gran-deur]
+ - hail    n.冰雹；v.致敬    [hail]
  - halo    n.(日、月等)晕，神像之光环    [ha-lo]
  - imposing    a.壮丽的，雄伟的    [im-pos-ing]
  - inscribe    v.在某物上写，题    [in-scribe]
@@ -16169,6 +16262,7 @@
  + abject    a.极可怜的;卑下的    [ab-ject]
  - blur    n.模糊不清的事物；v.使…模糊    [blur]
  - brand    n.商标；烙印；v.在某事物上打烙印    [brand]
+ - countenance    v.支持，赞成；容忍；n.表情    [coun-te-nance]
  - debase    v.贬低，贬损    [de-base]
  - defile    v.弄污，弄脏；n.(山间)小道    [de-file]
  - degradation    n.降低身份，受辱    [deg-ra-da-tion]
@@ -16193,6 +16287,7 @@
  - pitiful    a.值得同情的，可怜的    [pit-i-ful]
  + reprehend    v.谴责，责难    [rep-re-hend]
  + reproach    n.谴责，责骂    [re-proach]
+ - repute    n.名声，名誉    [re-pute]
  - ribald    a.下流的，粗鄙的    [rib-ald]
  - scandal    n.丑闻；恶意诽谤    [scan-dal]
  - slur    v.含糊不清地讲    [slur]
@@ -16237,9 +16332,11 @@
  + loutish    a.粗鲁的    [lout-ish]
  - low    v.牛叫    [low]
  - mean    a.卑贱的，吝啬的    [mean]
+ - mobility    n.可动性，流动性    [mo-bil-i-ty]
  - mushroom    n.蘑菇；v.雨后春笋般迅速发展    [mush-room]
  - obscure    a.难理解的；不清楚的；v.隐藏；使…模糊    [ob-scure]
  - obscurity    n.费解，不出名    [ob-scu-ri-ty]
+ + populace    n.民众，老百姓    [pop-u-lace]
  - rabble    n.乌合之众；下等人    [rab-ble]
  + raffish    a.粗俗的；俗艳的    [raff-ish]
  - rustic    a.乡村的，乡土气的    [rus-tic]
@@ -16292,6 +16389,7 @@
  - blush    v.因某事物脸红；n.因羞愧等脸上泛出的红晕    [blush]
  + condescend    v.屈尊，俯就    [con-de-scend]
  + condescending    a.谦逊的，故意屈尊的    [con-de-scend-ing]
+ - countenance    v.支持，赞成；容忍；n.表情    [coun-te-nance]
  + crestfallen    a.挫败的，失望的    [crest-fall-en]
  - deign    v.屈尊，惠允(做某事)    [deign]
  - demean    v.贬抑，降低    [de-mean]
@@ -16327,6 +16425,7 @@
  - blush    v.因某事物脸红；n.因羞愧等脸上泛出的红晕    [blush]
  - constrained    a.束缚的，节制的    [con-strained]
  - constraint    n.强制，强迫；对感情的压抑    [con-straint]
+ - countenance    v.支持，赞成；容忍；n.表情    [coun-te-nance]
  - coy    a.腼腆的，忸怩的    [coy]
  - diffident    a.缺乏自信的    [dif-fi-dent]
  - humble    a.卑微的；v.使谦卑    [hum-ble]
@@ -16384,6 +16483,7 @@
  - ceremony    n.典礼，仪式    [cer-e-mo-ny]
  - commemorate    v.纪念(伟人、大事件等)    [com-mem-o-rate]
  - coronation    n.加冕    [cor-o-na-tion]
+ - hail    n.冰雹；v.致敬    [hail]
  + hallow    v.把…视为神圣，尊敬    [hal-low]
  - inaugurate    v.举行就职典礼；开创    [in-au-gu-rate]
  - install    v.安装，装置；使就职    [in-stall]
@@ -16782,7 +16882,7 @@
  - tiff    n.吵嘴，呕气    [tiff]
  - umbrage    n.不快，愤怒    [um-brage]
  - virulent    a.剧毒的；恶毒的    [vir-u-lent]
- + wrought    a.做成的，精炼的    [wrought]
+ - wrought    a.做成的，精炼的    [wrought]
 
 ***** irascibility 901
 
@@ -16794,6 +16894,7 @@
  - cross    a.生气的    [cross]
  - excitability    n.易兴奋性，易激动性    [ex-cit-a-bil-i-ty]
  + fractious    a.(脾气)易怒的，好争吵的    [frac-tious]
+ - fret    n./v.(使)烦躁，焦虑    [fret]
  - hasty    a.急急忙忙的    [has-ty]
  + irascible    a.易发怒的    [i-ras-ci-ble]
  - irritable    a.易怒的；易受刺激的    [ir-ri-ta-ble]
@@ -16822,6 +16923,7 @@
  - glower    v.怒目而视    [glow-er]
  - grim    a.冷酷的，可怕的    [grim]
  + grouch    n.牢骚，不满    [grouch]
+ - humor    v.纵容，迁就    [hu-mor]
  - intractable    a.倔强的；难管的    [in-trac-ta-ble]
  + morose    a.阴郁的    [mo-rose]
  - obstinacy    n.固执，倔强，顽固    [ob-sti-na-cy]
@@ -16833,6 +16935,7 @@
  - sulky    a.生气的    [sulk-y]
  - sullen    a.忧郁的    [sul-len]
  - surly    a.脾气暴躁的；阴沉的    [sur-ly]
+ - temper    v.锤炼；缓和；n.脾气    [tem-per]
 
 ***** endearment 902
 
@@ -16937,6 +17040,8 @@
  + anathema    n.被诅咒的人；宗教意义的诅咒    [a-nath-e-ma]
  - aspersion    n.诽谤，中伤    [as-per-sion]
  - ban    n.禁令    [ban]
+ - blast    >n.一阵(大风)；冲击波；v.爆破；枯萎    [blast]
+ - confound    v.使迷惑，搞混    [con-found]
  + denounce    v.指责    [de-nounce]
  + denunciation    n.谴责，斥责    [de-nun-ci-a-tion]
  - execrate    v.憎恶；咒骂    [ex-e-crate]
@@ -16945,6 +17050,7 @@
  - oath    n.誓言；咒骂    [oath]
  - proscribe    v.禁止    [pro-scribe]
  - threat    n.威胁，恐吓；凶兆    [threat]
+ - woe    n.悲痛，苦难    [woe]
 
 ***** threat 909
 
@@ -16995,6 +17101,7 @@
  - bully    v.以强欺弱，威胁；n.欺负别人者    [bul-ly]
  + cougar    n.美洲豹    [cou-gar]
  + gorilla    n.大猩猩    [go-ril-la]
+ - iconoclast    n.攻击传统观念或风俗的人    [i-con-o-clast]
  - incendiary    a.放火的，纵火的    [in-cen-di-ar-y]
  - mosquito    n.蚊子    [mos-qui-to]
  + ruffian    n.恶棍，歹徒；a.残暴的    [ruf-fi-an]
@@ -17235,7 +17342,7 @@
  - renounce    v.(正式)放弃    [re-nounce]
  - repudiate    v.拒绝，抛弃    [re-pu-di-ate]
  - slight    a.微小的；n./v.轻蔑    [slight]
- + trample    v.踩坏，践踏    [tram-ple]
+ - trample    v.踩坏，践踏    [tram-ple]
  - transgress    v.冒犯，违背    [trans-gress]
  - transgression    n.违法，罪过    [trans-gres-sion]
  - violate    v.违反，触犯    [vi-o-late]
@@ -17950,7 +18057,7 @@
 
  - drab    a.枯黄色的；无聊的    [drab]
  - gallant    a.勇敢的；(向女人)献殷勤的    [gal-lant]
- + harridan    n.凶恶的老妇，老巫婆    [har-ri-dan]
+ - harridan    n.凶恶的老妇，老巫婆    [har-ri-dan]
  - jade    n.疲惫的老马；玉，翡翠    [jade]
  - libertine    n.性行为放纵者，浪荡的人    [lib-er-tine]
  - pander    v.怂恿，迎合(不良欲望)    [pan-der]
@@ -18084,7 +18191,7 @@
  - cast    n.演员阵容；剧团；v.扔；铸造    [cast]
  - condemn    v.极力谴责；判刑    [con-demn]
  - confiscate    v.没收；充公    [con-fis-cate]
- + convict    v.定罪；n.罪犯    [con-vict]
+ - convict    v.定罪；n.罪犯    [con-vict]
  - conviction    n.判罪；坚信    [con-vic-tion]
  - guilty    a.有罪的    [guilt-y]
  + penalty    n.刑罚，处罚    [pen-al-ty]
@@ -18333,6 +18440,7 @@
  + sanctimonious    a.假装神圣的    [sanc-ti-mo-ni-ous]
  - scoff    v.嘲笑；狼吞虎咽；n.嘲笑，笑柄    [scoff]
  - unctuous    a.油质的；油腔滑调的    [unc-tu-ous]
+ - wicked    a.极坏的；淘气的    [wick-ed]
 
 ***** irreligion 989
 
@@ -18574,7 +18682,6 @@
  + blowhard    n.自吹自擂者    [blow-hard]
  + blueprint    n.蓝图；方案    [blue-print]
  + blurb    n.简介；印在书籍封套上的推荐广告    [blurb]
- + blurt    v.脱口而出    [blurt]
  + boost    v.往上推；增加，提高    [boost]
  + brassy    a.厚脸皮的，无礼的    [brass-y]
  + bromide    n.平庸的人或话    [bro-mide]
@@ -18740,7 +18847,6 @@
  + feedback    n.(信息的)反馈    [feed-back]
  + felon    n.重罪犯    [fel-on]
  + feral    a.凶猛的，野的    [fe-ral]
- + ferret    n.雪貂；v.用雪貂猎取；搜寻    [fer-ret]
  + ferrous    a.含铁的    [fer-rous]
  + fertilizer    n.肥料，化肥    [fer-ti-liz-er]
  + fetus    n.胎儿    [fe-tus]
@@ -18913,7 +19019,6 @@
  + mores    n.风俗习惯，道德观念    [mo-res]
  + motif    n.(作品)主题，主旨    [mo-tif]
  + motility    n.运动性    [mo-til-i-ty]
- + mural    a.墙壁的；n.壁画    [mu-ral]
  + muse    v.沉思，冥想    [muse]
  + musicologist    n.音乐学者    [mu-si-col-o-gist]
  + mutate    v.变异    [mu-tate]
@@ -18936,7 +19041,6 @@
  + oafishness    n.痴呆    [oafishness]
  + obsess    v.迷住；使…困窘，使…烦扰    [ob-sess]
  + obsessed    a.心神不宁的    [obsessed]
- + obsession    n.入迷；固执的念头    [ob-ses-sion]
  + obsolescent    a.即将过时的    [ob-so-les-cent]
  + odyssey    n.长途的冒险旅行    [odyssey]
  + offbeat    a.不规则的，不平常的    [off-beat]
@@ -19005,7 +19109,6 @@
  + pollen    n.花粉    [pol-len]
  + pollinate    v.给…授粉    [pol-li-nate]
  + pollster    n.民意测验家    [poll-ster]
- + populace    n.民众，老百姓    [pop-u-lace]
  + poseur    n.装模作样的人    [po-seur]
  + posit    v.断定，认为    [pos-it]
  + potentiate    v.加强(力量，效果)    [po-ten-ti-ate]
