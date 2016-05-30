@@ -3,6 +3,12 @@
 $words = open('GRE红宝书.txt','r:gbk:utf-8').each_line.map{|line|line.tap(&:chomp!).split("\t")}.inject({}){|h,(k,v)|h[k]=v;h};
 
 p $words.size
+if false
+  $words = open('wordlist/gre3000.txt','r:utf-8').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
+  OUT = "output/output_#{$words.size}_tree.txt"
+  p OUT
+  #gets
+end
 
 $index = open('10681-index.txt','r:MacRoman:utf-8').read.scan(/((.+)\n(        .+ \d.*\n)+)/).map{|w,_|
   w.split("\n").map(&:strip)
@@ -35,7 +41,7 @@ p $group.size
 $index.each_key{|x|
   #fail if x=='obsession!'
   if x[/ |!/]
-    w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out','against']
+    w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out','against','after']
     if x=='obsession!'
       p x,w
       #gets
@@ -90,8 +96,8 @@ $text = $group.keys.inject({}){|a,key|
 
 p $text.first
 #OUT = "output/output_#{$ab.size}_tree.txt"
-OUT = "word_tree_6000.txt"
-OUT = "output_6000_tree.txt"
+#OUT = "word_tree_6000.txt"
+OUT ||= "output_6000_tree.txt"
 open(OUT,"w:utf-8"){|out|
   out.puts "* Word Tree / Roget's Thesaurus\n\n\n"
 
