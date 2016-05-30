@@ -1,17 +1,6 @@
 ﻿#coding: utf-8
 module Enumerable
-  def stable_sort
-    sort_by.with_index { |x, idx| [x, idx] }
-  end
-
   def stable_sort_by
-    sort_by.with_index { |x, idx| [yield(x), idx] }
-  end
-  def stable_sort_by
-    self.map.with_index{|x,i|[x,i]}.sort.map(&:first)
-  end
-  def stable_sort_by
-    #sort_by!{|x|x[3..-1]}#x[/(\w\S*)/].downcase}
     self
   end
 end
@@ -27,12 +16,34 @@ when 2
 else
 
 end
-$k = open('10681-index.txt','r:MacRoman').read.scan(/((.+)\n(        .+ \d.*\n)+)/).map{|w,_|
+
+
+#load Rogot's
+$k = open('10681-index.txt','r:MacRoman:utf-8').read.scan(/((.+)\n(        .+ \d.*\n)+)/).map{|w,_|
   w.split("\n").map(&:strip)
 }
 p $k.assoc("abide")
+$rogot_keys = $k.map(&:first)*"\n"
+#def rogot
+#  k = $k.map(&:first)
+#  d = $k.inject({'a'=>1}){|a,b|a[b[0]]=b;a}
+#  k.each{|x|
+#    if x[' ']
+#      x.split.each{|e|
+#        #$k[e] &=  $ unless d[e]
+#        if !d[e]
+#          $k << [e,*d[x].drop(1)]
+#          p [$k.last,e,x]
+#          gets
+#        end
+#      }
+#    end
+#  }
+#end
+#rogot
+#k2 = $k.select{|w|w.first[' '] && w.first.split.any?{|x|$ab[x]}}
 
-$k.select!{|w|$ab[w.first]}
+$k.select!{|w|$ab[w.first]} #
 $my_keys = $k.map(&:first)
 
 $dict = {}
@@ -75,3 +86,14 @@ open(OUT,"w:utf-8"){|out|
 }
 
 p :ok
+
+($ab.keys-$my_keys).each{|x|
+  t= $rogot_keys.scan /^.*\b#{x}\b.*$/
+  p [x,t] if !t.empty?
+}
+
+#p k2.size
+#k2 = $k.select{|w|w.first[' '] && w.first.split.any?{|x|$ab[x]}}
+#k2.each{|key,*value|key.}
+#gets
+#mores
