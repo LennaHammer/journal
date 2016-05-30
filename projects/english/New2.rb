@@ -35,7 +35,7 @@ p $group.size
 $index.each_key{|x|
   #fail if x=='obsession!'
   if x[/ |!/]
-    w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out']
+    w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out','against']
     if x=='obsession!'
       p x,w
       #gets
