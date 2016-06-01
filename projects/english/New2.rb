@@ -115,7 +115,7 @@ $mobythes ||= open('mobythes.aur','r:ascii').each_line("\r").map{|line|
   line.tap(&:chomp!).split(",")
 };
 p $mobythes.last
-true or $mobythes.concat open('userthes.txt','r:ascii').each_line("\n").map{|line|
+false or $mobythes.concat open('userthes.txt','r:ascii').each_line("\n").map{|line|
   line.tap(&:chomp!).split(",")
 };
 p $mobythes.last

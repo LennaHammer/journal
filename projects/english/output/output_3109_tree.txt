@@ -560,6 +560,7 @@
  - coalesce        [co-a-lesce]
  + commingle       [com-min-gle]
  + compound        [com-pound]
+ + conflate        [con-flate]
  + ensemble        [en-sem-ble]
  + hodgepodge      [hodge-podge]
  - homogenize      [ho-mog-e-nize]
@@ -692,6 +693,7 @@
  - amalgamate      [a-mal-gam-ate]
  - coalesce        [co-a-lesce]
  - compound        [com-pound]
+ - conflate        [con-flate]
  - consolidate     [con-sol-i-date]
  - ingrained       [in-grained]
  - synthesis       [syn-the-sis]
@@ -959,6 +961,7 @@
 
 ***** assemblage 72
 
+ + accrete         [ac-crete]
  + accumulate      [ac-cu-mu-late]
  - aggregate       [ag-gre-gate]
  - array           [ar-ray]
@@ -5608,6 +5611,7 @@
  + astute          [as-tute]
  + canny           [can-ny]
  - cogent          [co-gent]
+ + commonsensical  [com-mon-sen-si-cal]
  + cunning         [cun-ning]
  - discern         [dis-cern]
  + discreet        [dis-creet]
@@ -5683,6 +5687,7 @@
 
 ***** sanity 502
 
+ - commonsensical  [com-mon-sen-si-cal]
  + levelheaded     [levelheaded]
  - lucid           [lu-cid]
  - rational        [ra-tion-al]
@@ -6526,6 +6531,7 @@
 
  - archaic         [ar-cha-ic]
  + argot           [ar-got]
+ + demotic         [de-mot-ic]
  - jargon          [jar-gon]
  - obsolete        [ob-so-lete]
  + pseudonym       [pseu-do-nym]
@@ -7156,6 +7162,7 @@
  - adhere          [ad-here]
  + banal           [ba-nal]
  - cling           [cling]
+ - demotic         [de-mot-ic]
  + devoted         [de-vot-ed]
  - frequent        [fre-quent]
  - groove          [groove]
@@ -7441,6 +7448,7 @@
 
 ***** store 636
 
+ - accrete         [ac-crete]
  - accumulate      [ac-cu-mu-late]
  + cache           [cache]
  - conservatory    [con-serv-a-to-ry]
@@ -7485,6 +7493,7 @@
  - moderate        [mod-er-ate]
  - myriad          [myr-i-ad]
  - plenitude       [plen-i-tude]
+ + plentitude      [plentitude]
  + prodigal        [prod-i-gal]
  - profusion       [pro-fu-sion]
  - rampant         [ram-pant]
@@ -8572,6 +8581,7 @@
  + exacting        [ex-act-ing]
  - flounder        [floun-der]
  + formidable      [for-mi-da-ble]
+ + glitch          [glitch]
  + grueling        [gru-el-ing]
  + hard-bitten     [hard-bit-ten]
  - hobble          [hob-ble]
@@ -8640,6 +8650,7 @@
  + faze            [faze]
  - foil            [foil]
  - frustrate       [frus-trate]
+ - glitch          [glitch]
  - hamper          [ham-per]
  + impede          [im-pede]
  - lumber          [lum-ber]
@@ -12474,6 +12485,7 @@
  - lax             [lax]
  - malevolent      [ma-lev-o-lent]
  - misbehaving     [mis-be-hav-ing]
+ + misdemeanour    [misdemeanour]
  + nefarious       [ne-far-i-ous]
  - obdurate        [ob-du-rate]
  - outrageous      [out-ra-geous]
@@ -12508,6 +12520,7 @@
  - guilt           [guilt]
  - iniquity        [in-iq-ui-ty]
  - lapse           [lapse]
+ - misdemeanour    [misdemeanour]
  - sin             [sin]
  - trespass        [tres-pass]
 
@@ -13014,18 +13027,11 @@
 
 * 
 
- + accrete         [ac-crete]
- + commonsensical  [com-mon-sen-si-cal]
- + demotic         [de-mot-ic]
  + divestiture     [di-vest-i-ture]
  + egalitarian     [e-gal-i-tar-i-an]
- + glitch          [glitch]
  + irradicable     [irradicable]
  + juggernaut      [jug-ger-naut]
- + misdemeanour    [misdemeanour]
  + naysay          [naysay]
- + plentitude      [plentitude]
  + potentiate      [po-ten-ti-ate]
  + reconvene       [re-con-vene]
- + conflate        [con-flate]
  + showmanship     [show-man-ship]
