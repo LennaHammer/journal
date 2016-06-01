@@ -114,6 +114,9 @@ $index.each_key{|x|
 $mobythes ||= open('mobythes.aur','r:ascii').each_line("\r").map{|line|
   line.tap(&:chomp!).split(",")
 };
+$mobythes << open('userthes.txt','r:ascii').each_line.map{|line|
+  line.tap(&:chomp!).split(",")
+};
 def ex
   g = Hash.new{|h,k|h[k]={}}
   #$gr = Hash.new{|h,k|h[k]={}}
@@ -131,13 +134,21 @@ def ex
     topics = g[x].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
     topics.each{|g|$group[g]|=[x]}
   }
+  ($words.keys).each{|x|
+    topics = g[x].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(1)
+    topics.each{|g|$group[g]|=[x]}
+  }
 end
 ex
-p $words.keys-$full_list
-($words.keys-$full_list).each{|x|
-  topics = ($mobythes.assoc(x)||[]).flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
-  topics.each{|g|$group[g]|=[x]}
-}
+#p $words.keys-$full_list
+#($words.keys-$full_list).each{|x|
+#  topics = ($mobythes.assoc(x)||[]).flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
+#  topics.each{|g|$group[g]|=[x]}
+#}
+#($words.keys).each{|x|
+#  topics = ($mobythes.assoc(x)||[]).flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(1)
+#  topics.each{|g|$group[g]|=[x]}
+#}
 #gets
 p $group.size
 
