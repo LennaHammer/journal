@@ -1,5 +1,9 @@
 ﻿#coding: utf-8
 
+FAST = false
+def stable_sort_by
+  #sort_by.with_index{|x,id|[yield x,id]}
+end
 $words = open('GRE红宝书.txt','r:gbk:utf-8').each_line.map{|line|line.tap(&:chomp!).split("\t")}.inject({}){|h,(k,v)|h[k]=v;h};
 
 p $words.size
@@ -9,7 +13,7 @@ p $words.size
 #  p OUT
 #  #gets
 #end
-case 0
+case 3
 when 1
   $words = open('wordlist/托福单词.txt','r:utf-8:utf-8').each_line.map{|line|line.tap(&:chomp!).split("\t")}.inject({}){|h,(k,v)|h[k]=v;h};
   OUT = "output/output_#{$words.size}_tree.txt"
@@ -19,12 +23,14 @@ when 2
   OUT = "output/output_#{$words.size}_tree.txt"
 when 3
   $words = open('wordlist/gre3000.txt','r:utf-8').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
+  $gg = ->(w){sprintf(" %s %-16s[%s]",($count[w]==1 ? '+' : '-'),w,$mhyph[w]||w)}
   OUT = "output/output_#{$words.size}_tree.txt"
 end
 
 $index = open('10681-index.txt','r:MacRoman:utf-8').read.scan(/((.+)\n(        .+ \d.*\n)+)/).map{|w,_|
   w.split("\n").map(&:strip)
 }
+#$index
 p $index.size
 p $index.assoc("abide")
 p $index.assoc("abut on")
@@ -32,10 +38,35 @@ p $index.assoc("abut on")
 $rogot_keys = $index.map(&:first)*"\n"
 #$k1=$index.map(&:first)
 $index = $index.inject({}){|a,b|a[b.shift]=b;a}
+#$index['cliché']=$index['clich_?']
+p $index['cliché']
+
+p $index['clich_?']
+p $index["clich_\u00A8"]
+p 'cliché'
+p $index.keys.find{|x|x=~/^clich/}
+$index['cliche'] = $index["clich_\u00A8"]
+p $index['cliché']
+p $index['cliche']
+#gets 
+p $index['blase']
+
+#$index.merge!{
+#'cliché'=>$index['clich_?'],
+#'blasé'=>$index['blase'],
+#}
 p $index.size
 #p $index['felon'];gets
 #$keys = $index2.keys#.map(&:first)
 #p $keys.size
+$words.each_key{|x|
+if x["é"]
+  y = x.gsub("é","e")
+  fail "#{x},#{y},#{$index[x]}" if $index[x]
+  $index[x] = $index[y] if $index[y] 
+end
+}
+
 $full_list = $index.keys
 
 
@@ -63,16 +94,16 @@ $index.each_key{|x|
       w = w[0]
       #p [w,$index[w],x,$index[x]]
       #gets
-#      if w=='obsession!'#'abut'
-#        p w,$index[x]
-#        #gets
-#        $index[x].each{|group|
-#          p $group[group]
-#          $group[group]|=[w]
-#          p $group[group]
-#          gets
-#        }
-#      end
+      #      if w=='obsession!'#'abut'
+      #        p w,$index[x]
+      #        #gets
+      #        $index[x].each{|group|
+      #          p $group[group]
+      #          $group[group]|=[w]
+      #          p $group[group]
+      #          gets
+      #        }
+      #      end
       $index[x].each{|group|
         $group[group]|=[w]
       }
@@ -97,9 +128,9 @@ def ex
   p :fast
   #p $words.keys-$full_list
   ($words.keys-$full_list).each{|x|
-  topics = g[x].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
-  topics.each{|g|$group[g]|=[x]}
-}
+    topics = g[x].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
+    topics.each{|g|$group[g]|=[x]}
+  }
 end
 ex
 p $words.keys-$full_list
@@ -114,8 +145,8 @@ p $group.size
 $count = Hash.new(0)
 
 def gg(w)
-  return $gg.(w) if $gg
   $count[w]+=1
+  return $gg.(w) if $gg
   " #{$count[w]==1 ? '+' : '-'} #{w}    #{$words[w]}    [#{$mhyph[w]||w}]"
 end
 
@@ -126,11 +157,11 @@ $mhyph = {}&&open('mhyph.txt','r:MacRoman:utf-8').each_line.inject({}){|a,b|b.ch
 $text = $group.keys.inject({}){|a,key|
 
   a[key[/\d+.*$/]] = ->{"***** #{key}\n\n"<<($group[key].select{|x|$words[x]}.sort.map{|w| gg(w)<<""}*"\n")}
-  if key == 'bad man 949'
-    p key[/\d+.*$/];
-    p a[key[/\d+.*$/]]#.()
-    #gets
-  end
+#  if key == 'bad man 949'
+#    p key[/\d+.*$/];
+#    p a[key[/\d+.*$/]]#.()
+#    #gets
+#  end
   a
 }
 
@@ -161,35 +192,35 @@ $mobythes ||= open('mobythes.aur','r:ascii').each_line("\r").map{|line|
   line.tap(&:chomp!).split(",")
 };
 def dfdfd
-$x = open('mobythes.aur','r:ascii').each_line("\r").map{|line|
-  line.tap(&:chomp!).split(",")
-};
+  $x = open('mobythes.aur','r:ascii').each_line("\r").map{|line|
+    line.tap(&:chomp!).split(",")
+  };
 
-p $x.assoc("abase")
-$g = Hash.new{|h,k|h[k]={}}
-#$gr = Hash.new{|h,k|h[k]={}}
-$x.each{|xs|
-  a = xs.shift
-  xs.each{|b|
-    $g[a][b] = true
-    $g[b][a] = true
+  p $x.assoc("abase")
+  $g = Hash.new{|h,k|h[k]={}}
+  #$gr = Hash.new{|h,k|h[k]={}}
+  $x.each{|xs|
+    a = xs.shift
+    xs.each{|b|
+      $g[a][b] = true
+      $g[b][a] = true
+    }
   }
-}
 end
 #dfdfd
 $rest.each{|x|
-p x
+  p x
   # p $g[x].keys.sort
- p $mobythes.assoc(x)
-#p $group.each_pair.select{|k,v|(v&($mobythes.assoc(x)||[])).size>3}.map{|k,v|k}
-p ($mobythes.assoc(x)||[]).flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse#.take(3)
-   gets
+  p $mobythes.assoc(x)
+  #p $group.each_pair.select{|k,v|(v&($mobythes.assoc(x)||[])).size>3}.map{|k,v|k}
+  p ($mobythes.assoc(x)||[]).flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse#.take(3)
+  gets
   t= $rogot_keys.scan /^.*\b#{x}\b.*$/
 
-   if !t.empty?
-   p [x,t]
+  if !t.empty?
+    p [x,t]
 
-   end
+  end
 }
 p :ok2
 gets
