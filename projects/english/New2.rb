@@ -114,9 +114,14 @@ $index.each_key{|x|
 $mobythes ||= open('mobythes.aur','r:ascii').each_line("\r").map{|line|
   line.tap(&:chomp!).split(",")
 };
-$mobythes << open('userthes.txt','r:ascii').each_line.map{|line|
+p $mobythes.last
+true or $mobythes.concat open('userthes.txt','r:ascii').each_line("\n").map{|line|
   line.tap(&:chomp!).split(",")
 };
+p $mobythes.last
+p $mobythes.assoc('zoom')
+p $mobythes.assoc('accrete')
+#gets
 def ex
   g = Hash.new{|h,k|h[k]={}}
   #$gr = Hash.new{|h,k|h[k]={}}
