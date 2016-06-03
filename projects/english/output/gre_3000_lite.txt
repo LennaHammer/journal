@@ -1,0 +1,6154 @@
+* Word Tree / Roget's Thesaurus
+
+
+﻿* Class I. Words Expressing Abstract Relations
+
+** Section I. Existence
+
+*** 1. Being, in The Abstract
+
+***** existence 1
+
+ + extant          [ex-tant]
+ + substantive     [sub-stan-tive]
+
+***** inexistence 2
+
+ + nil             [nil]
+ + obliterate      [o-blit-e-rate]
+
+*** 2. Being, In The Concrete
+
+***** 3. substantiality
+
+***** unsubstantiality 4
+
+ + ethereal        [e-the-re-al]
+ + incogitant      [in-cog-i-tant]
+ + vacuous         [vac-u-ous]
+
+*** 3. Formal Existence
+
+***** intrinsicality 5
+
+ + ethos           [e-thos]
+ + immanent        [im-ma-nent]
+ + indigenous      [in-dig-e-nous]
+ + inherent        [in-her-ent]
+ + intrinsic       [in-trin-sic]
+
+***** 6. extrinsicality
+
+*** 4. Modal Existence
+
+***** 7. state
+
+***** circumstance 8
+
+ + adventitious    [ad-ven-ti-tious]
+ + posture         [pos-ture]
+
+** Section II. Relation
+
+*** 1. Absolute Relation
+
+***** 9. relation
+
+***** irrelation 10
+
+ + extraneous      [ex-tra-ne-ous]
+
+***** consanguinity 11
+
+ + kindred         [kin-dred]
+
+***** correlation 12
+
+***** identity 13
+
+ + coalesce        [co-a-lesce]
+
+***** contrariety 14
+
+***** difference 15
+
+ + distinctive     [dis-tinc-tive]
+ + diversity       [di-ver-si-ty]
+ + nuance          [nu-ance]
+
+*** 2. Continuous Relation
+
+***** uniformity 16
+
+ + homogenize      [ho-mog-e-nize]
+
+***** Nonuniformity 16.a
+
+*** 3. Partial Relation
+
+***** similarity 17
+
+ + affinity        [af-fin-i-ty]
+ + analogous       [a-nal-o-gous]
+ + correlate       [cor-re-late]
+ + counterpart     [coun-ter-part]
+ + parity          [par-i-ty]
+ + simile          [sim-i-le]
+
+***** dissimilarity 18
+
+***** imitation 19
+
+ + caricature      [car-i-ca-ture]
+ + parody          [par-o-dy]
+ + parrot          [par-rot]
+ + travesty        [trav-es-ty]
+
+***** nonimitation 20
+
+ + innovative      [in-no-va-tive]
+
+***** variation 20.a
+
+***** copy 21
+
+***** prototype 22
+
+ + archetype       [ar-che-type]
+ + paradigm        [par-a-digm]
+
+*** 4. General Relation
+
+***** agreement 23
+
+ + adapt           [a-dapt]
+ + applicable      [ap-pli-ca-ble]
+ + apposite        [ap-po-site]
+ + apropos         [ap-ro-pos]
+ + commensurate    [com-men-su-rate]
+ + compatible      [com-pat-i-ble]
+ + congruent       [con-gru-ent]
+ + consonant       [con-so-nant]
+ + germane         [ger-mane]
+ + pertinent       [per-ti-nent]
+ + rapport         [rap-port]
+
+***** disagreement 24
+
+ + discrepancy     [dis-crep-an-cy]
+ + incongruent     [in-con-gru-ent]
+
+** Section III. Quantity
+
+*** 1. Simple Quantity
+
+***** quantity 25
+
+***** degree 26
+
+*** 2. Comparative Quantity
+
+***** equality 27
+
+ + equilibrium     [e-qui-lib-ri-um]
+ + tantamount      [tan-ta-mount]
+
+***** inequality 28
+
+ + lopsided        [lop-sid-ed]
+
+***** mean 29
+
+***** compensation 30
+
+ + countervail     [coun-ter-vail]
+ + indemnity       [in-dem-ni-ty]
+ + neutralize      [neu-tral-ize]
+
+*** 1 Quantity by Comparison with a Standard
+
+***** greatness 31
+
+ + absolute        [ab-so-lute]
+ + abundant        [a-bun-dant]
+ + august          [au-gust]
+ + considerable    [con-sid-er-a-ble]
+ + consummate      [con-sum-mate]
+ + crass           [crass]
+ + desperate       [des-per-ate]
+ + exorbitant      [ex-or-bi-tant]
+ + extravagant     [ex-trav-a-gant]
+ + fabulous        [fab-u-lous]
+ + ineffable       [in-ef-fa-ble]
+ + magnitude       [mag-ni-tude]
+ + outrageous      [out-ra-geous]
+ + preposterous    [pre-pos-ter-ous]
+ + prodigious      [pro-di-gious]
+ + scrap           [scrap]
+ + shred           [shred]
+ + sound           [sound]
+ + splinter        [splin-ter]
+ + strength        [strength]
+ + sublime         [sub-lime]
+ + transcend       [tran-scend]
+ + utter           [ut-ter]
+
+***** smallness 32
+
+ + cast            [cast]
+ + diminish        [di-min-ish]
+ + evanescent      [ev-a-nes-cent]
+ + inch            [inch]
+ + jot             [jot]
+ + meager          [mea-ger]
+ + minute          [mi-nute]
+ + minutiae        [mi-nu-ti-ae]
+ + moderate        [mod-er-ate]
+ + moderation      [mod-er-a-tion]
+ + modicum         [mod-i-cum]
+ + paltry          [pal-try]
+ + paucity         [pau-ci-ty]
+ + petty           [pet-ty]
+ + pinpoint        [pin-point]
+ + scant           [scant]
+ + scruple         [scru-ple]
+ + shadow          [shad-ow]
+ + shallow         [shal-low]
+ + slight          [slight]
+ + sparing         [spar-ing]
+ + speck           [speck]
+ + stolid          [stol-id]
+ + subtle          [sub-tle]
+ + tinge           [tinge]
+
+*** 2 Quantity by Comparison with a Similar Object
+
+***** superiority 33
+
+ + ascendant       [as-cend-ant]
+
+***** inferiority 34
+
+*** 3 Changes in Quantity
+
+***** increase 35
+
+ + proliferate     [pro-lif-er-ate]
+
+***** nonincrease, decrease 36
+
+ + abate           [a-bate]
+ + subside         [sub-side]
+
+*** 3. Conjunctive Quantity
+
+***** addition 37
+
+ + annex           [an-nex]
+
+***** nonaddition 38
+
+***** adjunct 39
+
+***** remainder 40
+
+ + remnant         [rem-nant]
+ + residual        [re-sid-u-al]
+
+***** decrement 40.a
+
+***** mixture 41
+
+ + amalgamate      [a-mal-gam-ate]
+ + ambivalent      [am-biv-a-lent]
+ + commingle       [com-min-gle]
+ + compound        [com-pound]
+ + knead           [knead]
+ + mash            [mash]
+ + medley          [med-ley]
+ + mingle          [min-gle]
+ + mosaic          [mo-sa-ic]
+ + motley          [mot-ley]
+ + pastiche        [pas-tiche]
+ + suffuse         [suf-fuse]
+
+***** simpleness 42
+
+***** junction 43
+
+ + affix           [af-fix]
+ + concatenate     [con-cat-e-nate]
+ + solder          [sol-der]
+ + stitch          [stitch]
+ + suture          [su-ture]
+ + taut            [taut]
+ + yoke            [yoke]
+
+***** disjunction 44
+
+ + abstract        [ab-stract]
+ + asunder         [a-sun-der]
+ + carve           [carve]
+ + cleave          [cleave]
+ + detach          [de-tach]
+ + discrete        [dis-crete]
+ + disengage       [dis-en-gage]
+ + disjunctive     [dis-junc-tive]
+ + disparate       [dis-pa-rate]
+ + fracture        [frac-ture]
+ + gash            [gash]
+ + hew             [hew]
+ + insular         [in-su-lar]
+ + insulate        [in-su-late]
+ + lacerate        [lac-er-ate]
+ + rend            [rend]
+ + rescind         [re-scind]
+ + rift            [rift]
+ + rive            [rive]
+ + scission        [scis-sion]
+ + sunder          [sun-der]
+
+***** connection 45
+
+ + cement          [ce-ment]
+ + rein            [rein]
+ + tackle          [tack-le]
+
+***** coherence 46
+
+***** incoherence 47
+
+***** combination 48
+
+ + conflate        [con-flate]
+
+***** decomposition 49
+
+*** 4. Concrete Quantity
+
+***** whole 50
+
+ + ensemble        [en-sem-ble]
+ + integral        [in-te-gral]
+
+***** part 51
+
+ + twig            [twig]
+
+***** completeness 52
+
+ + replenish       [re-plen-ish]
+ + saturate        [sat-u-rate]
+ + supplement      [sup-ple-ment]
+
+***** incompleteness 53
+
+***** composition 54
+
+***** exclusion 55
+
+***** component 56
+
+***** extraneousness 57
+
+ + slant           [slant]
+
+** Section IV. Order
+
+*** 1. Order in General
+
+***** order 58
+
+***** disorder 59
+
+ + disarray        [dis-ar-ray]
+ + hodgepodge      [hodge-podge]
+ + pandemonium     [pan-de-mo-ni-um]
+ + rumple          [rum-ple]
+ + topsy-turvy     [top-sy-tur-vy]
+
+***** complexity 59.a
+
+***** arrangement 60
+
+ + align           [a-lign]
+ + methodical      [me-thod-i-cal]
+ + synopsis        [syn-op-sis]
+
+***** derangement 61
+
+ + complicate      [com-pli-cate]
+ + discombobulate  [dis-com-bob-u-late]
+
+*** 2. Consecutive Order
+
+***** precedence 62
+
+ + anterior        [an-te-ri-or]
+ + preface         [pref-ace]
+
+***** sequence 63
+
+***** precursor 64
+
+ + avant-garde     [a-vant-garde]
+ + forebear        [fore-bear]
+ + foreword        [fore-word]
+ + harbinger       [har-bin-ger]
+ + predecessor     [pre-de-ces-sor]
+
+***** sequel 65
+
+ + sequela         [se-que-la]
+
+***** beginning 66
+
+ + commencement    [com-mence-ment]
+ + debut           [de-but]
+ + embryonic       [em-bry-on-ic]
+ + entrance        [en-trance]
+ + inaugurate      [in-au-gu-rate]
+ + inception       [in-cep-tion]
+ + incipient       [in-cip-i-ent]
+ + initiate        [in-i-ti-ate]
+ + nascent         [nas-cent]
+ + outset          [out-set]
+ + primordial      [pri-mor-di-al]
+
+***** end 67
+
+ + coda            [co-da]
+
+***** middle 68
+
+***** continuity 69
+
+ + featureless     [fea-ture-less]
+ + nexus           [nex-us]
+
+***** discontinuity 70
+
+ + arrhythmic      [arrhyth-mic]
+ + scrappy         [scrap-py]
+
+***** term 71
+
+*** 3. Collective Order
+
+***** assemblage 72
+
+ + accumulate      [ac-cu-mu-late]
+ + aggregate       [ag-gre-gate]
+ + batch           [batch]
+ + clan            [clan]
+ + concentrate     [con-cen-trate]
+ + convene         [con-vene]
+ + convention      [con-ven-tion]
+ + convoke         [con-voke]
+ + deluge          [del-uge]
+ + flock           [flock]
+ + meet            [meet]
+ + rabble          [rab-ble]
+ + serried         [ser-ried]
+ + shoal           [shoal]
+ + slew            [slew]
+ + teeming         [teem-ing]
+ + throng          [throng]
+
+***** nonassemblage, dispersion 73
+
+ + sparse          [sparse]
+ + sporadic        [spo-rad-ic]
+
+***** focus 74
+
+*** 4. Distributive Order
+
+***** class 75
+
+***** inclusion 76
+
+***** exclusion 77
+
+***** generality 78
+
+ + ecumenical      [e-cu-men-i-cal]
+ + generic         [ge-ner-ic]
+
+***** speciality 79
+
+ + designate       [des-ig-nate]
+
+*** 5. Order as Regards Categories
+
+***** normality 80
+
+***** multiformity 81
+
+***** conformity 82
+
+ + comply          [com-ply]
+ + elucidate       [e-lu-ci-date]
+ + nominal         [nom-i-nal]
+
+***** unconformity 83
+
+ + aberrant        [ab-er-rant]
+ + amorphous       [a-mor-phous]
+ + anomalous       [a-nom-a-lous]
+ + arbitrary       [ar-bi-trar-y]
+ + breach          [breach]
+ + chimera         [chi-me-ra]
+ + eccentric       [ec-cen-tric]
+ + exceptional     [ex-cep-tion-al]
+ + exotic          [ex-ot-ic]
+ + grotesque       [gro-tesque]
+ + hybrid          [hy-brid]
+ + idiosyncrasy    [id-i-o-syn-cra-sy]
+ + mongrel         [mon-grel]
+ + nondescript     [non-de-script]
+ + novel           [nov-el]
+ + offbeat         [off-beat]
+ + original        [o-rig-i-nal]
+ + outlandish      [out-land-ish]
+ + peculiarity     [pe-cu-li-ar-i-ty]
+ + phenomenal      [phe-nom-e-nal]
+ + preternatural   [pre-ter-nat-u-ral]
+ + stray           [stray]
+ + uncharacteristic[un-char-ac-ter-is-tic]
+ + unwonted        [un-wont-ed]
+
+** Section V. Number
+
+*** 1. Number, in the Abstract
+
+***** number 84
+
+ + complementary   [com-ple-men-ta-ry]
+
+***** numeration 85
+
+ + census          [cen-sus]
+
+***** list 86
+
+ + inventory       [in-ven-to-ry]
+ + roster          [ros-ter]
+ + terminology     [ter-mi-nol-o-gy]
+
+*** 2. Determinate Number
+
+***** unity 87
+
+***** accompaniment 88
+
+ + appurtenance    [ap-pur-te-nance]
+ + chaperone       [chap-er-one]
+ + concerted       [con-cert-ed]
+ + synergic        [synergic]
+
+***** duality 89
+
+***** duplication 90
+
+ + replicate       [rep-li-cate]
+
+***** bisection 91
+
+***** triality 92
+
+***** triplication 93
+
+***** trisection 94
+
+***** four 95
+
+***** quadruplication 96
+
+***** quadrisection 97
+
+***** five, &c 98
+
+ + myriad          [myr-i-ad]
+
+***** quinquesection 99
+
+*** 3. Indeterminate Number
+
+***** plurality 100
+
+***** fraction 100.a
+
+***** zero 101
+
+***** multitude 102
+
+***** fewness 103
+
+***** repetition 104
+
+ + incessant       [in-ces-sant]
+ + monotonous      [mo-not-o-nous]
+ + reiterate       [re-it-er-ate]
+
+***** infinity 105
+
+** Section VI. Time
+
+*** 1. Absolute Time
+
+***** time 106
+
+ + interim         [in-ter-im]
+ + interregnum     [in-ter-reg-num]
+ + respite         [res-pite]
+
+***** neverness 107
+
+***** period 108
+
+***** contingent 108.a
+
+***** course 109
+
+***** diuturnity 110
+
+ + abiding         [a-bid-ing]
+ + chronic         [chron-ic]
+ + perpetual       [per-pet-u-al]
+ + persistence     [per-sis-tence]
+ + unremitting     [un-re-mit-ting]
+
+***** transientness 111
+
+ + ephemeral       [e-phem-er-al]
+ + fleeting        [fleet-ing]
+ + provisory       [pro-vi-so-ry]
+ + temporal        [tem-po-ral]
+ + transitory      [tran-si-to-ry]
+
+***** perpetuity 112
+
+ + eternal         [e-ter-nal]
+ + everlasting     [ev-er-last-ing]
+
+***** instantaneity 113
+
+ + precipitous     [pre-cip-i-tous]
+
+***** chronometry 114
+
+***** anachronism 115
+
+ + antedate        [an-te-date]
+
+*** 2. Relative Time
+
+*** 1. Time with Reference to Succession
+
+***** priority 116
+
+***** posteriority 117
+
+ + sequel          [se-quel]
+
+***** the present time 118
+
+***** different time 119
+
+***** synchronism 120
+
+ + coeval          [co-e-val]
+ + synchronous     [syn-chro-nous]
+
+***** futurity 121
+
+ + forestall       [fore-stall]
+
+***** the past 122
+
+ + antediluvian    [an-te-di-lu-vi-an]
+ + dated           [dat-ed]
+ + obsolete        [ob-so-lete]
+ + pristine        [pris-tine]
+ + retrospective   [ret-ro-spec-tive]
+
+*** 2. Time with Reference to a Particular Period
+
+***** newness 123
+
+***** oldness 124
+
+ + antiquated      [an-ti-quat-ed]
+ + archaic         [ar-cha-ic]
+ + immemorial      [im-me-mo-ri-al]
+ + outmoded        [out-mod-ed]
+
+***** morning 125
+
+***** evening 126
+
+***** youth 127
+
+***** age 128
+
+ + dodder          [dod-der]
+ + doyen           [doy-en]
+ + hoary           [hoar-y]
+
+***** infant 129
+
+ + callow          [cal-low]
+ + fledgling       [fledg-ling]
+ + scion           [sci-on]
+
+***** veteran 130
+
+***** adolescence 131
+
+*** 3. Time with Reference to an Effect or Purpose
+
+***** earliness 132
+
+ + summary         [sum-ma-ry]
+
+***** punctuality 132.a
+
+***** lateness 133
+
+ + adjourn         [ad-journ]
+ + moratorium      [mor-a-to-ri-um]
+ + procrastinate   [pro-cras-ti-nate]
+ + prolong         [pro-long]
+ + protract        [pro-tract]
+ + reprieve        [re-prieve]
+ + suspend         [sus-pend]
+
+***** occasion 134
+
+ + opportune       [op-por-tune]
+ + timely          [time-ly]
+
+***** untimeliness 135
+
+ + anachronism     [a-nach-ro-nism]
+ + anachronistic   [a-nach-ro-nis-tic]
+
+*** 3. Recurrent Time
+
+***** frequency 136
+
+ + willy-nilly     [wil-ly-nil-ly]
+
+***** infrequency 137
+
+***** regularity of recurrence 138
+
+ + diurnal         [di-ur-nal]
+ + intermittent    [in-ter-mit-tent]
+ + periodical      [pe-ri-od-i-cal]
+ + quotidian       [quo-tid-i-an]
+
+***** irregularity 139
+
+** Section VII. Change
+
+*** 1. Simple Change
+
+***** change 140
+
+ + metamorphose    [met-a-mor-phose]
+ + mutate          [mu-tate]
+ + transfigure     [trans-fig-ure]
+
+***** permanence 141
+
+***** cessation 142
+
+ + abeyance        [a-bey-ance]
+ + cessation       [ces-sa-tion]
+ + truce           [truce]
+
+***** continuance 143
+
+***** conversion 144
+
+***** reversion 145
+
+***** revolution 146
+
+***** substitution 147
+
+ + substitute      [sub-sti-tute]
+ + supplant        [sup-plant]
+ + understudy      [un-der-stud-y]
+ + vicarious       [vi-car-i-ous]
+
+***** interchange 148
+
+*** 2. Complex Change
+
+***** changeableness 149
+
+ + fitful          [fit-ful]
+ + mobile          [mo-bile]
+ + oscillate       [os-cil-late]
+ + plastic         [plas-tic]
+ + protean         [pro-te-an]
+ + transient       [tran-si-ent]
+ + versatile       [ver-sa-tile]
+ + vicissitude     [vi-cis-si-tude]
+
+***** stability 150
+
+ + immutable       [im-mu-ta-ble]
+ + incontrovertible[in-con-tro-vert-i-ble]
+ + irreducible     [ir-re-duc-i-ble]
+
+***** eventuality 151
+
+ + ensue           [en-sue]
+
+***** destiny 152
+
+** Section VIII. Causation
+
+*** 1. Constancy of Sequence in Events
+
+***** cause 153
+
+ + provenance      [prov-e-nance]
+ + seminal         [sem-i-nal]
+
+***** effect 154
+
+ + derivative      [de-riv-a-tive]
+ + outgrowth       [out-growth]
+
+***** attribution 155
+
+***** chance 156
+
+ + fluky           [fluk-y]
+
+*** 2. Connection between Cause and Effect
+
+***** power 157
+
+ + cogent          [co-gent]
+ + efficacious     [ef-fi-ca-cious]
+ + puissance       [pu-is-sance]
+
+***** impotence 158
+
+ + disarm          [dis-arm]
+ + disjointed      [dis-joint-ed]
+ + enervate        [en-er-vate]
+ + impotent        [im-po-tent]
+ + impuissance     [im-pu-is-sance]
+ + mollycoddle     [mol-ly-cod-dle]
+ + untenable       [un-ten-a-ble]
+
+***** strength 159
+
+ + adamant         [ad-a-mant]
+ + fortify         [for-ti-fy]
+ + invigorate      [in-vig-or-ate]
+ + invincible      [in-vin-ci-ble]
+ + robust          [ro-bust]
+ + sinew           [sin-ew]
+ + stamina         [stam-i-na]
+ + sturdy          [stur-dy]
+ + vigorous        [vig-or-ous]
+ + vitality        [vi-tal-i-ty]
+
+***** weakness 160
+
+ + debilitate      [de-bil-i-tate]
+ + dilute          [di-lute]
+ + extenuate       [ex-ten-u-ate]
+ + feeble          [fee-ble]
+ + flaccid         [flac-cid]
+ + fragile         [frag-ile]
+ + rickety         [rick-et-y]
+ + spent           [spent]
+
+*** 3. Power in Operation
+
+***** production 161
+
+ + acquire         [ac-quire]
+ + compose         [com-pose]
+ + constitute      [con-sti-tute]
+ + construct       [con-struct]
+ + edifice         [ed-i-fice]
+ + engender        [en-gen-der]
+ + forge           [forge]
+ + fraught         [fraught]
+ + genial          [ge-ni-al]
+ + institute       [in-sti-tute]
+ + propagate       [prop-a-gate]
+ + travail         [tra-vail]
+
+***** destruction 162
+
+ + demolition      [dem-o-li-tion]
+ + dissipate       [dis-si-pate]
+ + dissolve        [dis-solve]
+ + exterminate     [ex-ter-mi-nate]
+ + extinct         [ex-tinct]
+ + extinguish      [ex-tin-guish]
+ + quash           [quash]
+ + quench          [quench]
+ + raze            [raze]
+ + sabotage        [sab-o-tage]
+ + squelch         [squelch]
+ + submerge        [sub-merge]
+ + subvert         [sub-vert]
+ + vaporize        [va-por-ize]
+
+***** reproduction 163
+
+***** producer 164
+
+***** destroyer 165
+
+***** paternity 166
+
+***** posterity 167
+
+ + descendant      [de-scend-ant]
+
+***** productiveness 168
+
+ + fecund          [fe-cund]
+ + fertilize       [fer-ti-lize]
+
+***** unproductiveness 169
+
+***** agency 170
+
+***** physical energy 171
+
+ + intensify       [in-ten-si-fy]
+ + scathing        [scath-ing]
+
+***** physical inertness 172
+
+ + stasis          [sta-sis]
+
+***** violence 173
+
+ + accelerate      [ac-cel-er-ate]
+ + blast           [blast]
+ + bluster         [blus-ter]
+ + boisterous      [bois-ter-ous]
+ + convulsion      [con-vul-sion]
+ + debacle         [de-ba-cle]
+ + discharge       [dis-charge]
+ + effervesce      [ef-fer-vesce]
+ + ferocious       [fe-ro-cious]
+ + headlong        [head-long]
+ + impetuous       [im-pet-u-ous]
+ + madcap          [mad-cap]
+ + meteoric        [me-te-or-ic]
+ + obstreperous    [ob-strep-er-ous]
+ + rambunctious    [ram-bunc-tious]
+ + rampant         [ram-pant]
+ + riot            [ri-ot]
+ + squall          [squall]
+ + tantrum         [tan-trum]
+ + turbulent       [tur-bu-lent]
+ + turmoil         [tur-moil]
+ + unruly          [un-ru-ly]
+ + vehement        [ve-he-ment]
+
+***** moderation 174
+
+ + allay           [al-lay]
+ + alleviate       [al-le-vi-ate]
+ + assuage         [as-suage]
+ + dampen          [damp-en]
+ + defuse          [de-fuse]
+ + downplay        [downplay]
+ + lenient         [le-ni-ent]
+ + milk            [milk]
+ + mollify         [mol-li-fy]
+ + pacify          [pac-i-fy]
+ + soothe          [soothe]
+ + stabilize       [sta-bi-lize]
+
+*** 4. Indirect Power
+
+***** influence 175
+
+*** 175.a. Absence Of Influence
+
+***** tendency 176
+
+ + calculated      [cal-cu-lat-ed]
+
+***** liability 177
+
+*** 5. Combinations of Causes
+
+***** concurrence 178
+
+***** counteraction 179
+
+ + friction        [fric-tion]
+ + react           [re-act]
+
+* Class II. Words Relating to Space
+
+** Section I. Space in General
+
+*** 1. Abstract Space
+
+***** space 180
+
+***** inextension 180.a
+
+***** region 181
+
+***** place 182
+
+*** 2. Relative Space
+
+***** situation 183
+
+***** location 184
+
+***** displacement 185
+
+*** 3. Existence in Space
+
+***** presence 186
+
+ + pervade         [per-vade]
+ + ubiquitous      [u-biq-ui-tous]
+
+***** absence 187
+
+ + alibi           [al-i-bi]
+ + barren          [bar-ren]
+ + sterile         [ster-ile]
+
+***** inhabitant 188
+
+***** abode 189
+
+ + coop            [co-op]
+ + cosmopolitan    [cos-mo-pol-i-tan]
+ + covert          [cov-ert]
+ + domicile        [dom-i-cile]
+ + harbor          [har-bor]
+ + haunt           [haunt]
+ + hive            [hive]
+ + hovel           [hov-el]
+ + palatial        [pa-la-tial]
+ + pen             [pen]
+ + province        [prov-ince]
+ + provincial      [pro-vin-cial]
+ + row             [row]
+ + rustic          [rus-tic]
+
+***** contents 190
+
+***** receptacle 191
+
+ + cellular        [cel-lu-lar]
+ + conservatory    [con-serv-a-to-ry]
+ + court           [court]
+ + hamper          [ham-per]
+ + imperial        [im-pe-ri-al]
+ + knit            [knit]
+ + pan             [pa-n]
+ + retort          [re-tort]
+ + showcase        [show-case]
+ + stomach         [stom-ach]
+ + studio          [stu-di-o]
+ + vault           [vault]
+ + vessel          [ves-sel]
+
+** Section II. Dimensions
+
+*** 1. General Dimensions
+
+***** size 192
+
+ + colossal        [co-los-sal]
+ + elephantine     [el-e-phan-tine]
+ + full-bodied     [full-bod-ied]
+ + gargantuan      [gar-gan-tu-an]
+ + infinite        [in-fi-nite]
+ + paunchy         [paunch-y]
+ + plump           [plump]
+ + stalwart        [stal-wart]
+ + voluminous      [vo-lu-mi-nous]
+
+***** littleness 193
+
+ + cramped         [cramped]
+ + intangible      [in-tan-gi-ble]
+ + puny            [pu-ny]
+ + rudimentary     [ru-di-men-ta-ry]
+ + squat           [squat]
+ + vestigial       [ves-tig-i-al]
+
+***** expansion 194
+
+ + burgeon         [bur-geon]
+ + deploy          [de-ploy]
+ + dilate          [di-late]
+ + distend         [dis-tend]
+ + expansive       [ex-pan-sive]
+ + germinate       [ger-mi-nate]
+ + hike            [hike]
+ + rarefy          [rar-e-fy]
+
+***** contraction 195
+
+ + circumscribe    [cir-cum-scribe]
+ + compendium      [com-pen-di-um]
+ + constrict       [con-strict]
+ + constringe      [con-stringe]
+ + contract        [con-tract]
+ + dwindle         [dwin-dle]
+ + emaciate        [e-ma-ci-ate]
+
+***** distance 196
+
+ + distal          [dis-tal]
+
+***** nearness 197
+
+ + contiguous      [con-tig-u-ous]
+ + converge        [con-verge]
+ + earshot         [ear-shot]
+
+***** interval 198
+
+ + abnegate        [ab-ne-gate]
+
+***** contiguity 199
+
+ + tangent         [tan-gent]
+
+*** 2. Linear Dimensions
+
+***** length 200
+
+ + interminable    [in-ter-mi-na-ble]
+ + sprawl          [sprawl]
+
+***** shortness 201
+
+ + abbreviate      [ab-bre-vi-ate]
+ + abridge         [a-bridge]
+ + brevity         [brev-i-ty]
+ + concise         [con-cise]
+ + curt            [curt]
+ + curtail         [cur-tail]
+ + epitomize       [e-pit-o-mize]
+ + stunt           [stunt]
+ + truncate        [trun-cate]
+
+***** breadth, thickness 202
+
+ + calibrate       [cal-i-brate]
+
+***** narrowness, thinness 203
+
+ + gangly          [gan-gly]
+ + gossamer        [gos-sa-mer]
+ + lank            [lank]
+ + spindly         [spin-dly]
+ + svelte          [svelte]
+
+***** layer 204
+
+ + patina          [pat-i-na]
+ + stratify        [strat-i-fy]
+
+***** filament 205
+
+***** height 206
+
+ + aloft           [a-loft]
+ + aloof           [a-loof]
+ + lofty           [loft-y]
+ + stature         [stat-ure]
+ + surmount        [sur-mount]
+
+***** lowness 207
+
+***** depth 208
+
+ + abysmal         [a-bys-mal]
+
+***** shallowness 209
+
+***** summit 210
+
+ + acme            [ac-me]
+ + pinnacle        [pin-na-cle]
+ + summit          [sum-mit]
+ + zenith          [ze-nith]
+
+***** base 211
+
+ + nadir           [na-dir]
+
+***** verticality 212
+
+ + precipice       [prec-i-pice]
+
+***** horizontality 213
+
+ + plateau         [pla-teau]
+ + recumbent       [re-cum-bent]
+
+***** pendency 214
+
+***** support 215
+
+ + abut            [a-but]
+ + bolster         [bol-ster]
+ + buttress        [but-tress]
+ + console         [con-sole]
+ + crutch          [crutch]
+ + dais            [da-is]
+ + embed           [em-bed]
+ + loll            [loll]
+ + repose          [re-pose]
+ + saddle          [sad-dle]
+ + skeleton        [skel-e-ton]
+ + truss           [truss]
+ + undergird       [un-der-gird]
+ + uphold          [up-hold]
+
+***** parallelism 216
+
+***** perpendicularity 216.a
+
+***** obliquity 217
+
+***** inversion 218
+
+***** crossing 219
+
+ + crucial         [cru-cial]
+ + mesh            [mesh]
+ + tangle          [tan-gle]
+
+*** 3. Centrical Dimensions
+
+*** 1. General.
+
+***** exteriority 220
+
+ + peripheral      [pe-riph-er-al]
+
+***** interiority 221
+
+***** centrality 222
+
+***** covering 223
+
+ + awning          [awn-ing]
+ + enamel          [e-nam-el]
+ + husk            [husk]
+ + peel            [peel]
+ + superimpose     [su-per-im-pose]
+
+***** lining 224
+
+***** clothing 225
+
+ + array           [ar-ray]
+ + bustle          [bus-tle]
+ + cardinal        [car-di-nal]
+ + cloak           [cloak]
+ + clog            [clog]
+ + don             [don]
+ + garment         [gar-ment]
+ + gear            [gear]
+ + harness         [har-ness]
+ + overlap         [o-ver-lap]
+ + pall            [pall]
+ + sartorial       [sar-to-ri-al]
+ + shift           [shift]
+ + skirt           [skirt]
+ + stock           [stock]
+
+***** divestment 226
+
+ + denude          [de-nude]
+ + doff            [doff]
+ + excoriate       [ex-co-ri-ate]
+ + molt            [molt]
+ + ragged          [rag-ged]
+
+***** circumjacence 227
+
+ + encompass       [en-com-pass]
+
+***** interposition 228
+
+ + parenthesis     [pa-ren-the-sis]
+ + partition       [par-ti-tion]
+
+***** circumscription 229
+
+***** outline 230
+
+ + perimeter       [pe-rim-e-ter]
+
+***** edge 231
+
+ + brim            [brim]
+ + marginal        [mar-gin-al]
+
+***** inclosure 232
+
+***** limit 233
+
+*** 2. Special
+
+***** front 234
+
+ + foreground      [fore-ground]
+
+***** rear 235
+
+***** laterality 236
+
+ + abreast         [a-breast]
+
+***** contraposition 237
+
+***** dextrality 238
+
+***** sinistrality 239
+
+** Section III. Form
+
+*** 1. General Form
+
+***** form 240
+
+ + labile          [la-bile]
+
+***** amorphism 241
+
+***** symmetry 242
+
+***** distortion 243
+
+ + askew           [a-skew]
+ + asymmetrical    [a-sym-met-ri-cal]
+ + asymmetry       [a-sym-me-try]
+ + awry            [a-wry]
+ + wrest           [wrest]
+ + wry             [wry]
+
+*** 2. Special Form
+
+***** angularity 244
+
+ + bifurcate       [bi-fur-cate]
+ + dichotomy       [di-chot-o-my]
+
+***** curvature 245
+
+ + crook           [crook]
+ + deflect         [de-flect]
+ + detour          [de-tour]
+ + oblique         [o-blique]
+
+***** straightness 246
+
+***** circularity 247
+
+ + cordon          [cor-don]
+ + elliptical      [el-lip-ti-cal]
+
+***** convolution 248
+
+ + contort         [con-tort]
+ + convoluted      [con-vo-lut-ed]
+ + serpentine      [ser-pen-tine]
+ + sinuous         [sin-u-ous]
+
+***** rotundity 249
+
+*** 3. Superficial Form
+
+***** convexity 250
+
+ + bulge           [bulge]
+ + cameo           [cam-e-o]
+ + chase           [chase]
+ + convex          [con-vex]
+ + emboss          [em-boss]
+ + protrude        [pro-trude]
+ + protuberant     [pro-tu-ber-ant]
+
+***** flatness 251
+
+***** concavity 252
+
+ + concave         [con-cave]
+ + delve           [delve]
+ + dent            [dent]
+ + excavate        [ex-ca-vate]
+ + implode         [im-plode]
+
+***** sponge 252.a
+
+***** sharpness 253
+
+ + barb            [barb]
+ + bristle         [bris-tle]
+ + hone            [hone]
+ + salient         [sa-li-ent]
+ + spiny           [spin-y]
+
+***** bluntness 254
+
+***** smoothness 255
+
+ + glaze           [glaze]
+
+***** roughness 256
+
+ + corrugated      [cor-ru-gat-ed]
+ + crumple         [crum-ple]
+ + plush           [plush]
+
+***** notch 257
+
+ + serrate         [ser-rate]
+
+***** fold 258
+
+ + crease          [crease]
+ + pleat           [pleat]
+
+***** furrow 259
+
+***** opening 260
+
+ + channel         [chan-nel]
+ + chasm           [chasm]
+ + patent          [pa-tent]
+ + perforate       [per-fo-rate]
+ + permeable       [per-me-a-ble]
+ + pore            [pore]
+ + porous          [po-rous]
+ + wizen           [wi-zen]
+
+***** closure 261
+
+***** perforator 262
+
+***** stopper 263
+
+** Section IV. Motion
+
+*** 1. Motion in General
+
+***** motion 264
+
+ + budge           [budge]
+ + motile          [mo-tile]
+
+***** quiescence 265
+
+ + embargo         [em-bar-go]
+ + haven           [ha-ven]
+ + nirvana         [nir-va-na]
+ + quiescent       [qui-es-cent]
+ + sedentary       [sed-en-tar-y]
+
+***** journey 266
+
+ + amble           [am-ble]
+ + discursive      [dis-cur-sive]
+ + embark          [em-bark]
+ + emigrate        [em-i-grate]
+ + flit            [flit]
+ + glide           [glide]
+ + hie             [hie]
+ + jog             [jog]
+ + migratory       [mi-gra-to-ry]
+ + perambulate     [per-am-bu-late]
+ + peripatetic     [per-i-pa-tet-ic]
+ + ramble          [ram-ble]
+ + saunter         [saun-ter]
+ + scuff           [scuff]
+ + stride          [stride]
+ + strut           [strut]
+ + trudge          [trudge]
+ + wag             [wag]
+ + wanderlust      [wan-der-lust]
+
+***** navigation 267
+
+ + nautical        [nau-ti-cal]
+
+***** traveler 268
+
+ + nomad           [no-mad]
+ + pedestrian      [pe-des-tri-an]
+ + rider           [rid-er]
+
+***** mariner 269
+
+***** transference 270
+
+ + contagious      [con-ta-gious]
+ + convey          [con-vey]
+ + decant          [de-cant]
+ + delegate        [del-e-gate]
+
+***** carrier 271
+
+***** vehicle 272
+
+ + hack            [hack]
+ + limber          [lim-ber]
+ + random          [ran-dom]
+
+***** ship 273
+
+ + balloon         [bal-loon]
+ + belabor         [be-la-bor]
+ + dandy           [dan-dy]
+ + dingy           [din-gy]
+
+*** 2. Degrees of Motion
+
+***** velocity 274
+
+ + bound           [bound]
+ + scour           [scour]
+
+***** slowness 275
+
+ + glacial         [gla-ci-al]
+ + linger          [lin-ger]
+ + plodder         [plod-der]
+ + tardy           [tar-dy]
+ + waddle          [wad-dle]
+
+*** 3. Motion Conjoined with Force
+
+***** impulse 276
+
+ + bash            [bash]
+ + clout           [clout]
+ + dynamic         [dy-nam-ic]
+ + momentum        [mo-men-tum]
+ + prod            [prod]
+
+***** recoil 277
+
+*** 4. Motion with Reference to Direction
+
+***** direction 278
+
+***** deviation 279
+
+ + circuitous      [cir-cu-i-tous]
+ + digress         [di-gress]
+ + diverge         [di-verge]
+ + erratic         [er-rat-ic]
+ + excursive       [ex-cur-sive]
+ + footloose       [foot-loose]
+ + swerve          [swerve]
+ + veer            [veer]
+
+***** precession 280
+
+***** sequence 281
+
+***** progression 282
+
+***** regression 283
+
+ + backslide       [back-slide]
+ + recessive       [re-ces-sive]
+ + regress         [re-gress]
+ + relapse         [re-lapse]
+
+***** propulsion 284
+
+***** traction 285
+
+***** approach 286
+
+***** recession 287
+
+***** attraction 288
+
+ + static          [stat-ic]
+
+***** repulsion 289
+
+***** convergence 290
+
+***** divergence 291
+
+***** arrival 292
+
+ + debark          [de-bark]
+
+***** departure 293
+
+ + evacuate        [e-vac-u-ate]
+ + exodus          [ex-o-dus]
+ + withdraw        [with-draw]
+
+***** ingress 294
+
+ + influx          [in-flux]
+
+***** egress 295
+
+ + exude           [ex-ude]
+ + outgoing        [out-go-ing]
+
+***** reception 296
+
+ + imbibe          [im-bibe]
+ + ingest          [in-gest]
+
+***** ejection 297
+
+ + bale            [bale]
+ + banish          [ban-ish]
+ + boycott         [boy-cott]
+ + broach          [broach]
+ + deplete         [de-plete]
+ + deportation     [de-por-ta-tion]
+ + disgorge        [dis-gorge]
+ + drivel          [driv-el]
+ + evict           [e-vict]
+ + excrete         [ex-crete]
+ + oust            [oust]
+ + splutter        [splut-ter]
+
+***** food 298
+
+ + damper          [damp-er]
+ + delicacy        [del-i-ca-cy]
+ + dispatch        [dis-patch]
+ + drench          [drench]
+ + edible          [ed-i-ble]
+ + forage          [for-age]
+ + glutton         [glut-ton]
+ + mince           [mince]
+ + mumble          [mum-ble]
+ + nip             [nip]
+ + nurture         [nur-ture]
+ + potable         [po-ta-ble]
+ + purvey          [pur-vey]
+ + quaff           [quaff]
+ + ration          [ra-tion]
+ + regimen         [reg-i-men]
+ + sip             [sip]
+ + sop             [sop]
+ + swill           [swill]
+ + waffle          [waf-fle]
+ + whet            [whet]
+
+***** excretion 299
+
+***** insertion 300
+
+***** extraction 301
+
+ + deracinate      [de-rac-in-ate]
+ + extract         [ex-tract]
+ + extraction      [ex-trac-tion]
+
+***** passage 302
+
+***** transcursion 303
+
+***** shortcoming 304
+
+***** ascent 305
+
+***** descent 306
+
+ + descend         [de-scend]
+ + plummet         [plum-met]
+
+***** elevation 307
+
+ + buoy            [bu-oy]
+ + escalate        [es-ca-late]
+
+***** depression 308
+
+***** leap 309
+
+ + cavort          [ca-vort]
+
+***** plunge 310
+
+***** circuition 311
+
+***** rotation 312
+
+ + welter          [wel-ter]
+
+***** evolution 313
+
+***** oscillation 314
+
+ + teeter          [tee-ter]
+
+***** agitation 315
+
+ + chaos           [cha-os]
+ + desultory       [des-ul-to-ry]
+ + jitters         [jitters]
+ + jolt            [jolt]
+ + maelstrom       [mael-strom]
+ + wobble          [wob-ble]
+
+* Class III. Words Relating to Matter
+
+** Section I. Matter in General
+
+***** materiality 316
+
+ + corporeal       [cor-po-re-al]
+ + somatic         [so-mat-ic]
+
+***** immateriality 317
+
+***** world 318
+
+ + mundane         [mun-dane]
+
+***** gravity 319
+
+ + ponderous       [pon-der-ous]
+ + torrential      [tor-ren-tial]
+
+***** levity 320
+
+** Section II. Inorganic Matter
+
+*** 1. Solid Matter
+
+***** density 321
+
+ + clot            [clot]
+ + coagulate       [co-ag-u-late]
+ + cohesive        [co-he-sive]
+ + concrete        [con-crete]
+ + congeal         [con-geal]
+ + consolidate     [con-sol-i-date]
+
+***** rarity 322
+
+ + tenuous         [ten-u-ous]
+
+***** hardness 323
+
+ + calcify         [cal-ci-fy]
+ + indurate        [in-du-rate]
+ + ossify          [os-si-fy]
+
+***** softness 324
+
+ + flabby          [flab-by]
+ + flexible        [flex-i-ble]
+ + lissome         [lis-some]
+ + lithe           [lithe]
+ + malleable       [mal-le-a-ble]
+ + padding         [pad-ding]
+ + pliable         [pli-a-ble]
+
+***** elasticity 325
+
+ + elastic         [e-las-tic]
+ + resilience      [re-sil-ience]
+
+***** inelasticity 326
+
+***** tenacity 327
+
+***** brittleness 328
+
+ + brittle         [brit-tle]
+
+***** texture 329
+
+***** pulverulence 330
+
+ + abrade          [a-brade]
+ + attenuate       [at-ten-u-ate]
+ + friable         [fri-a-ble]
+ + grate           [grate]
+ + pulverize       [pul-ver-ize]
+
+***** friction 331
+
+***** lubrication 332
+
+*** 2. Fluid Matter
+
+*** 1. Fluids In General
+
+***** fluidity 333
+
+***** gaseity 334
+
+ + effluvium       [ef-flu-vi-um]
+
+***** liquefaction 335
+
+***** vaporization 336
+
+ + gasification    [gas-i-fi-ca-tion]
+
+*** 2. Specific Fluids
+
+***** water 337
+
+ + macerate        [mac-er-ate]
+ + steep           [steep]
+
+***** air 338
+
+ + weather         [weath-er]
+
+***** moisture 339
+
+ + awash           [a-wash]
+ + dank            [dank]
+ + sloppy          [slop-py]
+
+***** dryness 340
+
+ + dehydrate       [de-hy-drate]
+ + desiccate       [des-ic-cate]
+ + husky           [husk-y]
+ + sere            [sere]
+
+***** ocean 341
+
+***** land 342
+
+ + strand          [strand]
+
+***** gulf 343
+
+***** plain 344
+
+ + spartan         [spartan]
+
+***** marsh 345
+
+***** island 346
+
+*** 3. Fluids in Motion
+
+***** stream 347
+
+***** river 348
+
+ + affluent        [af-flu-ent]
+ + babble          [bab-ble]
+ + brook           [brook]
+ + cloudburst      [cloud-burst]
+ + confluence      [con-flu-ence]
+ + creek           [creek]
+ + distill         [dis-till]
+ + downpour        [down-pour]
+ + drizzle         [driz-zle]
+ + fluent          [flu-ent]
+ + hurricane       [hur-ri-cane]
+ + inundate        [in-un-date]
+ + irrigate        [ir-ri-gate]
+ + meander         [me-an-der]
+ + murmur          [mur-mur]
+ + rivulet         [riv-u-let]
+ + spate           [spate]
+ + trickle         [trick-le]
+
+***** wind 349
+
+ + respire         [re-spire]
+ + waft            [waft]
+ + windy           [wind-y]
+
+***** conduit 350
+
+***** airpipe 351
+
+*** 3. Imperfect Fluids
+
+***** semiliquidity 352
+
+ + glutinous       [glu-ti-nous]
+ + marsh           [marsh]
+ + stodgy          [stodg-y]
+ + viscid          [vis-cid]
+ + viscous         [vis-cous]
+
+***** bubble 353
+
+***** pulpiness 354
+
+***** unctuousness 355
+
+***** oil 356
+
+***** resin 356.a
+
+** Section III. Organic Matter
+
+*** 1. Vitality
+
+**** 1. Vitality in General
+
+***** organization 357
+
+***** inorganization 358
+
+***** life 359
+
+ + viable          [vi-a-ble]
+
+***** death 360
+
+ + expire          [ex-pire]
+ + inanimate       [in-an-i-mate]
+ + release         [re-lease]
+
+***** killing 361
+
+ + lethal          [le-thal]
+ + suffocate       [suf-fo-cate]
+ + underdog        [un-der-dog]
+
+***** corpse 362
+
+***** interment 363
+
+ + disinter        [dis-in-ter]
+ + inter           [in-ter]
+ + sepulchral      [se-pul-chral]
+
+**** 2. Special Vitality
+
+***** animality 364
+
+***** vegetability 365
+
+***** animal 366
+
+ + buck            [buck]
+ + maverick        [mav-er-ick]
+
+***** vegetable 367
+
+ + brake           [brake]
+ + prairie         [prai-rie]
+ + verdant         [ver-dant]
+
+***** zoology 368
+
+***** botany 369
+
+***** husbandry 370
+
+***** agriculture 371
+
+ + arable          [ar-a-ble]
+
+***** mankind 372
+
+***** man 373
+
+***** woman 374
+
+***** sexuality 374.a
+
+*** 2. sensation
+
+**** 1. Sensation in General
+
+***** physical sensibility 375
+
+ + perceptive      [per-cep-tive]
+
+***** physical insensibility 376
+
+***** physical pleasure 377
+
+***** physical pain 378
+
+ + excruciate      [ex-cru-ci-ate]
+
+**** 2. Special Sensation
+
+**** (1) Touch
+
+***** touch 379
+
+ + tactile         [tac-tile]
+
+***** sensations 380
+
+***** numbness 381
+
+**** (2) Heat
+
+***** heat 382
+
+ + bask            [bask]
+ + incandescent    [in-can-des-cent]
+ + sweltering      [swel-ter-ing]
+ + tepid           [tep-id]
+ + torrid          [tor-rid]
+
+***** cold 383
+
+ + frosty          [frost-y]
+
+***** calefaction 384
+
+ + combustible     [com-bus-ti-ble]
+ + conflagration   [con-fla-gra-tion]
+ + ignite          [ig-nite]
+ + incinerate      [in-cin-er-ate]
+ + parch           [parch]
+ + residue         [res-i-due]
+ + scorch          [scorch]
+ + singe           [singe]
+ + sodden          [sod-den]
+ + stoke           [stoke]
+ + wax             [wax]
+
+***** refrigeration 385
+
+***** furnace 386
+
+***** refrigerator 387
+
+***** fuel 388
+
+***** insulation, fire extinction 388.a
+
+ + backfire        [back-fire]
+
+***** thermometer 389
+
+**** (3) Taste
+
+***** taste 390
+
+***** insipidity 391
+
+ + mawkish         [mawk-ish]
+
+***** pungency 392
+
+ + acrid           [ac-rid]
+ + tangy           [tang-y]
+
+***** saltiness 392.a
+
+***** bitterness 392.b
+
+***** condiment 393
+
+***** savoriness 394
+
+***** unsavoriness 395
+
+***** sweetness 396
+
+ + conserve        [con-serve]
+ + saccharine      [sac-cha-rine]
+
+***** sourness 397
+
+**** (4) Odor
+
+***** odor 398
+
+***** inodorousness 399
+
+***** fragrance 400
+
+ + ambrosial       [am-bro-sial]
+ + redolent        [red-o-lent]
+ + savory          [sa-vor-y]
+
+***** fetor 401
+
+ + stench          [stench]
+
+***** acridity 401.a
+
+**** (5) sound
+
+**** (I) Sound in General
+
+***** sound 402
+
+***** silence 403
+
+***** loudness 404
+
+ + din             [din]
+ + earsplitting    [ear-split-ting]
+ + plangent        [plan-gent]
+ + stentorian      [sten-to-ri-an]
+
+***** faintness 405
+
+**** (II) Specific Sounds
+
+***** snap 406
+
+***** roll 407
+
+***** resonance 408
+
+ + resonant        [res-o-nant]
+ + reverberate     [re-ver-ber-ate]
+
+***** nonresonance 408.a
+
+***** sibilation 409
+
+ + rustle          [rus-tle]
+
+***** stridor 410
+
+ + cacophony       [ca-coph-o-ny]
+
+***** cry 411
+
+ + vociferous      [vo-cif-er-ous]
+
+***** ululation 412
+
+ + gobble          [gob-ble]
+
+**** (III) Musical Sounds
+
+***** melody concord 413
+
+ + chord           [chord]
+ + chromatic       [chro-mat-ic]
+ + dominant        [dom-i-nant]
+ + euphonious      [eu-pho-ni-ous]
+ + measured        [meas-ured]
+ + mellifluous     [mel-lif-lu-ous]
+
+***** discord 414
+
+ + off-key         [off-key]
+ + strident        [stri-dent]
+
+***** music 415
+
+ + ballad          [bal-lad]
+ + bravura         [bra-vu-ra]
+ + chorale         [cho-rale]
+ + crescendo       [cre-scen-do]
+ + lyric           [lyr-ic]
+
+***** musician 416
+
+ + croon           [croon]
+
+***** musical instrument 417
+
+**** (IV) Perception Of Sound
+
+***** hearing 418
+
+ + eavesdrop       [eaves-drop]
+ + lug             [lug]
+
+***** deafness 419
+
+**** (6) light
+
+**** (I) Light in General
+
+***** light 420
+
+ + effulgent       [ef-ful-gent]
+ + glisten         [glis-ten]
+ + gloss           [gloss]
+ + glossy          [gloss-y]
+ + illuminate      [il-lu-mi-nate]
+ + lucid           [lu-cid]
+ + luminous        [lu-mi-nous]
+ + lustrous        [lus-trous]
+ + orient          [o-ri-ent]
+ + refulgent       [re-ful-gent]
+ + resplendent     [re-splend-ent]
+ + scintillate     [scin-til-late]
+
+***** darkness 421
+
+ + lurid           [lu-rid]
+ + nocturnal       [noc-tur-nal]
+ + obfuscate       [ob-fus-cate]
+
+***** dimness 422
+
+ + lackluster      [lack-lus-ter]
+
+***** luminary 423
+
+ + luminary        [lu-mi-nar-y]
+ + taper           [ta-per]
+
+***** shade 424
+
+***** transparency 425
+
+ + clarity         [clar-i-ty]
+ + diaphanous      [di-aph-a-nous]
+ + limpid          [lim-pid]
+ + pellucid        [pel-lu-cid]
+ + translucent     [trans-lu-cent]
+
+***** opacity 426
+
+***** turbidity 426.a
+
+***** semitransparency 427
+
+**** (II) Specific Light
+
+***** color 428
+
+ + monochromatic   [mon-o-chro-mat-ic]
+ + mordant         [mor-dant]
+ + pigment         [pig-ment]
+ + tint            [tint]
+
+***** achromatism 429
+
+ + anemic          [a-ne-mic]
+ + pallid          [pal-lid]
+
+***** whiteness 430
+
+***** blackness 431
+
+ + denigrate       [den-i-grate]
+
+***** gray 432
+
+***** brown 433
+
+***** redness 434
+
+ + florid          [flor-id]
+ + rubicund        [ru-bi-cund]
+
+***** greenness 435
+
+***** yellowness 436
+
+ + beige           [beige]
+ + jaundice        [jaun-dice]
+
+***** purple 437
+
+***** blueness 438
+
+***** orange 439
+
+***** variegation 440
+
+ + chameleon       [cha-me-le-on]
+ + dappled         [dap-pled]
+ + iridescent      [ir-i-des-cent]
+ + piebald         [pie-bald]
+ + spectrum        [spec-trum]
+ + variegated      [var-i-e-gat-ed]
+
+**** (III) Perceptions of Light
+
+***** vision 441
+
+ + gloat           [gloat]
+ + goggle          [gog-gle]
+ + peep            [peep]
+ + speculate       [spec-u-late]
+ + squint          [squint]
+
+***** blindness 442
+
+***** dimsightedness 443
+
+ + myopic          [my-op-ic]
+
+***** spectator 444
+
+ + spectator       [spec-ta-tor]
+
+***** optical instrument 445
+
+***** visibility 446
+
+ + panoramic       [pan-o-ram-ic]
+
+***** invisibility 447
+
+***** appearance 448
+
+ + aspect          [as-pect]
+
+***** disappearance 449
+
+* Class IV. Words Relating to the Intellectual Faculties
+
+* Division I. Formation of Ideas
+
+** Section I. Operations of Intellect in General
+
+***** intellect 450
+
+ + metaphysical    [met-a-phys-i-cal]
+ + paranoid        [par-a-noid]
+ + psychology      [psy-chol-o-gy]
+ + subliminal      [sub-lim-i-nal]
+
+***** absence 450.a
+
+***** thought 451
+
+ + deliberate      [de-lib-er-ate]
+ + meditate        [med-i-tate]
+ + ratiocination   [ra-ti-oc-i-na-tion]
+ + reflect         [re-flect]
+ + ruminate        [ru-mi-nate]
+
+***** incogitancy 452
+
+***** idea 453
+
+***** topic 454
+
+** Section II. Precursory Conditions and Operations
+
+***** curiosity 455
+
+ + voyeur          [vo-yeur]
+
+***** incuriosity 456
+
+***** attention 457
+
+ + advert          [ad-vert]
+ + contemplate     [con-tem-plate]
+ + hearken         [heark-en]
+ + observant       [ob-ser-vant]
+ + rapt            [rapt]
+ + revise          [re-vise]
+ + riveting        [riv-et-ing]
+ + scrutinize      [scru-ti-nize]
+ + steadfast       [stead-fast]
+ + wiretap         [wire-tap]
+
+***** inattention 458
+
+ + absent          [ab-sent]
+ + cursory         [cur-so-ry]
+ + inadvertent     [in-ad-vert-ent]
+ + preoccupation   [pre-oc-cu-pa-tion]
+
+***** care 459
+
+ + vigilant        [vig-i-lant]
+
+***** neglect 460
+
+ + connive         [con-nive]
+ + default         [de-fault]
+ + imprudent       [im-pru-dent]
+ + negligent       [neg-li-gent]
+ + offhand         [off-hand]
+ + perfunctory     [per-func-to-ry]
+ + reckless        [reck-less]
+
+***** inquiry 461
+
+ + canvass         [can-vass]
+ + dissect         [dis-sect]
+ + dodge           [dodge]
+ + enigma          [e-nig-ma]
+ + fathom          [fath-om]
+ + inquisitive     [in-quis-i-tive]
+ + interrogate     [in-ter-ro-gate]
+ + peer            [peer]
+ + probe           [probe]
+ + pry             [pry]
+ + reconnoiter     [re-con-noi-ter]
+
+***** answer 462
+
+ + responsive      [re-spon-sive]
+
+***** experiment 463
+
+ + fumble          [fum-ble]
+ + protocol        [pro-to-col]
+ + subject         [sub-ject]
+ + tentative       [ten-ta-tive]
+
+***** comparison 464
+
+ + liken           [lik-en]
+
+***** incomparability 464.a
+
+***** discrimination 465
+
+ + nitpick         [nitpick]
+
+***** indiscrimination 465.a
+
+***** identification 465.b
+
+***** measurement 466
+
+ + appreciable     [ap-pre-ci-a-ble]
+ + assess          [as-sess]
+ + perceptible     [per-cep-ti-ble]
+ + plumb           [plumb]
+ + ponderable      [pon-der-a-ble]
+ + watershed       [wa-ter-shed]
+
+** Section III. Materials for Reasoning
+
+***** evidence 467
+
+ + appeal          [ap-peal]
+ + evince          [e-vince]
+ + testimony       [tes-ti-mo-ny]
+ + verify          [ver-i-fy]
+
+***** counter evidence 468
+
+***** qualification 469
+
+ + conditional     [con-di-tion-al]
+ + prerequisite    [pre-req-ui-site]
+
+***** possibility 470
+
+***** impossibility 471
+
+***** probability 472
+
+***** improbability 473
+
+***** certainty 474
+
+ + axiomatic       [ax-i-o-mat-ic]
+ + certitude       [cer-ti-tude]
+ + ineluctable     [in-e-luc-ta-ble]
+ + inevitable      [in-ev-i-ta-ble]
+
+***** uncertainty 475
+
+ + ambiguous       [am-big-u-ous]
+ + dubious         [du-bi-ous]
+ + hypothetical    [hy-po-thet-i-cal]
+ + precarious      [pre-car-i-ous]
+
+** Section IV. Reasoning Processes
+
+***** reasoning 476
+
+ + argument        [ar-gu-ment]
+ + postulate       [pos-tu-late]
+ + relevant        [rel-e-vant]
+ + syllogism       [syl-lo-gism]
+ + synthesis       [syn-the-sis]
+
+***** intuition 477
+
+ + fallacious      [fal-la-cious]
+ + fallible        [fal-li-ble]
+ + gratuitous      [gra-tu-i-tous]
+ + intuitive       [in-tu-i-tive]
+ + refine          [re-fine]
+ + sophism         [soph-ism]
+ + subterfuge      [sub-ter-fuge]
+ + vague           [vague]
+
+***** demonstration 478
+
+***** confutation 479
+
+ + disprove        [dis-prove]
+ + refute          [re-fute]
+
+** Section V. Results Of Reasoning
+
+***** judgment 480
+
+ + adjudicate      [ad-ju-di-cate]
+ + censor          [cen-sor]
+ + connoisseur     [con-nois-seur]
+ + faultfinder     [fault-find-er]
+ + referee         [ref-er-ee]
+
+***** discovery 480.a
+
+***** misjudgment 481
+
+ + doctrinaire     [doc-tri-naire]
+ + fad             [fad]
+ + illiteracy      [il-lit-er-a-cy]
+ + superficial     [su-per-fi-cial]
+ + tendentious     [ten-den-tious]
+
+***** overestimation 482
+
+***** underestimation 483
+
+ + minimize        [min-i-mize]
+
+***** belief 484
+
+ + assent          [as-sent]
+ + confident       [con-fi-dent]
+ + convert         [con-vert]
+ + conviction      [con-vic-tion]
+ + credence        [cre-dence]
+ + credible        [cred-i-ble]
+ + credulous       [cred-u-lous]
+ + dogma           [dog-ma]
+ + esteem          [es-teem]
+ + foster          [fos-ter]
+ + indoctrinate    [in-doc-tri-nate]
+ + opine           [o-pine]
+ + proselytize     [pros-e-lyt-ize]
+ + surmise         [sur-mise]
+
+***** unbelief 485
+
+***** credulity 486
+
+ + gullible        [gul-li-ble]
+
+***** incredulity 487
+
+ + cynic           [cyn-ic]
+
+***** assent 488
+
+ + accede          [ac-cede]
+ + accord          [ac-cord]
+ + avowal          [a-vow-al]
+ + concord         [con-cord]
+ + concur          [con-cur]
+ + conform         [con-form]
+ + consensus       [con-sen-sus]
+ + consent         [con-sent]
+ + corroborate     [cor-rob-o-rate]
+ + defer           [de-fer]
+ + ratify          [rat-i-fy]
+ + reciprocate     [re-cip-ro-cate]
+ + unanimous       [u-nan-i-mous]
+
+***** dissent 489
+
+***** knowledge 490
+
+ + apprehension    [ap-pre-hen-sion]
+ + cognizant       [cog-ni-zant]
+ + comprehend      [com-pre-hend]
+ + conversant      [con-ver-sant]
+ + discern         [dis-cern]
+ + erudite         [er-u-dite]
+ + hackneyed       [hack-neyed]
+ + insight         [in-sight]
+ + ken             [ken]
+ + omniscient      [om-nis-ci-ent]
+ + proficient      [pro-fi-cient]
+ + proofread       [proof-read]
+ + savant          [sa-vant]
+ + savvy           [sav-vy]
+ + shrewd          [shrewd]
+ + solid           [sol-id]
+ + trite           [trite]
+ + versed          [versed]
+
+***** ignorance 491
+
+ + smattering      [smat-ter-ing]
+ + unlettered      [un-let-tered]
+
+***** scholar 492
+
+ + illuminati      [il-lu-mi-na-ti]
+ + polymath        [pol-y-math]
+
+***** ignoramus 493
+
+***** truth 494
+
+ + authentic       [au-then-tic]
+ + dependable      [de-pend-a-ble]
+ + nicety          [ni-ce-ty]
+ + orthodox        [or-tho-dox]
+ + scrupulous      [scru-pu-lous]
+ + substantial     [sub-stan-tial]
+ + substantiate    [sub-stan-ti-ate]
+ + tangible        [tan-gi-ble]
+ + valid           [val-id]
+ + veracious       [ve-ra-cious]
+ + verbatim        [ver-ba-tim]
+ + verisimilar     [ver-i-sim-i-lar]
+ + veritable       [ver-i-ta-ble]
+
+***** error 495
+
+ + erroneous       [er-ro-ne-ous]
+ + fable           [fa-ble]
+ + flaw            [flaw]
+ + misapprehension [mis-ap-pre-hen-sion]
+ + typo            [ty-po]
+
+***** maxim 496
+
+ + aphorism        [aph-o-rism]
+ + bromide         [bro-mide]
+ + cliché          [cli-ché]
+
+***** absurdity 497
+
+***** intelligence, wisdom 498
+
+ + acumen          [a-cu-men]
+ + astute          [as-tute]
+ + canny           [can-ny]
+ + commonsensical  [com-mon-sen-si-cal]
+ + discriminate    [dis-crim-i-nate]
+ + judicious       [ju-di-cious]
+ + perspicacious   [per-spi-ca-cious]
+ + profundity      [pro-fun-di-ty]
+ + prudent         [pru-dent]
+ + rational        [ra-tion-al]
+ + sage            [sage]
+ + sapient         [sa-pi-ent]
+
+***** imbecility folly 499
+
+ + absurd          [ab-surd]
+ + blatant         [bla-tant]
+ + fatuous         [fat-u-ous]
+ + giddy           [gid-dy]
+ + inept           [in-ept]
+ + obtuse          [ob-tuse]
+ + prosaic         [pro-sa-ic]
+ + stultify        [stul-ti-fy]
+ + wanting         [want-ing]
+
+***** sage 500
+
+***** fool 501
+
+ + dolt            [dolt]
+ + doodle          [doo-dle]
+ + dullard         [dull-ard]
+ + oaf             [oaf]
+ + simpleton       [sim-ple-ton]
+
+***** sanity 502
+
+***** insanity 503
+
+ + daft            [daft]
+ + depressed       [de-pressed]
+ + distraught      [dis-traught]
+ + hallucination   [hal-lu-ci-na-tion]
+ + infatuate       [in-fat-u-ate]
+ + vertigo         [ver-ti-go]
+
+***** madman 504
+
+** Section VI. Extension of Thought
+
+*** 1. To the Past
+
+***** memory 505
+
+ + green           [green]
+
+***** oblivion 506
+
+ + efface          [ef-face]
+ + oblivious       [o-bliv-i-ous]
+
+*** 2. To the Future
+
+***** expectation 507
+
+ + impending       [im-pend-ing]
+
+***** inexpectation 508
+
+***** disappointment 509
+
+***** foresight 510
+
+ + prescience      [pre-sci-ence]
+
+***** prediction 511
+
+ + augur           [au-gur]
+ + auspicious      [aus-pi-cious]
+ + extrapolate     [ex-trap-o-late]
+ + forebode        [fore-bode]
+ + foreshadow      [fore-shad-ow]
+ + herald          [her-ald]
+ + ominous         [om-i-nous]
+ + portentous      [por-ten-tous]
+ + precursor       [pre-cur-sor]
+ + pregnant        [preg-nant]
+ + presage         [pres-age]
+ + project         [proj-ect]
+ + prophetic       [pro-phet-ic]
+ + prototype       [pro-to-type]
+
+***** omen 512
+
+***** oracle 513
+
+** Section VII. Creative Thought
+
+***** supposition 514
+
+ + conjecture      [con-jec-ture]
+ + posit           [pos-it]
+ + supposition     [sup-po-si-tion]
+
+***** analogy 514.a
+
+***** imagination 515
+
+ + fanciful        [fan-ci-ful]
+ + figment         [fig-ment]
+ + improvise       [im-pro-vise]
+ + quixotic        [quix-ot-ic]
+ + whimsical       [whim-si-cal]
+
+* Division II. Communication of Ideas
+
+** Section I. Nature of Ideas Communicated
+
+***** meaning 516
+
+ + pithy           [pith-y]
+
+***** unmeaningness 517
+
+ + balderdash      [bal-der-dash]
+ + platitude       [plat-i-tude]
+ + rigmarole       [rig-ma-role]
+
+***** intelligibility 518
+
+ + perspicuity     [per-spi-cu-i-ty]
+ + transparent     [trans-par-ent]
+
+***** unintelligibility 519
+
+ + abstruse        [ab-struse]
+ + arcane          [ar-cane]
+ + baffling        [baf-fling]
+ + jargon          [jar-gon]
+ + latent          [la-tent]
+ + muddy           [mud-dy]
+ + nebulous        [neb-u-lous]
+ + opaque          [o-paque]
+ + oxymoron        [ox-y-mo-ron]
+
+***** equivocalness 520
+
+***** metaphor 521
+
+***** interpretation 522
+
+ + annotate        [an-no-tate]
+ + decipher        [de-ci-pher]
+ + decode          [de-code]
+ + equivalent      [e-quiv-a-lent]
+ + explicate       [ex-pli-cate]
+ + paraphrase      [par-a-phrase]
+ + synonymous      [syn-on-y-mous]
+
+***** misinterpretation 523
+
+ + misconstrue     [mis-con-strue]
+
+***** interpreter 524
+
+** Section II. Modes of Communication
+
+***** manifestation 525
+
+ + barefaced       [bare-faced]
+ + demonstrate     [dem-on-strate]
+ + elicit          [e-lic-it]
+ + intelligible    [in-tel-li-gi-ble]
+ + manifest        [man-i-fest]
+ + ostensible      [os-ten-si-ble]
+ + overt           [o-vert]
+ + palpable        [pal-pa-ble]
+ + proclaim        [pro-claim]
+ + spotlight       [spot-light]
+
+***** latency, implication 526
+
+ + implicit        [im-plic-it]
+ + tacit           [tac-it]
+ + unsung          [un-sung]
+
+***** information 527
+
+ + allude          [al-lude]
+ + apprise         [ap-prise]
+ + blurt           [blurt]
+ + disabuse        [dis-a-buse]
+ + enlighten       [en-light-en]
+ + explicit        [ex-plic-it]
+ + intimate        [in-ti-mate]
+ + pilot           [pi-lot]
+ + segment         [seg-ment]
+
+***** correction 527.a
+
+***** concealment 528
+
+ + clandestine     [clan-des-tine]
+ + conceal         [con-ceal]
+ + cryptic         [cryp-tic]
+ + ensconce        [en-sconce]
+ + esoteric        [es-o-ter-ic]
+ + evasive         [e-va-sive]
+ + furtive         [fur-tive]
+ + hermetic        [her-met-ic]
+ + lurk            [lurk]
+ + muffle          [muf-fle]
+ + occult          [oc-cult]
+ + prowl           [prowl]
+ + recondite       [re-con-dite]
+ + reserved        [re-served]
+ + reticent        [ret-i-cent]
+ + secluded        [se-clud-ed]
+ + secrete         [se-crete]
+ + shroud          [shroud]
+ + sly             [sly]
+ + smother         [smoth-er]
+ + stealth         [stealth]
+ + stifle          [sti-fle]
+ + suppress        [sup-press]
+ + taciturn        [tac-i-turn]
+ + tortuous        [tor-tu-ous]
+ + untold          [un-told]
+ + withhold        [with-hold]
+
+***** disclosure 529
+
+ + debunk          [de-bunk]
+ + denouement      [de-noue-ment]
+ + divulge         [di-vulge]
+
+***** ambush 530
+
+***** publication 531
+
+ + bruit           [bruit]
+ + diffuse         [dif-fuse]
+ + promulgate      [prom-ul-gate]
+
+***** news 532
+
+ + canard          [ca-nard]
+ + rife            [rife]
+
+***** secret 533
+
+***** messenger 534
+
+***** affirmation 535
+
+ + acknowledge     [ac-knowl-edge]
+ + affirm          [af-firm]
+ + assert          [as-sert]
+ + assertive       [as-ser-tive]
+ + aver            [a-ver]
+ + categorical     [cat-e-gor-i-cal]
+ + depose          [de-pose]
+ + enunciate       [e-nun-ci-ate]
+ + oath            [oath]
+ + swear           [swear]
+ + vouch           [vouch]
+
+***** negation 536
+
+ + disavow         [dis-a-vow]
+ + gainsay         [gain-say]
+ + negation        [ne-ga-tion]
+
+***** teaching 537
+
+ + didactic        [di-dac-tic]
+ + disseminate     [dis-sem-i-nate]
+ + graft           [graft]
+ + infiltrate      [in-fil-trate]
+ + infuse          [in-fuse]
+ + instill         [in-still]
+ + parable         [par-a-ble]
+ + preach          [preach]
+ + qualify         [qual-i-fy]
+ + sermon          [ser-mon]
+
+***** misteaching 538
+
+***** learning 539
+
+ + matriculate     [ma-tric-u-late]
+ + peruse          [pe-ruse]
+
+***** teacher 540
+
+***** learner 541
+
+ + disciple        [dis-ci-ple]
+ + neophyte        [ne-o-phyte]
+ + rookie          [rook-ie]
+ + tyro            [ty-ro]
+
+***** school 542
+
+ + pedagogical     [ped-a-gog-i-cal]
+ + rostrum         [ros-trum]
+
+***** veracity 543
+
+ + ingenuous       [in-gen-u-ous]
+
+***** falsehood 544
+
+ + belie           [be-lie]
+ + contrived       [con-trived]
+ + distort         [dis-tort]
+ + duplicity       [du-plic-i-ty]
+ + embroider       [em-broi-der]
+ + equivocate      [e-quiv-o-cate]
+ + fabricate       [fab-ri-cate]
+ + falsehood       [false-hood]
+ + feign           [feign]
+ + garble          [gar-ble]
+ + hypocritical    [hyp-o-crit-i-cal]
+ + malinger        [ma-lin-ger]
+ + mendacious      [mendacious]
+ + misrepresent    [mis-rep-re-sent]
+ + palter          [pal-ter]
+ + perfidy         [per-fi-dy]
+ + plausible       [plau-si-ble]
+ + pretense        [pre-tense]
+ + prevaricate     [pre-var-i-cate]
+ + quibble         [quib-ble]
+ + simulate        [sim-u-late]
+ + understate      [un-der-state]
+ + varnish         [var-nish]
+
+***** deception 545
+
+ + balk            [balk]
+ + bogus           [bo-gus]
+ + byzantine       [byzantine]
+ + cajole          [ca-jole]
+ + chicanery       [chi-can-er-y]
+ + circumvent      [cir-cum-vent]
+ + conjure         [con-jure]
+ + counterfeit     [coun-ter-feit]
+ + cozen           [co-zen]
+ + cunning         [cun-ning]
+ + delusion        [de-lu-sion]
+ + disguise        [dis-guise]
+ + dissemble       [dis-sem-ble]
+ + dupe            [dupe]
+ + entangle        [en-tan-gle]
+ + entrap          [en-trap]
+ + flatter         [flat-ter]
+ + fraudulent      [fraud-u-lent]
+ + guile           [guile]
+ + gull            [gull]
+ + hoax            [hoax]
+ + hoodwink        [hood-wink]
+ + humbug          [hum-bug]
+ + illusory        [il-lu-so-ry]
+ + inveigle        [in-vei-gle]
+ + kidnap          [kid-nap]
+ + maneuver        [ma-neu-ver]
+ + meretricious    [mer-e-tri-cious]
+ + mirage          [mi-rage]
+ + mockery         [mock-er-y]
+ + pitfall         [pit-fall]
+ + pluck           [pluck]
+ + sham            [sham]
+ + snare           [snare]
+ + sophisticated   [so-phis-ti-cat-ed]
+ + spoof           [spoof]
+ + spurious        [spu-ri-ous]
+ + stratagem       [strat-a-gem]
+ + surreptitious   [sur-rep-ti-tious]
+ + swindle         [swin-dle]
+ + trifle          [tri-fle]
+ + veneer          [ve-neer]
+ + victimize       [vic-tim-ize]
+ + waylay          [way-lay]
+
+***** untruth 546
+
+ + fictitious      [fic-ti-tious]
+
+***** dupe 547
+
+***** deceiver 548
+
+ + imposter        [im-post-er]
+ + impostor        [im-pos-tor]
+ + poseur          [po-seur]
+
+***** exaggeration 549
+
+ + hyperbole       [hy-per-bo-le]
+
+** Section III. Means of Communicating Ideas
+
+*** 1. Natural Means
+
+***** indication 550
+
+ + attest          [at-test]
+ + cachet          [ca-chet]
+ + check           [check]
+ + cipher          [ci-pher]
+ + crest           [crest]
+ + duplicate       [du-pli-cate]
+ + exponent        [ex-po-nent]
+ + flag            [flag]
+ + gauge           [gauge]
+ + hallmark        [hall-mark]
+ + indelible       [in-del-i-ble]
+ + leer            [leer]
+ + mottle          [mott-le]
+ + motto           [mot-to]
+ + notch           [notch]
+ + nudge           [nudge]
+ + pointer         [point-er]
+ + shrug           [shrug]
+ + signal          [sig-nal]
+ + stereotype      [ste-re-o-type]
+ + striate         [stri-ate]
+ + underscore      [un-der-score]
+
+***** record 551
+
+ + legend          [leg-end]
+ + vestige         [ves-tige]
+
+***** obliteration 552
+
+***** recorder 553
+
+***** representation 554
+
+ + adumbrate       [ad-um-brate]
+ + delineate       [de-lin-e-ate]
+ + figurative      [fig-ur-a-tive]
+ + figurine        [fig-u-rine]
+ + imitation       [im-i-ta-tion]
+
+***** misrepresentation 555
+
+***** painting 556
+
+ + montage         [mon-tage]
+ + prospect        [pros-pect]
+ + stipple         [stip-ple]
+
+***** sculpture 557
+
+***** engraving 558
+
+ + etch            [etch]
+
+***** artist 559
+
+*** 2. Conventional Means
+
+*** 1. Language Generally
+
+***** language 560
+
+***** letter 561
+
+ + minuscule       [mi-nus-cule]
+
+***** word 562
+
+***** neologism 563
+
+ + argot           [ar-got]
+ + demotic         [de-mot-ic]
+ + pseudonym       [pseu-do-nym]
+
+***** nomenclature 564
+
+ + epithet         [ep-i-thet]
+
+***** misnomer 565
+
+ + anonymous       [a-non-y-mous]
+
+***** phrase 566
+
+***** grammar 567
+
+***** solecism 568
+
+***** style 569
+
+***** perspicuity 570
+
+***** obscurity 571
+
+***** conciseness 572
+
+ + laconic         [la-con-ic]
+ + succinct        [suc-cinct]
+ + terse           [terse]
+
+***** diffuseness 573
+
+ + circumlocution  [cir-cum-lo-cu-tion]
+ + effusive        [ef-fu-sive]
+ + prolix          [pro-lix]
+ + verbose         [ver-bose]
+
+***** vigor 574
+
+***** feebleness 575
+
+ + halfhearted     [half-heart-ed]
+ + slipshod        [slip-shod]
+
+***** plainness 576
+
+***** ornament 577
+
+ + antithetical    [an-ti-thet-i-cal]
+ + flamboyant      [flam-boy-ant]
+ + grandiose       [gran-di-ose]
+
+***** elegance 578
+
+ + scrutable       [scru-ta-ble]
+
+***** inelegance 579
+
+ + mannered        [man-nered]
+
+*** 2. Spoken Language
+
+***** voice 580
+
+ + articulate      [ar-tic-u-late]
+
+***** aphony 581
+
+***** speech 582
+
+ + grandiloquent   [gran-dil-o-quent]
+ + harangue        [ha-rangue]
+ + oration         [o-ra-tion]
+ + palaver         [pa-la-ver]
+ + peroration      [per-o-ra-tion]
+ + rhetorical      [rhe-tor-i-cal]
+ + soliloquy       [so-lil-o-quy]
+
+***** stammering 583
+
+ + stammer         [stam-mer]
+
+***** loquacity 584
+
+ + garrulous       [gar-ru-lous]
+ + jabber          [jab-ber]
+ + loquacious      [lo-qua-cious]
+ + voluble         [vol-u-ble]
+ + windbag         [wind-bag]
+
+***** taciturnity 585
+
+***** allocution 586
+
+ + accost          [ac-cost]
+ + salutation      [sal-u-ta-tion]
+
+***** response 587
+
+***** conversation 588
+
+ + prate           [prate]
+
+***** soliloquy 589
+
+*** 3. Written Language
+
+***** writing 590
+
+ + calligraphy     [cal-lig-ra-phy]
+ + engross         [en-gross]
+ + manuscript      [man-u-script]
+ + scrawl          [scrawl]
+ + scribble        [scrib-ble]
+ + slate           [slate]
+
+***** printing 591
+
+***** correspondence 592
+
+***** book 593
+
+ + ream            [ream]
+
+***** description 594
+
+ + anecdote        [an-ec-dote]
+ + hagiographic    [hag-i-o-graph-ic]
+ + particularize   [par-tic-u-lar-ize]
+
+***** dissertation 595
+
+***** compendium 596
+
+ + syllabus        [syl-la-bus]
+
+***** poetry 597
+
+ + epic            [ep-ic]
+ + idyll           [i-dyll]
+ + runic           [ru-nic]
+ + sonnet          [son-net]
+ + verse           [verse]
+
+***** prose 598
+
+***** drama 599
+
+ + burlesque       [bur-lesque]
+ + charade         [cha-rade]
+ + dramatic        [dra-mat-ic]
+ + enact           [en-act]
+ + epilogue        [ep-i-logue]
+ + farce           [farce]
+ + gag             [gag]
+ + histrionic      [his-tri-on-ic]
+ + melodramatic    [mel-o-dra-mat-ic]
+ + mime            [mime]
+ + mimic           [mim-ic]
+ + monologue       [mon-o-logue]
+ + mute            [mute]
+ + prologue        [pro-logue]
+ + rant            [rant]
+ + repertoire      [rep-er-toire]
+ + screen          [screen]
+ + theatrical      [the-at-ri-cal]
+
+* Class V. Words Relating to the Voluntary Powers
+
+* Division I. Individual Volition
+
+** Section I. Volition in General
+
+*** 1. Acts Of Volition
+
+***** will 600
+
+ + volition        [vo-li-tion]
+
+***** necessity 601
+
+ + automatic       [au-to-mat-ic]
+ + predestine      [pre-des-tine]
+ + unwitting       [un-wit-ting]
+
+***** willingness 602
+
+***** unwillingness 603
+
+ + hesitance       [hes-i-tance]
+ + loath           [loath]
+ + reluctant       [re-luc-tant]
+
+***** resolution 604
+
+ + inexorable      [in-ex-o-ra-ble]
+ + obstinate       [ob-sti-nate]
+ + sand            [sand]
+
+***** perseverance 604.a
+
+ + persevere       [per-se-vere]
+ + pertinacious    [per-ti-na-cious]
+ + unflagging      [un-flag-ging]
+
+***** irresolution 605
+
+ + caprice         [ca-price]
+ + cowardice       [cow-ard-ice]
+ + demur           [de-mur]
+ + fickle          [fick-le]
+ + fluctuate       [fluc-tu-ate]
+ + retract         [re-tract]
+
+***** obstinacy 606
+
+ + balky           [balk-y]
+ + contumacious    [con-tu-ma-cious]
+ + intransigent    [in-tran-si-gent]
+ + mulish          [mul-ish]
+ + restive         [res-tive]
+ + tenacious       [te-na-cious]
+ + wayward         [way-ward]
+ + willful         [will-ful]
+ + wrongheaded     [wrong-head-ed]
+
+***** tergiversation 607
+
+ + abjure          [ab-jure]
+ + reactionary     [re-ac-tion-ar-y]
+ + renegade        [ren-e-gade]
+ + vacillate       [vac-il-late]
+
+***** caprice 608
+
+***** choice 609
+
+ + eclectic        [ec-lec-tic]
+
+***** absence of choice 609.a
+
+***** rejection 610
+
+***** predetermination 611
+
+***** impulse 612
+
+ + impromptu       [im-promp-tu]
+
+***** habit 613
+
+ + acclimate       [ac-cli-mate]
+ + accustom        [ac-cus-tom]
+ + addict          [ad-dict]
+ + adhere          [ad-here]
+ + banal           [ba-nal]
+ + frequent        [fre-quent]
+ + groove          [groove]
+ + ingrained       [in-grained]
+ + inveterate      [in-vet-er-ate]
+ + knack           [knack]
+ + permanent       [per-ma-nent]
+ + precedent       [pre-ced-ent]
+ + prevalent       [prev-a-lent]
+ + vernacular      [ver-nac-u-lar]
+
+***** desuetude 614
+
+*** 2. Causes of Volition
+
+***** motive 615
+
+ + advocate        [ad-vo-cate]
+ + animate         [an-i-mate]
+ + blandishment    [blan-dish-ment]
+ + bribe           [bribe]
+ + captivate       [cap-ti-vate]
+ + charisma        [cha-ris-ma]
+ + coax            [co-ax]
+ + concede         [con-cede]
+ + conciliate      [con-cil-i-ate]
+ + dictate         [dic-tate]
+ + dispose         [dis-pose]
+ + entice          [en-tice]
+ + exhort          [ex-hort]
+ + fascinate       [fas-ci-nate]
+ + foment          [fo-ment]
+ + gadfly          [gad-fly]
+ + goad            [goad]
+ + hortative       [hor-ta-tive]
+ + incendiary      [in-cen-di-ar-y]
+ + incentive       [in-cen-tive]
+ + incite          [in-cite]
+ + inducement      [in-duce-ment]
+ + instigate       [in-sti-gate]
+ + motivate        [mo-ti-vate]
+ + prevail         [pre-vail]
+ + procure         [pro-cure]
+ + seduce          [se-duce]
+ + spur            [spur]
+ + susceptibility  [sus-cep-ti-bil-i-ty]
+ + wheedle         [whee-dle]
+
+***** absence of motive 615.a
+
+***** dissuasion 616
+
+ + dissuade        [dis-suade]
+
+***** pretext 617
+
+*** 3. Objects of Volition
+
+***** good 618
+
+ + windfall        [wind-fall]
+
+***** evil 619
+
+** Section II. Prospective Volition
+
+*** 1. Conceptional Volition
+
+***** intention 620
+
+ + endeavor        [en-deav-or]
+ + premeditate     [pre-med-i-tate]
+ + quarry          [quar-ry]
+
+***** chance 621
+
+ + accidental      [ac-ci-den-tal]
+ + gamble          [gam-ble]
+ + haphazard       [hap-haz-ard]
+ + raffle          [raf-fle]
+ + serendipity     [ser-en-dip-i-ty]
+
+***** pursuit 622
+
+ + prosecution     [pros-e-cu-tion]
+
+***** avoidance 623
+
+ + abscond         [ab-scond]
+ + abstain         [ab-stain]
+ + eschew          [es-chew]
+ + recoil          [re-coil]
+ + shirk           [shirk]
+ + shun            [shun]
+
+***** relinquishment 624
+
+ + forsake         [for-sake]
+
+***** business 625
+
+ + vocation        [vo-ca-tion]
+
+***** plan 626
+
+ + blueprint       [blue-print]
+ + machination     [mach-i-na-tion]
+
+***** method 627
+
+***** mid-course 628
+
+***** circuit 629
+
+ + backhanded      [back-hand-ed]
+
+***** requirement 630
+
+ + indispensable   [in-dis-pen-sa-ble]
+ + requisite       [req-ui-site]
+
+*** 2. Subservience to Ends
+
+**** 1. Actual Subservience
+
+***** instrumentality 631
+
+***** means 632
+
+***** instrument 633
+
+ + implement       [im-ple-ment]
+
+***** substitute 634
+
+***** materials 635
+
+***** store 636
+
+ + accrete         [ac-crete]
+ + cache           [cache]
+ + hoard           [hoard]
+
+***** provision 637
+
+***** waste 638
+
+***** sufficiency 639
+
+ + copious         [co-pi-ous]
+ + cornucopia      [cor-nu-co-pi-a]
+ + liberal         [lib-er-al]
+ + plenitude       [plen-i-tude]
+ + plentitude      [plentitude]
+ + scads           [scads]
+
+***** insufficiency 640
+
+ + dearth          [dearth]
+ + jejune          [je-june]
+ + pittance        [pit-tance]
+ + scrimp          [scrimp]
+ + stingy          [stin-gy]
+ + stint           [stint]
+
+***** redundancy 641
+
+ + creep           [creep]
+ + exuberant       [ex-u-ber-ant]
+ + glut            [glut]
+ + gorge           [gorge]
+ + overweening     [o-ver-ween-ing]
+ + plethora        [pleth-o-ra]
+ + prodigal        [prod-i-gal]
+ + profusion       [pro-fu-sion]
+ + redundant       [re-dun-dant]
+ + replete         [re-plete]
+ + superfluous     [su-per-flu-ous]
+ + surcharge       [sur-charge]
+ + surfeit         [sur-feit]
+ + turgid          [tur-gid]
+
+**** 2. Degree of Subservience
+
+***** importance 642
+
+ + arresting       [ar-rest-ing]
+ + consequence     [con-se-quence]
+ + gist            [gist]
+ + momentous       [mo-men-tous]
+ + paramount       [par-a-mount]
+ + pivotal         [piv-ot-al]
+ + principal       [prin-ci-pal]
+
+***** unimportance 643
+
+ + chaff           [chaff]
+ + frivolous       [friv-o-lous]
+ + frothy          [froth-y]
+ + immaterial      [im-ma-te-ri-al]
+ + inane           [in-ane]
+ + indifferent     [in-dif-fer-ent]
+ + jest            [jest]
+ + levity          [lev-i-ty]
+ + mean            [mean]
+ + measly          [mea-sly]
+ + mediocre        [me-di-o-cre]
+ + nonentity       [non-en-ti-ty]
+ + nonsense        [non-sense]
+ + piddling        [pid-dling]
+ + puerile         [pu-er-ile]
+ + subordinate     [sub-or-di-nate]
+ + tatty           [tat-ty]
+ + trivial         [triv-i-al]
+ + wretched        [wretch-ed]
+
+***** utility 644
+
+ + commodious      [com-mo-di-ous]
+ + conducive       [con-du-cive]
+ + pragmatic       [prag-mat-ic]
+ + remunerate      [re-mu-ner-ate]
+
+***** inutility 645
+
+ + debris          [de-bris]
+ + detritus        [de-tri-tus]
+ + feckless        [feck-less]
+ + futile          [fu-tile]
+ + unproductive    [un-pro-duc-tive]
+
+***** expedience 646
+
+***** inexpedience 647
+
+***** goodness 648
+
+ + inimitable      [in-im-i-ta-ble]
+ + innocuous       [in-noc-u-ous]
+ + salutary        [sal-u-tar-y]
+ + unexceptionable [un-ex-cep-tion-a-ble]
+
+***** badness 649
+
+ + baleful         [bale-ful]
+ + bane            [bane]
+ + cloying         [cloy-ing]
+ + corrosive       [cor-ro-sive]
+ + counterproductive[coun-ter-pro-duc-tive]
+ + fateful         [fate-ful]
+ + guilt           [guilt]
+ + mischievous     [mis-chie-vous]
+ + noisome         [noi-some]
+ + noxious         [nox-ious]
+ + pernicious      [per-ni-cious]
+
+***** perfection 650
+
+ + impeccable      [im-pec-ca-ble]
+
+***** imperfection 651
+
+ + imprecise       [im-pre-cise]
+
+***** cleanness 652
+
+ + catharsis       [ca-thar-sis]
+ + disinfect       [dis-in-fect]
+ + expurgate       [ex-pur-gate]
+ + filter          [fil-ter]
+ + immaculate      [im-mac-u-late]
+ + purity          [pu-ri-ty]
+
+***** uncleanness 653
+
+ + besmirch        [be-smirch]
+ + blur            [blur]
+ + coarse          [coarse]
+ + dabble          [dab-ble]
+ + distain         [dis-tain]
+ + drab            [drab]
+ + fetid           [fet-id]
+ + frowsy          [frows-y]
+ + fusty           [fus-ty]
+ + grit            [grit]
+ + maculate        [mac-u-late]
+ + malodorous      [mal-o-dor-ous]
+ + mire            [mire]
+ + precipitate     [pre-cip-i-tate]
+ + roil            [roil]
+ + scurvy          [scurvy]
+ + slovenly        [slov-en-ly]
+ + squalid         [squal-id]
+ + tarnish         [tar-nish]
+ + turbid          [tur-bid]
+ + unkempt         [un-kempt]
+
+***** health 654
+
+ + euphoria        [eu-pho-ri-a]
+ + hale            [hale]
+ + sanitary        [san-i-tar-y]
+
+***** disease 655
+
+ + apoplectic      [ap-o-plec-tic]
+ + atrophy         [at-ro-phy]
+ + brash           [brash]
+ + decrepit        [de-crep-it]
+ + dyspeptic       [dys-pep-tic]
+ + endemic         [en-dem-ic]
+ + fester          [fes-ter]
+ + infirm          [in-firm]
+ + issue           [is-sue]
+ + languish        [lan-guish]
+ + mangy           [man-gy]
+ + morbid          [mor-bid]
+ + moribund        [mor-i-bund]
+ + pandemic        [pan-dem-ic]
+ + pathological    [path-o-log-i-cal]
+ + pine            [pine]
+ + prostrate       [pros-trate]
+ + rash            [rash]
+ + rupture         [rup-ture]
+ + squeamish       [squeam-ish]
+ + taint           [taint]
+
+***** salubrity 656
+
+ + aseptic         [a-sep-tic]
+ + benign          [be-nign]
+ + salubrious      [sa-lu-bri-ous]
+ + wholesome       [whole-some]
+
+***** insalubrity 657
+
+ + septic          [sep-tic]
+
+***** improvement 658
+
+ + ameliorate      [a-me-lio-rate]
+ + convalesce      [con-va-lesce]
+ + prune           [prune]
+ + remodel         [re-mod-el]
+ + upbeat          [up-beat]
+
+***** deterioration 659
+
+ + adulterate      [a-dul-ter-ate]
+ + aggravate       [ag-gra-vate]
+ + alloy           [al-loy]
+ + blemish         [blem-ish]
+ + blight          [blight]
+ + collapse        [col-lapse]
+ + contaminate     [con-tam-i-nate]
+ + cronyism        [cro-ny-ism]
+ + debase          [de-base]
+ + decadence       [dec-a-dence]
+ + decadent        [dec-a-dent]
+ + defile          [de-file]
+ + deleterious     [del-e-te-ri-ous]
+ + demoralize      [de-mor-al-ize]
+ + depravity       [de-prav-i-ty]
+ + deterioration   [de-te-ri-o-ra-tion]
+ + dilapidate      [di-lap-i-date]
+ + dismantle       [dis-man-tle]
+ + effete          [ef-fete]
+ + erode           [e-rode]
+ + exacerbate      [ex-ac-er-bate]
+ + hamstring       [ham-string]
+ + havoc           [hav-oc]
+ + lapse           [lapse]
+ + leaven          [leav-en]
+ + mangle          [man-gle]
+ + mar             [mar]
+ + moth-eaten      [moth-eat-en]
+ + perish          [per-ish]
+ + retrograde      [ret-ro-grade]
+ + sap             [sap]
+ + scotch          [scotch]
+ + shopworn        [shop-worn]
+ + tamper          [tam-per]
+ + threadbare      [thread-bare]
+ + timeworn        [time-worn]
+ + undermine       [un-der-mine]
+ + vitiate         [vi-ti-ate]
+ + wane            [wane]
+ + warp            [warp]
+ + wither          [with-er]
+
+***** restoration 660
+
+ + careen          [ca-reen]
+ + reconstitute    [re-con-sti-tute]
+ + recuperate      [re-cu-per-ate]
+ + redeem          [re-deem]
+ + regenerate      [re-gen-er-ate]
+ + rehabilitate    [re-ha-bil-i-tate]
+ + renovate        [ren-o-vate]
+ + restitution     [res-ti-tu-tion]
+ + resurgence      [re-sur-gence]
+ + resurrect       [res-ur-rect]
+ + resuscitate     [re-sus-ci-tate]
+ + retouch         [re-touch]
+ + retrieve        [re-trieve]
+ + splice          [splice]
+ + staunch         [staunch]
+ + tinker          [tink-er]
+
+***** relapse 661
+
+ + recidivate      [re-cid-i-vate]
+
+***** remedy 662
+
+ + analgesic       [an-al-ge-sic]
+ + anesthetic      [an-es-thet-ic]
+ + balm            [balm]
+ + compress        [com-press]
+ + cordial         [cor-di-al]
+ + emollient       [e-mol-lient]
+ + hypnotic        [hyp-not-ic]
+ + palliate        [pal-li-ate]
+ + panacea         [pan-a-ce-a]
+ + placebo         [pla-ce-bo]
+ + prescription    [pre-scrip-tion]
+ + quack           [quack]
+ + salve           [sal-ve]
+ + specific        [spe-cif-ic]
+ + therapeutic     [ther-a-peu-tic]
+ + tonic           [ton-ic]
+
+***** bane 663
+
+**** 3. Contingent Subservience
+
+***** safety 664
+
+ + airtight        [air-tight]
+ + escort          [es-cort]
+ + fail-safe       [fail-safe]
+ + impenetrable    [im-pen-e-tra-ble]
+ + impunity        [im-pu-ni-ty]
+ + preservative    [pre-serv-a-tive]
+ + quarantine      [quar-an-tine]
+ + sentinel        [sen-ti-nel]
+ + tenable         [ten-a-ble]
+ + unassailable    [un-as-sail-a-ble]
+
+***** danger 665
+
+ + compromise      [com-pro-mise]
+ + jeopardy        [jeop-ard-y]
+ + ramshackle      [ram-shack-le]
+ + vulnerable      [vul-ner-a-ble]
+
+***** refuge 666
+
+***** pitfall 667
+
+***** warning 668
+
+ + grandstand      [grand-stand]
+ + menace          [men-ace]
+
+***** alarm 669
+
+***** preservation 670
+
+ + conservative    [con-serv-a-tive]
+
+***** escape 671
+
+***** deliverance 672
+
+*** 3. Precursory Measures
+
+***** preparation 673
+
+ + attune          [at-tune]
+ + elaborate       [e-lab-o-rate]
+ + hammer          [ham-mer]
+ + inchoate        [in-cho-ate]
+ + incubate        [in-cu-bate]
+ + inure           [in-ure]
+ + pioneer         [pi-o-neer]
+ + provident       [prov-i-dent]
+ + provisional     [pro-vi-sion-al]
+ + rehearsal       [re-hears-al]
+ + ripen           [rip-en]
+
+***** nonpreparation 674
+
+ + ad-lib          [ad-lib]
+ + extemporize     [ex-tem-po-rize]
+ + fallow          [fal-low]
+ + immature        [im-ma-ture]
+
+***** essay 675
+
+***** undertaking 676
+
+***** use 677
+
+ + manipulate      [ma-nip-u-late]
+
+***** disuse 678
+
+***** misuse 679
+
+** Section III. Voluntary Action
+
+*** 1. Simple Voluntary Action
+
+***** action 680
+
+***** inaction 681
+
+ + sinecure        [si-ne-cure]
+
+***** activity 682
+
+ + abandon         [a-ban-don]
+ + agility         [a-gil-i-ty]
+ + agitate         [ag-i-tate]
+ + alacrity        [a-lac-ri-ty]
+ + ardor           [ar-dor]
+ + assiduous       [as-sid-u-ous]
+ + brisk           [brisk]
+ + diligent        [dil-i-gent]
+ + drudgery        [drudg-er-y]
+ + expedition      [ex-pe-di-tion]
+ + fast            [fast]
+ + fussy           [fuss-y]
+ + hasten          [has-ten]
+ + industrious     [in-dus-tri-ous]
+ + intrigue        [in-trigue]
+ + meddle          [med-dle]
+ + movement        [move-ment]
+ + officious       [of-fi-cious]
+ + painstaking     [pains-tak-ing]
+ + plod            [plod]
+ + plodding        [plod-ding]
+ + resolute        [res-o-lute]
+ + restless        [rest-less]
+ + rouse           [rouse]
+ + sedulous        [sed-u-lous]
+ + smart           [smart]
+ + vim             [vim]
+ + vivacious       [vi-va-cious]
+ + zeal            [zeal]
+ + zealot          [zeal-ot]
+
+***** inactivity 683
+
+ + coma            [co-ma]
+ + dawdle          [daw-dle]
+ + dilatory        [di-la-to-ry]
+ + dormant         [dor-mant]
+ + doze            [doze]
+ + drawl           [drawl]
+ + drone           [drone]
+ + goldbrick       [gold-brick]
+ + idle            [i-dle]
+ + indolent        [in-do-lent]
+ + inert           [in-ert]
+ + lag             [lag]
+ + languid         [lan-guid]
+ + languor         [lan-guor]
+ + lethargic       [le-thar-gic]
+ + lull            [lull]
+ + lullaby         [lull-a-by]
+ + maudlin         [maud-lin]
+ + mitigate        [mit-i-gate]
+ + remiss          [re-miss]
+ + slack           [slack]
+ + sloth           [sloth]
+ + slouch          [slouch]
+ + sluggard        [slug-gard]
+ + sluggish        [slug-gish]
+ + slumber         [slum-ber]
+ + somnolence      [som-no-lence]
+ + soporific       [sop-o-rif-ic]
+ + stupor          [stu-por]
+ + supine          [su-pine]
+ + torpid          [tor-pid]
+ + torpor          [tor-por]
+ + truant          [tru-ant]
+
+***** haste 684
+
+ + expedite        [ex-pe-dite]
+ + plunge          [plunge]
+ + precipitation   [pre-cip-i-ta-tion]
+
+***** leisure 685
+
+ + convenience     [con-ven-i-ence]
+
+***** exertion 686
+
+***** repose 687
+
+***** fatigue 688
+
+ + fatigue         [fa-tigue]
+ + jaded           [jad-ed]
+ + lassitude       [las-si-tude]
+ + wilt            [wilt]
+
+***** refreshment 689
+
+ + bracing         [brac-ing]
+
+***** agent 690
+
+ + practitioner    [prac-ti-tion-er]
+
+***** workshop 691
+
+*** 2. Complex Voluntary Action
+
+***** conduct 692
+
+ + catalyze        [cat-a-lyze]
+
+***** direction 693
+
+ + surveillance    [sur-veil-lance]
+
+***** director 694
+
+ + bellwether      [bell-weth-er]
+ + demagogue       [dem-a-gogue]
+
+***** advice 695
+
+ + mentor          [men-tor]
+
+***** council 696
+
+***** precept 697
+
+***** skill 698
+
+ + apt             [apt]
+ + deft            [deft]
+ + dexterous       [dex-ter-ous]
+ + discreet        [dis-creet]
+ + discretion      [dis-cre-tion]
+ + finesse         [fi-nesse]
+ + forte           [for-te]
+ + ingenious       [in-gen-ious]
+ + ingenuity       [in-ge-nu-i-ty]
+ + shipshape       [ship-shape]
+ + tact            [tact]
+
+***** unskillfulness 699
+
+ + bumble          [bum-ble]
+ + bungle          [bun-gle]
+ + clumsy          [clum-sy]
+ + gaffe           [gaffe]
+ + gauche          [gauche]
+ + gawky           [gawk-y]
+ + maladroit       [mal-a-droit]
+ + shiftless       [shift-less]
+
+***** proficient 700
+
+ + maven           [ma-ven]
+
+***** bungler 701
+
+***** cunning 702
+
+ + leery           [leer-y]
+ + resourceful     [re-source-ful]
+ + ruse            [ruse]
+ + shifty          [shift-y]
+ + sidestep        [side-step]
+ + temporize       [tem-po-rize]
+ + wily            [wil-y]
+
+***** artlessness 703
+
+ + aboveboard      [a-bove-board]
+ + forthright      [forth-right]
+ + naive           [na-ive]
+
+** Section IV. Antagonism
+
+*** 1. Conditional Antagonism
+
+***** difficulty 704
+
+ + arduous         [ar-du-ous]
+ + crux            [crux]
+ + curmudgeon      [cur-mudg-eon]
+ + deadlock        [dead-lock]
+ + embarrass       [em-bar-rass]
+ + encumber        [en-cum-ber]
+ + flounder        [floun-der]
+ + formidable      [for-mi-da-ble]
+ + grueling        [gru-el-ing]
+ + hobble          [hob-ble]
+ + imbroglio       [im-bro-gli-o]
+ + knotty          [knot-ty]
+ + laborious       [la-bo-ri-ous]
+ + labyrinthine    [lab-y-rin-thine]
+ + nonplus         [non-plus]
+ + paradox         [par-a-dox]
+ + quandary        [quan-da-ry]
+ + ravel           [rav-el]
+ + refractory      [re-frac-to-ry]
+ + strait          [strait]
+ + thorny          [thorn-y]
+ + ticklish        [tick-lish]
+
+***** facility 705
+
+ + accessible      [ac-ces-si-ble]
+ + ductile         [duc-tile]
+ + emancipate      [e-man-ci-pate]
+ + exonerate       [ex-on-er-ate]
+ + extricate       [ex-tri-cate]
+ + facile          [fac-ile]
+ + facilitate      [fa-cil-i-tate]
+ + foolproof       [fool-proof]
+ + glib            [glib]
+ + lubricate       [lu-bri-cate]
+ + pliant          [pli-ant]
+ + tractable       [trac-ta-ble]
+
+*** 2. Active Antagonism
+
+***** hindrance 706
+
+ + baffle          [baf-fle]
+ + barricade       [bar-ri-cade]
+ + contravene      [con-tra-vene]
+ + discommode      [dis-com-mode]
+ + disconcert      [dis-con-cert]
+ + frustrate       [frus-trate]
+ + glitch          [glitch]
+ + impede          [im-pede]
+ + lumber          [lum-ber]
+ + obstruct        [ob-struct]
+ + obviate         [ob-vi-ate]
+ + override        [o-ver-ride]
+ + preclude        [pre-clude]
+ + retard          [re-tard]
+ + shackle         [shack-le]
+ + stymie          [sty-mie]
+ + tether          [teth-er]
+ + thwart          [thwart]
+ + traverse        [trav-erse]
+
+***** aid 707
+
+ + abet            [a-bet]
+ + accessory       [ac-ces-so-ry]
+ + accommodate     [ac-com-mo-date]
+ + adjunct         [ad-junct]
+ + ally            [al-ly]
+ + amicable        [am-i-ca-ble]
+ + ancillary       [an-cil-lar-y]
+ + countenance     [coun-te-nance]
+ + cultivate       [cul-ti-vate]
+ + favorable       [fa-vor-a-ble]
+ + hearten         [heart-en]
+ + nourish         [nour-ish]
+ + patronize       [pa-tron-ize]
+ + propitious      [pro-pi-tious]
+ + subservient     [sub-ser-vi-ent]
+ + subsidiary      [sub-sid-i-ar-y]
+ + succor          [suc-cor]
+
+***** opposition 708
+
+ + antagonize      [an-tag-o-nize]
+ + confront        [con-front]
+ + contradict      [con-tra-dict]
+ + inimical        [in-im-i-cal]
+ + polarize        [po-lar-ize]
+
+***** cooperation 709
+
+ + collaborate     [col-lab-o-rate]
+ + collude         [col-lude]
+ + conspire        [con-spire]
+ + symbiosis       [sym-bi-o-sis]
+
+***** opponent 710
+
+ + adversary       [ad-ver-sar-y]
+ + diehard         [die-hard]
+
+***** auxiliary 711
+
+ + proponent       [pro-po-nent]
+
+***** party 712
+
+ + camaraderie     [ca-ma-ra-de-rie]
+
+***** discord 713
+
+ + commotion       [com-mo-tion]
+ + discord         [dis-cord]
+ + dissension      [dis-sen-sion]
+ + dissonance      [dis-so-nance]
+ + faction         [fac-tion]
+ + jarring         [jar-ring]
+ + spat            [spat]
+ + squabble        [squab-ble]
+ + variance        [var-i-ance]
+
+***** concord 714
+
+ + intercessor     [in-ter-ces-sor]
+
+***** defiance 715
+
+***** attack 716
+
+ + aggressive      [ag-gres-sive]
+ + barrage         [bar-rage]
+ + beleaguer       [be-lea-guer]
+ + incursion       [in-cur-sion]
+ + malign          [ma-lign]
+ + onset           [on-set]
+ + vaccinate       [vac-ci-nate]
+
+***** defense 717
+
+ + asylum          [a-sy-lum]
+ + camouflage      [cam-ou-flage]
+ + dike            [dike]
+ + fender          [fend-er]
+ + interlock       [in-ter-lock]
+ + parry           [par-ry]
+ + safeguard       [safe-guard]
+ + stockade        [stock-ade]
+
+***** retaliation 718
+
+ + retaliate       [re-tal-i-ate]
+
+***** resistance 719
+
+***** contention 720
+
+ + contend         [con-tend]
+ + contentious     [con-ten-tious]
+ + fracas          [fra-cas]
+ + skirmish        [skir-mish]
+ + tilt            [tilt]
+ + wrangle         [wran-gle]
+
+***** peace 721
+
+***** warfare 722
+
+ + belligerence    [bel-lig-er-ence]
+ + chauvinistic    [chau-vin-is-tic]
+ + clarion         [clar-i-on]
+ + jingoist        [jin-go-ist]
+ + military        [mil-i-tar-y]
+ + trumpet         [trum-pet]
+
+***** pacification 723
+
+ + placate         [pla-cate]
+
+***** mediation 724
+
+***** submission 725
+
+ + capitulate      [ca-pit-u-late]
+ + craven          [cra-ven]
+
+***** combatant 726
+
+ + belligerent     [bel-lig-er-ent]
+ + bully           [bul-ly]
+ + champion        [cham-pi-on]
+ + fleet           [fleet]
+ + gladiator       [glad-i-a-tor]
+ + ironclad        [i-ron-clad]
+ + legion          [le-gion]
+ + mercenary       [mer-ce-nar-y]
+ + partisan        [par-ti-san]
+ + polemic         [po-lem-ic]
+ + tender          [ten-der]
+ + veteran         [vet-er-an]
+
+***** arms 727
+
+ + dart            [dart]
+ + foil            [foil]
+ + lance           [lance]
+ + sling           [sling]
+
+***** arena 728
+
+ + milieu          [mi-lieu]
+ + purlieu         [pur-lieu]
+
+** Section V. Results of Voluntary Action
+
+***** completion 729
+
+ + catastrophe     [ca-tas-tro-phe]
+ + finale          [fi-na-le]
+ + terminus        [ter-mi-nus]
+
+***** noncompletion 730
+
+ + half-baked      [half-baked]
+
+***** success 731
+
+ + accomplish      [ac-com-plish]
+ + confound        [con-found]
+ + discomfit       [dis-com-fit]
+ + elude           [e-lude]
+ + mastery         [mas-ter-y]
+ + outmaneuver     [out-ma-neu-ver]
+ + outwit          [out-wit]
+ + prosperous      [pros-per-ous]
+ + quell           [quell]
+ + stonewall       [stone-wall]
+ + subdue          [sub-due]
+ + subjugate       [sub-ju-gate]
+ + vanquish        [van-quish]
+
+***** failure 732
+
+ + blunder         [blun-der]
+ + bootless        [boot-less]
+ + falter          [fal-ter]
+ + fiasco          [fi-as-co]
+ + founder         [found-er]
+ + inconsequential [in-con-se-quen-tial]
+ + limp            [limp]
+ + lurch           [lurch]
+ + nugatory        [nu-ga-to-ry]
+ + repulse         [re-pulse]
+ + succumb         [suc-cumb]
+ + trifling        [tri-fling]
+ + unavailing      [un-a-vail-ing]
+
+***** trophy 733
+
+***** prosperity 734
+
+ + providential    [prov-i-den-tial]
+
+***** adversity 735
+
+ + adversity       [ad-ver-si-ty]
+ + calamity        [ca-lam-i-ty]
+
+***** mediocrity 736
+
+* Division II. Intersocial Volition
+
+** Section I. General Intersocial Volition
+
+***** authority 737
+
+ + preponderant    [pre-pon-der-ant]
+
+***** government 737.a
+
+ + authority       [au-thor-i-ty]
+ + autocracy       [au-toc-ra-cy]
+ + autonomy        [au-ton-o-my]
+ + hegemony        [he-gem-o-ny]
+ + imperative      [im-per-a-tive]
+ + imperious       [im-pe-ri-ous]
+ + mandatory       [man-da-to-ry]
+ + peremptory      [per-emp-to-ry]
+ + reign           [reign]
+ + royalty         [roy-al-ty]
+
+***** politics 737.b
+
+***** laxity 738
+
+ + abdicate        [ab-di-cate]
+
+***** severity 739
+
+ + arrogance       [ar-ro-gance]
+ + domineer        [dom-i-neer]
+ + dour            [dour]
+ + draconian       [draconian]
+ + exacting        [ex-act-ing]
+ + exigent         [ex-i-gent]
+ + hard-bitten     [hard-bit-ten]
+ + inclement       [in-clem-ent]
+ + martinet        [mar-ti-net]
+ + stickler        [stick-ler]
+
+***** lenity 740
+
+***** command 741
+
+ + caveat          [ca-ve-at]
+ + summon          [sum-mon]
+
+***** disobedience 742
+
+ + infraction      [in-frac-tion]
+ + insubordinate   [in-sub-or-di-nate]
+ + insurgent       [in-sur-gent]
+ + recalcitrant    [re-cal-ci-trant]
+ + secede          [se-cede]
+ + seditious       [se-di-tious]
+
+***** obedience 743
+
+ + compliant       [com-pli-ant]
+ + obedient        [o-be-di-ent]
+
+***** compulsion 744
+
+ + compelling      [com-pel-ling]
+
+***** master 745
+
+ + monarch         [mon-arch]
+ + potentate       [po-ten-tate]
+ + tycoon          [ty-coon]
+ + tyrant          [ty-rant]
+
+***** servant 746
+
+ + retainer        [re-tain-er]
+ + retinue         [ret-i-nue]
+
+***** scepter 747
+
+***** freedom 748
+
+ + discretionary   [dis-cre-tion-ar-y]
+ + enfranchise     [en-fran-chise]
+ + exempt          [ex-empt]
+ + latitude        [lat-i-tude]
+ + license         [li-cense]
+ + spontaneous     [spon-ta-ne-ous]
+
+***** subjection 749
+
+***** liberation 750
+
+ + manumit         [man-u-mit]
+
+***** restraint 751
+
+ + arrest          [ar-rest]
+ + bridle          [bri-dle]
+ + coerce          [co-erce]
+ + confine         [con-fine]
+ + constrain       [con-strain]
+ + contain         [con-tain]
+ + enthrall        [en-thrall]
+ + fetter          [fet-ter]
+ + hidebound       [hide-bound]
+ + immure          [im-mure]
+ + manacle         [man-a-cle]
+ + restrain        [re-strain]
+ + stiff           [stiff]
+
+***** prison 752
+
+***** keeper 753
+
+***** prisoner 754
+
+***** commission 755
+
+ + commitment      [com-mit-ment]
+ + coronation      [cor-o-na-tion]
+ + instate         [in-state]
+
+***** abrogation 756
+
+ + abrogate        [ab-ro-gate]
+ + annul           [an-nul]
+ + countermand     [coun-ter-mand]
+ + demote          [de-mote]
+ + nullification   [nul-li-fi-ca-tion]
+ + recant          [re-cant]
+ + renege          [re-nege]
+ + repeal          [re-peal]
+ + repudiate       [re-pu-di-ate]
+ + revoke          [re-voke]
+
+***** resignation 757
+
+***** consignee 758
+
+***** deputy 759
+
+ + surrogate       [sur-ro-gate]
+
+** Section II. Special Intersocial Volition
+
+***** permission 760
+
+ + absolve         [ab-solve]
+
+***** prohibition 761
+
+ + interdict       [in-ter-dict]
+ + prohibitive     [pro-hib-i-tive]
+ + veto            [ve-to]
+
+***** consent 762
+
+***** offer 763
+
+ + proffer         [prof-fer]
+
+***** refusal 764
+
+***** request 765
+
+ + cadge           [cadge]
+ + entreat         [en-treat]
+ + overture        [o-ver-ture]
+ + tout            [tout]
+ + vouchsafe       [vouch-safe]
+
+***** deprecation 766
+
+***** petitioner 767
+
+ + bohemian        [bohemian]
+
+** Section III. Conditional Intersocial Volition
+
+***** promise 768
+
+ + committed       [com-mit-ted]
+
+***** release 768.a
+
+***** compact 769
+
+ + endorse         [en-dorse]
+ + stipulate       [stip-u-late]
+
+***** conditions 770
+
+***** security 771
+
+ + plight          [plight]
+
+***** observance 772
+
+***** nonobservance 773
+
+ + forfeit         [for-feit]
+
+***** compromise 774
+
+** Section IV. Possessive Relations
+
+*** 1. Property In General
+
+***** acquisition 775
+
+ + salvage         [sal-vage]
+
+***** loss 776
+
+***** possession 777
+
+ + monopolize      [mo-nop-o-lize]
+
+***** exemption 777.a
+
+***** participation 778
+
+***** possessor 779
+
+ + proprietary     [pro-pri-e-tar-y]
+
+***** property 780
+
+ + claim           [claim]
+ + legacy          [leg-a-cy]
+ + pertain         [per-tain]
+
+***** retention 781
+
+ + detain          [de-tain]
+ + retentive       [re-ten-tive]
+
+***** relinquishment 782
+
+ + jettison        [jet-ti-son]
+ + relinquish      [re-lin-quish]
+ + renounce        [re-nounce]
+ + supersede       [su-per-sede]
+ + surrender       [sur-ren-der]
+
+*** 2. Transfer of Property
+
+***** transfer 783
+
+***** giving 784
+
+ + boon            [boon]
+ + cede            [cede]
+ + consign         [con-sign]
+ + donor           [do-nor]
+ + eleemosynary    [el-e-e-mos-y-nar-y]
+ + largesse        [lar-gesse]
+ + lavish          [lav-ish]
+ + subsidy         [sub-si-dy]
+ + tribute         [trib-ute]
+
+***** receiving 785
+
+***** apportionment 786
+
+ + quota           [quo-ta]
+
+***** lending 787
+
+***** borrowing 788
+
+***** taking 789
+
+ + appropriate     [ap-pro-pri-ate]
+ + clasp           [clasp]
+ + deprivation     [dep-ri-va-tion]
+ + exhaust         [ex-haust]
+ + extort          [ex-tort]
+ + preempt         [pre-empt]
+ + rapacious       [ra-pa-cious]
+ + ravenous        [rav-en-ous]
+ + ravish          [rav-ish]
+ + reap            [reap]
+ + retrench        [re-trench]
+ + sequester       [se-ques-ter]
+ + strip           [strip]
+ + usurp           [u-surp]
+
+***** restitution 790
+
+ + repatriate      [re-pa-tri-ate]
+
+***** stealing 791
+
+ + blackmail       [black-mail]
+ + embezzle        [em-bez-zle]
+ + filibuster      [fil-i-bus-ter]
+ + pilfer          [pil-fer]
+ + pirate          [pi-rate]
+ + plagiarize      [pla-gia-rize]
+ + poach           [poach]
+ + purloin         [pur-loin]
+
+***** thief 792
+
+***** booty 793
+
+*** 3. Interchange of Property
+
+***** barter 794
+
+ + bargain         [bar-gain]
+ + barter          [bar-ter]
+ + negotiate       [ne-go-ti-ate]
+
+***** purchase 795
+
+***** sale 796
+
+ + vendor          [ven-dor]
+
+***** merchant 797
+
+***** merchandise 798
+
+***** mart 799
+
+***** stock market 799.a
+
+***** securities 799.b
+
+*** 4. Monetary Relations
+
+***** money 800
+
+ + blunt           [blunt]
+ + credit          [cred-it]
+ + deposit         [de-pos-it]
+ + liability       [li-a-bil-i-ty]
+ + mint            [mint]
+ + mite            [mite]
+ + warrant         [war-rant]
+
+***** treasurer 801
+
+***** treasury 802
+
+***** wealth 803
+
+ + solvent         [sol-vent]
+
+***** poverty 804
+
+ + impecunious     [im-pe-cu-ni-ous]
+ + indigent        [in-di-gent]
+ + needy           [need-y]
+ + penury          [pen-u-ry]
+ + privation       [pri-va-tion]
+
+***** credit 805
+
+***** debt 806
+
+ + unrequited      [un-re-quit-ed]
+
+***** payment 807
+
+ + defray          [de-fray]
+
+***** nonpayment 808
+
+***** expenditure 809
+
+***** receipt 810
+
+***** accounts 811
+
+***** price 812
+
+***** value 812.a
+
+***** worthlessness 812.b
+
+***** discount 813
+
+***** dearness 814
+
+***** cheapness 815
+
+***** liberality 816
+
+ + munificent      [mu-nif-i-cent]
+
+***** economy 817
+
+***** greed 817.a
+
+ + acquisitive     [ac-quis-i-tive]
+ + voracious       [vo-ra-cious]
+
+***** prodigality 818
+
+ + spendthrift     [spend-thrift]
+ + squander        [squan-der]
+
+***** parsimony 819
+
+ + avarice         [av-a-rice]
+ + chary           [char-y]
+ + covetous        [cov-et-ous]
+ + miserly         [mi-ser-ly]
+ + parsimonious    [par-si-mo-ni-ous]
+ + skimp           [skimp]
+ + sordid          [sor-did]
+ + tightfisted     [tight-fist-ed]
+
+* Class VI. Words Relating to the Sentient and Moral Powers
+
+** Section I. Affections in General
+
+***** affections 820
+
+ + proclivity      [pro-cliv-i-ty]
+
+***** feeling 821
+
+ + earnest         [ear-nest]
+ + ecstasy         [ec-sta-sy]
+ + gush            [gush]
+ + palpitation     [pal-pi-ta-tion]
+ + perfervid       [per-fer-vid]
+ + pungent         [pun-gent]
+ + racy            [rac-y]
+ + sensation       [sen-sa-tion]
+ + sincere         [sin-cere]
+ + trepidation     [trep-i-da-tion]
+ + verve           [verve]
+ + wince           [wince]
+ + zesty           [zest-y]
+
+***** sensibility 822
+
+ + bathetic        [ba-thet-ic]
+ + sensitive       [sen-si-tive]
+
+***** insensibility 823
+
+ + apathy          [ap-a-thy]
+ + blasé           [bla-sé]
+ + callous         [cal-lous]
+ + deadpan         [dead-pan]
+ + frigid          [frig-id]
+ + impassive       [im-pas-sive]
+ + impervious      [im-per-vi-ous]
+ + insensible      [in-sen-si-ble]
+ + insensitive     [in-sen-si-tive]
+ + insentient      [in-sen-ti-ent]
+ + insouciant      [in-sou-ci-ant]
+ + nonchalant      [non-cha-lant]
+ + numb            [numb]
+ + phlegmatic      [phleg-mat-ic]
+ + self-absorbed   [self-absorbed]
+ + stoic           [sto-ic]
+ + thick-skinned   [thick-skinned]
+
+***** excitation 824
+
+ + distract        [dis-tract]
+ + ebullient       [e-bul-lient]
+ + evoke           [e-voke]
+ + fervid          [fer-vid]
+ + fluster         [flus-ter]
+ + galvanize       [gal-va-nize]
+ + overwhelm       [o-ver-whelm]
+ + overwrought     [o-ver-wrought]
+ + perturb         [per-turb]
+ + petrify         [pet-ri-fy]
+ + piquant         [pi-quant]
+ + revive          [re-vive]
+ + startle         [star-tle]
+ + strike          [strike]
+ + telling         [tell-ing]
+ + thrill          [thrill]
+
+***** excitability 825
+
+ + delirium        [de-lir-i-um]
+ + frenzy          [fren-zy]
+ + furor           [fu-ror]
+ + gust            [gust]
+ + hasty           [has-ty]
+ + mercurial       [mer-cu-ri-al]
+ + skittish        [skit-tish]
+ + tempestuous     [tem-pes-tu-ous]
+ + tumult          [tu-mult]
+ + volatile        [vol-a-tile]
+ + whiff           [whiff]
+
+***** inexcitability 826
+
+ + acquiesce       [ac-qui-esce]
+ + clement         [clem-ent]
+ + content         [con-tent]
+ + dispassionate   [dis-pas-sion-ate]
+ + disregard       [dis-re-gard]
+ + forbearance     [for-bear-ance]
+ + imperturbable   [im-per-turb-a-ble]
+ + levelheaded     [levelheaded]
+ + meek            [meek]
+ + placid          [plac-id]
+ + reconcile       [rec-on-cile]
+ + repress         [re-press]
+ + resign          [re-sign]
+ + serene          [se-rene]
+ + submissive      [sub-mis-sive]
+ + tame            [tame]
+ + temperate       [tem-per-ate]
+ + tranquility     [tran-quil-i-ty]
+ + unflappable     [un-flap-pa-ble]
+
+** Section II. Personal Affections
+
+*** 1. Passive Affections
+
+***** pleasure 827
+
+ + bliss           [bliss]
+ + paradise        [par-a-dise]
+
+***** pain 828
+
+ + chagrin         [cha-grin]
+ + infelicitous    [in-fe-lic-i-tous]
+ + malaise         [ma-laise]
+ + ordeal          [or-deal]
+
+***** pleasurableness 829
+
+ + agreeable       [a-gree-a-ble]
+ + appealing       [ap-peal-ing]
+ + dulcet          [dul-cet]
+ + exquisite       [ex-qui-site]
+ + gratify         [grat-i-fy]
+ + halcyon         [hal-cy-on]
+ + luxurious       [lux-u-ri-ous]
+ + mesmeric        [mesmeric]
+ + palatable       [pal-at-a-ble]
+ + refreshing      [re-fresh-ing]
+ + satiate         [sa-ti-ate]
+ + slake           [slake]
+ + voluptuous      [vo-lup-tu-ous]
+
+***** painfulness 830
+
+ + acute           [a-cute]
+ + affliction      [af-flic-tion]
+ + aggrieve        [ag-grieve]
+ + agonize         [ag-o-nize]
+ + annoy           [an-noy]
+ + appall          [ap-pall]
+ + assail          [as-sail]
+ + awkward         [awk-ward]
+ + badger          [badg-er]
+ + bait            [bait]
+ + beset           [be-set]
+ + bore            [bore]
+ + caustic         [caus-tic]
+ + cumbersome      [cum-ber-some]
+ + deplorable      [de-plor-a-ble]
+ + dire            [dire]
+ + discompose      [dis-com-pose]
+ + disenchant      [dis-en-chant]
+ + dolorous        [dol-or-ous]
+ + dreary          [drear-y]
+ + faze            [faze]
+ + gall            [gall]
+ + grieve          [grieve]
+ + gripe           [gripe]
+ + harass          [har-ass]
+ + harrow          [har-row]
+ + harry           [har-ry]
+ + harsh           [harsh]
+ + heartrending    [heart-rend-ing]
+ + heckle          [heck-le]
+ + hideous         [hid-e-ous]
+ + importune       [im-por-tune]
+ + invidious       [in-vid-i-ous]
+ + irk             [irk]
+ + irritate        [ir-ri-tate]
+ + lamentable      [lam-en-ta-ble]
+ + misfortune      [mis-for-tune]
+ + mishap          [mis-hap]
+ + mournful        [mourn-ful]
+ + nauseate        [nau-se-ate]
+ + nettle          [net-tle]
+ + obsess          [ob-sess]
+ + onerous         [on-er-ous]
+ + peeve           [peeve]
+ + persecute       [per-se-cute]
+ + pique           [pique]
+ + provoke         [pro-voke]
+ + rankle          [ran-kle]
+ + raspy           [rasp-y]
+ + repel           [re-pel]
+ + rile            [rile]
+ + ruffle          [ruf-fle]
+ + scourge         [scourge]
+ + untoward        [un-to-ward]
+ + vex             [vex]
+ + vile            [vile]
+
+***** content 831
+
+***** discontent 832
+
+ + disgruntle      [dis-grun-tle]
+ + malcontent      [mal-con-tent]
+
+***** regret 833
+
+ + nostalgia       [nos-tal-gia]
+
+***** relief 834
+
+***** aggravation 835
+
+***** cheerfulness 836
+
+ + blithe          [blithe]
+ + buoyant         [buoy-ant]
+ + carefree        [care-free]
+ + coltish         [colt-ish]
+ + debonair        [deb-o-nair]
+ + elate           [e-late]
+ + exhilarate      [ex-hil-a-rate]
+ + hedonism        [he-don-ism]
+ + jocular         [joc-u-lar]
+ + jubilant        [ju-bi-lant]
+ + mirth           [mirth]
+ + palmy           [palm-y]
+ + sprightly       [spright-ly]
+ + winsome         [win-some]
+
+***** dejection 837
+
+ + careworn        [care-worn]
+ + deject          [de-ject]
+ + dishearten      [dis-heart-en]
+ + doldrums        [dol-drums]
+ + gloomy          [gloom-y]
+ + humor           [hu-mor]
+ + lachrymose      [lach-ry-mose]
+ + lugubrious      [lu-gu-bri-ous]
+ + murky           [murk-y]
+ + pensive         [pen-sive]
+ + pessimistic     [pessimistic]
+ + repine          [re-pine]
+ + saturnine       [sat-ur-nine]
+ + sedate          [se-date]
+ + sober           [so-ber]
+ + somber          [som-ber]
+ + sulk            [sulk]
+ + sullen          [sul-len]
+ + wan             [wan]
+
+***** rejoicing 838
+
+***** lamentation 839
+
+ + condole         [con-dole]
+ + deplore         [de-plore]
+ + dirge           [dirge]
+ + elegy           [el-e-gy]
+ + grumble         [grum-ble]
+ + mutter          [mut-ter]
+ + querulous       [quer-u-lous]
+
+***** amusement 840
+
+ + antic           [an-tic]
+ + bluff           [bluff]
+ + boggle          [bog-gle]
+ + carouse         [ca-rouse]
+ + crow            [crow]
+ + dally           [dal-ly]
+ + divert          [di-vert]
+ + flush           [flush]
+ + gambol          [gam-bol]
+ + grin            [grin]
+ + hilarious       [hi-lar-i-ous]
+ + jocund          [joc-und]
+ + jovial          [jo-vi-al]
+ + masquerade      [mas-quer-ade]
+ + playful         [play-ful]
+ + reel            [reel]
+ + rejoice         [re-joice]
+ + revelry         [rev-el-ry]
+ + smirk           [smirk]
+ + solace          [sol-ace]
+ + toy             [toy]
+ + vagary          [va-gar-y]
+ + wit             [wit]
+
+***** weariness 841
+
+ + arid            [ar-id]
+ + ennui           [en-nui]
+ + humdrum         [hum-drum]
+ + tedious         [te-di-ous]
+
+***** wit 842
+
+ + badinage        [bad-i-nage]
+ + banter          [ban-ter]
+ + conundrum       [co-nun-drum]
+ + epigram         [ep-i-gram]
+ + facetious       [fa-ce-tious]
+ + jape            [jape]
+ + jibe            [jibe]
+ + puckish         [puckish]
+ + pun             [pun]
+ + repartee        [rep-ar-tee]
+ + ridicule        [rid-i-cule]
+
+***** dullness 843
+
+ + vapid           [vap-id]
+
+***** humorist 844
+
+*** 2. Discriminative Affections
+
+***** beauty 845
+
+ + burnish         [bur-nish]
+ + comely          [come-ly]
+ + dapper          [dap-per]
+ + harmonious      [har-mo-ni-ous]
+ + jaunty          [jaun-ty]
+ + magnificent     [mag-nif-i-cent]
+ + natty           [nat-ty]
+ + personable      [per-son-a-ble]
+ + prepossessing   [pre-pos-sess-ing]
+ + pulchritude     [pul-chri-tude]
+ + seemly          [seem-ly]
+ + specious        [spe-cious]
+ + symmetry        [sym-me-try]
+
+***** ugliness 846
+
+ + grisly          [gris-ly]
+ + ham-handed      [ham-hand-ed]
+ + repugnant       [re-pug-nant]
+ + uncanny         [un-can-ny]
+ + uncouth         [un-couth]
+
+***** ornament 847
+
+ + bedeck          [be-deck]
+ + fringe          [fringe]
+ + garish          [gar-ish]
+ + gaudy           [gaud-y]
+ + gild            [gild]
+ + panache         [pa-nache]
+ + preen           [preen]
+ + primp           [primp]
+ + vignette        [vi-gnette]
+
+***** jewelry 847.a
+
+***** blemish 848
+
+***** simplicity 849
+
+***** taste 850
+
+ + dilettante      [dil-et-tan-te]
+ + tasty           [tast-y]
+ + virtuoso        [vir-tu-o-so]
+
+***** vulgarity 851
+
+ + baroque         [ba-roque]
+ + tawdry          [taw-dry]
+
+***** fashion 852
+
+***** ridiculousness 853
+
+ + droll           [droll]
+ + ludicrous       [lu-di-crous]
+
+***** fop 854
+
+***** affectation 855
+
+ + affectation     [af-fec-ta-tion]
+ + charlatan       [char-la-tan]
+ + grimace         [gri-mace]
+ + pedagogue       [ped-a-gogue]
+ + pedant          [ped-ant]
+ + prude           [prude]
+ + prudish         [prud-ish]
+ + smug            [smug]
+
+***** ridicule 856
+
+ + persiflage      [per-si-flage]
+
+***** laughingstock 857
+
+*** 3. Prospective Affections
+
+***** hope 858
+
+ + sanguine        [san-guine]
+
+***** hopelessness 859
+
+***** fear 860
+
+ + abash           [a-bash]
+ + apprehensive    [ap-pre-hen-sive]
+ + astounding      [as-tound-ing]
+ + awe             [awe]
+ + browbeat        [brow-beat]
+ + consternation   [con-ster-na-tion]
+ + cow             [cow]
+ + cower           [cow-er]
+ + coy             [coy]
+ + crouch          [crouch]
+ + daunt           [daunt]
+ + deter           [de-ter]
+ + diffident       [dif-fi-dent]
+ + dismay          [dis-may]
+ + dread           [dread]
+ + flinch          [flinch]
+ + intimidate      [in-tim-i-date]
+ + macabre         [ma-ca-bre]
+ + misgiving       [mis-giv-ing]
+ + perilous        [per-i-lous]
+ + quail           [quail]
+ + quaver          [qua-ver]
+ + redoubtable     [re-doubt-a-ble]
+ + shrink          [shrink]
+ + terror          [ter-ror]
+ + timid           [tim-id]
+ + timorous        [tim-or-ous]
+
+***** courage 861
+
+ + audacious       [au-da-cious]
+ + chivalrous      [chiv-al-rous]
+ + dashing         [dash-ing]
+ + defy            [de-fy]
+ + dogged          [dog-ged]
+ + embolden        [em-bold-en]
+ + exploit         [ex-ploit]
+ + hardy           [har-dy]
+ + intrepid        [in-trep-id]
+ + mettle          [met-tle]
+ + nerve           [nerve]
+ + prowess         [prow-ess]
+ + reassure        [re-as-sure]
+ + stouthearted    [stout-heart-ed]
+ + valiant         [val-iant]
+
+***** cowardice 862
+
+ + pusillanimous   [pu-sil-lan-i-mous]
+
+***** rashness 863
+
+ + daredevil       [dare-dev-il]
+ + temerity        [te-mer-i-ty]
+
+***** caution 864
+
+ + circumspect     [cir-cum-spect]
+ + wary            [war-y]
+
+***** desire 865
+
+ + agog            [a-gog]
+ + allure          [al-lure]
+ + animus          [an-i-mus]
+ + aspirant        [as-pir-ant]
+ + avid            [av-id]
+ + cling           [cling]
+ + crave           [crave]
+ + fantasy         [fan-ta-sy]
+ + fervent         [fer-vent]
+ + hanker          [han-ker]
+ + inkling         [ink-ling]
+ + list            [list]
+ + mania           [ma-ni-a]
+ + partial         [par-tial]
+ + penchant        [pen-chant]
+ + predilection    [pre-di-lec-tion]
+ + propensity      [pro-pen-si-ty]
+ + rabid           [rab-id]
+ + rage            [rage]
+ + relish          [rel-ish]
+ + solicitous      [so-lic-i-tous]
+ + tantalize       [tan-ta-lize]
+ + votary          [vo-ta-ry]
+ + want            [want]
+ + wistful         [wist-ful]
+
+***** indifference 866
+
+ + insipid         [in-sip-id]
+ + offish          [of-fish]
+
+***** dislike 867
+
+ + abhor           [ab-hor]
+ + abominate       [a-bom-i-nate]
+ + antipathy       [an-tip-a-thy]
+ + aversion        [a-ver-sion]
+ + disinclination  [dis-in-cli-na-tion]
+ + loathe          [loathe]
+
+***** fastidiousness 868
+
+ + demanding       [de-mand-ing]
+ + finicky         [fin-ick-y]
+ + meticulous      [me-tic-u-lous]
+
+***** satiety 869
+
+ + sate            [sate]
+
+*** 4. Contemplative Affections
+
+***** wonder 870
+
+ + agape           [a-ga-pe]
+ + marvel          [mar-vel]
+
+***** expectance 871
+
+***** prodigy 872
+
+*** 5. Extrinsic Affections
+
+***** repute 873
+
+ + aggrandize      [ag-gran-dize]
+ + approbation     [ap-pro-ba-tion]
+ + blazon          [bla-zon]
+ + conspicuous     [con-spic-u-ous]
+ + deify           [de-i-fy]
+ + eclipse         [e-clipse]
+ + elevate         [el-e-vate]
+ + eminent         [em-i-nent]
+ + emulate         [em-u-late]
+ + ennoble         [en-no-ble]
+ + exalt           [ex-alt]
+ + exult           [ex-ult]
+ + flourish        [flour-ish]
+ + grandeur        [gran-deur]
+ + illustrious     [il-lus-tri-ous]
+ + imperishable    [im-per-ish-a-ble]
+ + imposing        [im-pos-ing]
+ + lionize         [li-on-ize]
+ + notoriety       [notoriety]
+ + overshadow      [o-ver-shad-ow]
+ + paragon         [par-a-gon]
+ + preeminent      [pre-em-i-nent]
+ + prestige        [pres-tige]
+ + repute          [re-pute]
+ + run             [run]
+ + sacrosanct      [sac-ro-sanct]
+ + solemnity       [so-lem-ni-ty]
+ + surpass         [sur-pass]
+ + éclat           [éclat]
+
+***** disrepute 874
+
+ + abject          [ab-ject]
+ + despicable      [des-pi-ca-ble]
+ + discredit       [dis-cred-it]
+ + errant          [er-rant]
+ + ignominy        [ig-no-min-y]
+ + opprobrious     [op-pro-bri-ous]
+ + ribald          [rib-ald]
+ + slur            [slur]
+ + stigma          [stig-ma]
+ + turpitude       [tur-pi-tude]
+
+***** nobility 875
+
+ + genteel         [gen-teel]
+ + patrician       [pa-tri-cian]
+
+***** commonality 876
+
+ + barbarous       [bar-ba-rous]
+ + boor            [boor]
+ + churl           [churl]
+ + homely          [home-ly]
+ + loutish         [lout-ish]
+ + menial          [me-ni-al]
+ + obscure         [ob-scure]
+ + philistine      [philistine]
+ + plebeian        [ple-be-ian]
+ + raffish         [raff-ish]
+ + snobbish        [snob-bish]
+ + vulgar          [vul-gar]
+ + yokel           [yo-kel]
+
+***** title 877
+
+***** pride 878
+
+ + hauteur         [hau-teur]
+
+***** humility 879
+
+ + abase           [a-base]
+ + condescending   [con-de-scend-ing]
+ + crestfallen     [crest-fall-en]
+ + deign           [deign]
+ + humiliate       [hu-mil-i-ate]
+ + humility        [hu-mil-i-ty]
+ + self-abasement  [self-a-base-ment]
+ + servile         [ser-vile]
+
+***** vanity 880
+
+ + narcissism      [nar-cis-sism]
+ + narcissistic    [nar-cis-sis-tic]
+
+***** modesty 881
+
+ + unpretentious   [un-pre-ten-tious]
+
+***** ostentation 882
+
+ + brandish        [bran-dish]
+ + ceremonious     [cer-e-mo-ni-ous]
+ + ostentatious    [ostentatious]
+ + pompous         [pomp-ous]
+ + punctilious     [punc-til-i-ous]
+ + sumptuous       [sump-tu-ous]
+
+***** celebration 883
+
+***** boasting 884
+
+ + bombast         [bom-bast]
+ + bravado         [bra-va-do]
+ + vaunt           [vaunt]
+
+***** insolence 885
+
+ + brassy          [brass-y]
+ + brazen          [bra-zen]
+ + bumptious       [bump-tious]
+ + effrontery      [ef-fron-ter-y]
+ + flippancy       [flip-pan-cy]
+ + hubris          [hu-bris]
+ + impertinent     [im-per-ti-nent]
+ + insolent        [in-so-lent]
+ + overbearing     [o-ver-bear-ing]
+ + presumptuous    [pre-sump-tu-ous]
+ + supercilious    [su-per-cil-i-ous]
+ + swagger         [swag-ger]
+
+***** servility 886
+
+ + fawn            [fawn]
+ + hangdog         [hang-dog]
+ + supple          [sup-ple]
+ + sycophant       [syc-o-phant]
+ + toady           [toad-y]
+
+***** blusterer 887
+
+ + roisterer       [roist-er-er]
+ + warmonger       [war-mong-er]
+
+** Section III. Sympathetic Affections
+
+*** 1. Social Affections
+
+***** friendship 888
+
+ + amity           [am-i-ty]
+ + favoritism      [fa-vor-it-ism]
+ + rapprochement   [rap-proche-ment]
+
+***** enmity 889
+
+ + disaffected     [disaffected]
+
+***** friend 890
+
+***** enemy 891
+
+***** sociality 892
+
+ + gregarious      [gre-gar-i-ous]
+
+***** seclusion, exclusion 893
+
+ + derelict        [der-e-lict]
+ + pariah          [pa-ri-ah]
+ + proscribe       [pro-scribe]
+ + recluse         [re-cluse]
+ + solitude        [sol-i-tude]
+ + wastrel         [wast-rel]
+
+***** courtesy 894
+
+ + accolade        [ac-co-lade]
+ + affable         [af-fa-ble]
+ + amenity         [a-men-i-ty]
+ + bland           [bland]
+ + civility        [ci-vil-i-ty]
+ + comity          [com-i-ty]
+ + complacency     [com-pla-cen-cy]
+ + complacent      [com-pla-cent]
+ + complaisance    [com-plai-sance]
+ + compliment      [com-pli-ment]
+ + courteous       [cour-te-ous]
+ + diplomatic      [dip-lo-mat-ic]
+ + embrace         [em-brace]
+ + ingratiating    [in-gra-ti-at-ing]
+ + obeisance       [o-bei-sance]
+ + obliging        [o-blig-ing]
+ + obsequious      [ob-se-qui-ous]
+ + polished        [pol-ished]
+ + politic         [pol-i-tic]
+ + urbane          [ur-bane]
+ + valediction     [val-e-dic-tion]
+
+***** discourtesy 895
+
+ + austere         [aus-tere]
+ + cavalier        [cav-a-lier]
+ + glower          [glow-er]
+ + ill-bred        [ill-bred]
+ + impudent        [im-pu-dent]
+ + tactless        [tact-less]
+ + ungainly        [un-gain-ly]
+
+***** congratulation 896
+
+***** love 897
+
+ + adore           [a-dore]
+ + amiable         [a-mi-a-ble]
+ + bewitching      [bewitching]
+ + cherished       [cherished]
+ + congenial       [con-gen-ial]
+ + coquette        [co-quette]
+ + devoted         [de-vot-ed]
+ + enamored        [enamored]
+ + enthusiasm      [en-thu-si-asm]
+ + fervor          [fer-vor]
+ + flirt           [flirt]
+ + gallant         [gal-lant]
+ + idolatrize      [i-dol-a-trize]
+ + propitiate      [pro-pi-ti-ate]
+ + revere          [re-vere]
+
+***** hate 898
+
+ + alienate        [al-ien-ate]
+ + estrange        [es-trange]
+ + implacable      [im-plac-a-ble]
+
+***** favorite 899
+
+***** resentment 900
+
+ + acrimonious     [ac-ri-mo-ni-ous]
+ + asperity        [as-per-i-ty]
+ + exasperate      [ex-as-per-ate]
+ + fury            [fu-ry]
+ + grudge          [grudge]
+ + incense         [in-cense]
+ + inflame         [in-flame]
+ + infuriate       [in-fu-ri-ate]
+ + irate           [i-rate]
+ + kindle          [kin-dle]
+ + miff            [miff]
+ + paroxysm        [par-ox-ysm]
+ + pout            [pout]
+ + pucker          [puck-er]
+ + relentless      [re-lent-less]
+ + revenge         [re-venge]
+ + snarl           [snarl]
+ + spleen          [spleen]
+ + tiff            [tiff]
+ + umbrage         [um-brage]
+ + virulent        [vir-u-lent]
+
+***** irascibility 901
+
+ + choleric        [chol-er-ic]
+ + feisty          [feist-y]
+ + fractious       [frac-tious]
+ + fretful         [fret-ful]
+ + irascible       [i-ras-ci-ble]
+ + petulant        [pet-u-lant]
+ + testy           [tes-ty]
+ + vindictive      [vin-dic-tive]
+
+***** sullenness 901.a
+
+ + morose          [mo-rose]
+
+***** endearment 902
+
+ + cosset          [cos-set]
+
+***** marriage 903
+
+ + espouse         [es-pouse]
+ + husband         [hus-band]
+
+***** celibacy 904
+
+***** divorce 905
+
+*** 2. Diffusive Sympathetic Affections
+
+***** benevolence 906
+
+ + beneficent      [be-nef-i-cent]
+ + bonhomie        [bon-ho-mie]
+ + indulgent       [in-dul-gent]
+
+***** malevolence 907
+
+ + enmity          [en-mi-ty]
+ + feral           [fe-ral]
+ + malicious       [ma-li-cious]
+ + malignant       [ma-lig-nant]
+ + rancor          [ran-cor]
+ + ruthless        [ruth-less]
+ + surly           [sur-ly]
+ + truculent       [truc-u-lent]
+ + venom           [ven-om]
+ + vitriolic       [vit-ri-ol-ic]
+
+***** malediction 908
+
+ + anathema        [a-nath-e-ma]
+ + damn            [damn]
+
+***** threat 909
+
+ + minatory        [min-a-to-ry]
+
+***** philanthropy 910
+
+ + patriot         [pa-tri-ot]
+ + philanthropic   [phil-an-throp-ic]
+
+***** misanthropy 911
+
+ + misanthropic    [mis-an-throp-ic]
+ + xenophobe       [xen-o-phobe]
+
+***** benefactor 912
+
+***** evil 913
+
+ + anarchist       [an-ar-chist]
+
+*** 3. Special Sympathetic Affections
+
+***** pity 914
+
+ + commiserate     [com-mis-er-ate]
+
+***** pitilessness 914.a
+
+***** condolence 915
+
+*** 4. Retrospective Sympathetic Affections
+
+***** gratitude 916
+
+***** ingratitude 917
+
+***** forgiveness 918
+
+ + condone         [con-done]
+
+***** revenge 919
+
+ + pitiless        [pit-i-less]
+
+***** jealousy 920
+
+***** envy 921
+
+** Section IV. Moral Affections
+
+*** 1. Moral Obligations
+
+***** right 922
+
+ + equable         [eq-ua-ble]
+
+***** wrong 923
+
+***** dueness 924
+
+ + condign         [con-dign]
+ + inalienable     [in-al-ien-a-ble]
+ + merited         [mer-i-ted]
+ + prerogative     [pre-rog-a-tive]
+
+***** undueness 925
+
+***** duty 926
+
+ + allegiance      [al-le-giance]
+ + amenable        [a-me-na-ble]
+ + beholden        [be-hold-en]
+ + behoove         [be-hoove]
+ + conscientious   [con-sci-en-tious]
+ + decorum         [de-co-rum]
+ + ethics          [eth-ics]
+ + obligatory      [ob-lig-a-to-ry]
+ + propriety       [pro-pri-e-ty]
+ + stringent       [strin-gent]
+
+***** dereliction of duty 927
+
+***** exemption 927.a
+
+ + immune          [im-mune]
+
+*** 2. Moral Sentiments
+
+***** respect 928
+
+ + deference       [def-er-ence]
+ + hallow          [hal-low]
+ + venerate        [ven-er-ate]
+
+***** disrespect 929
+
+ + boo             [boo]
+ + deride          [de-ride]
+ + desecrate       [des-e-crate]
+ + flout           [flout]
+ + gibe            [gibe]
+ + scurrilous      [scur-ril-ous]
+
+***** contempt 930
+
+ + contempt        [con-tempt]
+ + despise         [de-spise]
+ + disdain         [dis-dain]
+ + scorn           [scorn]
+ + spurn           [spurn]
+
+***** approbation 931
+
+ + acclaim         [ac-claim]
+ + adulate         [ad-u-late]
+ + applause        [ap-plause]
+ + commend         [com-mend]
+ + encomium        [en-co-mi-um]
+ + estimable       [es-ti-ma-ble]
+ + eulogize        [eu-lo-gize]
+ + extol           [ex-tol]
+ + homage          [hom-age]
+ + kudos           [ku-dos]
+ + laudatory       [laud-a-to-ry]
+ + paean           [pae-an]
+ + panegyric       [pan-e-gyr-ic]
+ + sanction        [sanc-tion]
+ + unimpeachable   [un-im-peach-a-ble]
+
+***** disapprobation 932
+
+ + abuse           [a-buse]
+ + admonish        [ad-mon-ish]
+ + berate          [be-rate]
+ + captious        [cap-tious]
+ + carp            [carp]
+ + castigate       [cas-ti-gate]
+ + cavil           [cav-il]
+ + censorious      [cen-so-ri-ous]
+ + censure         [cen-sure]
+ + chide           [chide]
+ + clamor          [clam-or]
+ + condemn         [con-demn]
+ + decry           [de-cry]
+ + denounce        [de-nounce]
+ + deprecate       [dep-re-cate]
+ + depreciate      [de-pre-ci-ate]
+ + diatribe        [di-a-tribe]
+ + disparage       [dis-par-age]
+ + execrate        [ex-e-crate]
+ + expostulate     [ex-pos-tu-late]
+ + fastidious      [fas-tid-i-ous]
+ + fulminate       [ful-mi-nate]
+ + impugn          [im-pugn]
+ + invective       [in-vec-tive]
+ + inveigh         [in-veigh]
+ + lament          [la-ment]
+ + lampoon         [lam-poon]
+ + lash            [lash]
+ + nibble          [nib-ble]
+ + obloquy         [ob-lo-quy]
+ + odium           [o-di-um]
+ + ostracize       [os-tra-cize]
+ + peck            [peck]
+ + rail            [rail]
+ + rave            [rave]
+ + rebuff          [re-buff]
+ + remonstrance    [re-mon-strance]
+ + reprehend       [rep-re-hend]
+ + reproach        [re-proach]
+ + reprobate       [rep-ro-bate]
+ + reproof         [re-proof]
+ + reprove         [re-prove]
+ + revolt          [re-volt]
+ + sarcasm         [sar-casm]
+ + satire          [sat-ire]
+ + satirize        [sat-i-rize]
+ + scoff           [scoff]
+ + scowl           [scowl]
+ + severe          [se-vere]
+ + sneer           [sneer]
+ + snub            [snub]
+ + stigmatize      [stig-ma-tize]
+ + stricture       [stric-ture]
+ + taunt           [taunt]
+ + tirade          [ti-rade]
+ + trenchant       [trench-ant]
+ + upbraid         [up-braid]
+ + vicious         [vi-cious]
+ + vilify          [vil-i-fy]
+ + vituperate      [vi-tu-per-ate]
+
+***** flattery 933
+
+ + euphemism       [eu-phe-mism]
+ + smarmy          [smarm-y]
+
+***** detraction 934
+
+ + calumniate      [ca-lum-ni-ate]
+ + detract         [de-tract]
+ + libelous        [li-bel-ous]
+ + pejorative      [pe-jo-ra-tive]
+
+***** flatterer 935
+
+***** detractor 936
+
+***** vindication 937
+
+ + exculpate       [ex-cul-pate]
+ + venial          [ve-ni-al]
+ + vindicate       [vin-di-cate]
+
+***** accusation 938
+
+ + incriminate     [in-crim-i-nate]
+ + inculpate       [in-cul-pate]
+ + indict          [in-dict]
+ + taxing          [taxing]
+
+*** 3. Moral Conditions
+
+***** probity 939
+
+ + candor          [can-dor]
+ + equity          [eq-ui-ty]
+ + fidelity        [fi-del-i-ty]
+ + integrity       [in-teg-ri-ty]
+ + probity         [pro-bi-ty]
+ + rectitude       [rec-ti-tude]
+ + virtuous        [vir-tu-ous]
+
+***** improbity 940
+
+ + grovel          [grov-el]
+ + seamy           [seam-y]
+ + slippery        [slip-per-y]
+ + treacherous     [treach-er-ous]
+ + venal           [ve-nal]
+
+***** knave 941
+
+ + turncoat        [turn-coat]
+
+***** disinterestedness 942
+
+ + altruism        [al-tru-ism]
+ + disinterested   [dis-in-ter-est-ed]
+
+***** selfishness 943
+
+ + egoistic        [e-go-is-tic]
+
+***** virtue 944
+
+ + exemplary       [ex-em-pla-ry]
+
+***** vice 945
+
+ + atrocious       [a-tro-cious]
+ + culpable        [cul-pa-ble]
+ + deficiency      [de-fi-cien-cy]
+ + diabolic        [di-a-bol-ic]
+ + dissolute       [dis-so-lute]
+ + foible          [foi-ble]
+ + frail           [frail]
+ + heinous         [hei-nous]
+ + incarnate       [in-car-nate]
+ + incorrigible    [in-cor-ri-gi-ble]
+ + indecorous      [in-dec-o-rous]
+ + infamous        [in-fa-mous]
+ + iniquity        [in-iq-ui-ty]
+ + lax             [lax]
+ + malevolent      [ma-lev-o-lent]
+ + misbehaving     [mis-be-hav-ing]
+ + nefarious       [ne-far-i-ous]
+ + obdurate        [ob-du-rate]
+ + profligate      [prof-li-gate]
+ + sin             [sin]
+ + stygian         [stygian]
+ + transgress      [trans-gress]
+ + trespass        [tres-pass]
+ + wicked          [wick-ed]
+
+***** innocence 946
+
+***** guilt 947
+
+ + felony          [fel-o-ny]
+ + misdemeanour    [misdemeanour]
+
+***** good man 948
+
+***** bad man 949
+
+ + miscreant       [mis-cre-ant]
+ + rapscallion     [rap-scal-lion]
+
+***** penitence 950
+
+ + compunction     [com-punc-tion]
+ + contrite        [con-trite]
+ + penitent        [pen-i-tent]
+ + remorse         [re-morse]
+ + repentant       [re-pent-ant]
+ + rue             [rue]
+
+***** impenitence 951
+
+ + impenitent      [im-pen-i-tent]
+
+***** atonement 952
+
+ + expiate         [ex-pi-ate]
+
+*** 4. Moral Practice
+
+***** temperance 953
+
+ + abstemious      [ab-ste-mi-ous]
+ + frugal          [fru-gal]
+ + teetotalism     [tee-to-tal-ism]
+
+***** intemperance 954
+
+ + intemperate     [in-tem-per-ate]
+
+***** sensualist 954.a
+
+ + sybarite        [syb-a-rite]
+
+***** asceticism 955
+
+ + acerbic         [a-cer-bic]
+ + ascetic         [as-cet-ic]
+
+***** fasting 956
+
+***** gluttony 957
+
+ + epicure         [ep-i-cure]
+ + gourmand        [gour-mand]
+ + gourmet         [gour-met]
+
+***** sobriety 958
+
+***** drunkenness 959
+
+ + groggy          [grog-gy]
+ + guzzle          [guz-zle]
+ + intoxicant      [in-tox-i-cant]
+ + lush            [lush]
+ + soak            [soak]
+
+***** purity 960
+
+***** impurity 961
+
+ + bawdy           [bawd-y]
+ + carnal          [car-nal]
+ + licentious      [li-cen-tious]
+ + rakish          [rak-ish]
+
+***** libertine 962
+
+ + libertine       [lib-er-tine]
+
+*** 5. Moral Institutions
+
+***** legality 963
+
+***** illegality 964
+
+ + despotic        [des-pot-ic]
+ + smuggling       [smuggling]
+
+***** jurisdiction 965
+
+***** tribunal 966
+
+***** judge 967
+
+***** lawyer 968
+
+ + pundit          [pun-dit]
+
+***** lawsuit 969
+
+***** acquittal 970
+
+***** condemnation 971
+
+***** punishment 972
+
+ + douse           [douse]
+ + lambaste        [lam-baste]
+ + penalty         [pen-al-ty]
+ + retribution     [ret-ri-bu-tion]
+
+***** reward 973
+
+ + perquisite      [per-qui-site]
+ + requite         [re-quite]
+
+***** penalty 974
+
+***** scourge 975
+
+ + pillory         [pil-lo-ry]
+
+** Section V. Religious Affections
+
+*** 1. Superhuman Beings and Regions
+
+***** deity 976
+
+ + atone           [a-tone]
+ + justify         [jus-ti-fy]
+ + mediate         [me-di-ate]
+ + sanctify        [sanc-ti-fy]
+
+***** angel 977
+
+ + cherubic        [che-ru-bic]
+
+***** satan 978
+
+***** jupiter 979
+
+***** demon 980
+
+ + apparition      [ap-pa-ri-tion]
+
+***** heaven 981
+
+***** hell 982
+
+ + inferno         [in-fer-no]
+
+*** 2. Religious Doctrines
+
+***** theology 983
+
+***** orthodoxy 983.a
+
+***** heterodoxy 984
+
+ + apocryphal      [a-poc-ry-phal]
+ + apostasy        [a-pos-ta-sy]
+ + bigot           [big-ot]
+ + catholic        [cath-o-lic]
+ + dissent         [dis-sent]
+ + fanatic         [fa-nat-ic]
+ + heresy          [her-e-sy]
+ + heretical       [he-ret-i-cal]
+ + heterodox       [het-er-o-dox]
+ + iconoclast      [i-con-o-clast]
+ + schism          [schism]
+ + sectarianism    [sec-tar-i-an-ism]
+ + secular         [sec-u-lar]
+ + skeptic         [skep-tic]
+ + visionary       [vi-sion-ar-y]
+
+***** Judeo-christian revelation 985
+
+ + apocalyptic     [a-poc-a-lyp-tic]
+ + apostle         [a-pos-tle]
+
+***** pseudo-revelation 986
+
+*** 3. Religious Sentiments
+
+***** piety 987
+
+ + pious           [pi-ous]
+ + religion        [re-li-gion]
+
+***** impiety 988
+
+ + impious         [im-pi-ous]
+ + profane         [pro-fane]
+ + sacrilege       [sac-ri-lege]
+ + sanctimonious   [sanc-ti-mo-ni-ous]
+ + unctuous        [unc-tu-ous]
+
+***** irreligion 989
+
+ + worldly         [world-ly]
+
+*** 4. Acts Of Religion
+
+***** worship 990
+
+ + beseech         [be-seech]
+ + devout          [de-vout]
+ + humble          [hum-ble]
+ + hymn            [hymn]
+ + invoke          [in-voke]
+ + petition        [pe-ti-tion]
+ + supplicate      [sup-pli-cate]
+ + worship         [wor-ship]
+
+***** idolatry 991
+
+ + canonize        [can-on-ize]
+
+***** sorcery 992
+
+ + exorcise        [ex-or-cise]
+
+***** spell 993
+
+ + talisman        [tal-is-man]
+
+***** sorcerer 994
+
+*** 5. Religious Institutions
+
+***** churchdom 995
+
+ + hierarchical    [hi-er-ar-chi-cal]
+ + pontificate     [pon-tif-i-cate]
+
+***** clergy 996
+
+ + canon           [ca-non]
+ + diocesan        [di-oc-e-san]
+ + incumbent       [in-cum-bent]
+ + novice          [nov-ice]
+
+***** laity 997
+
+***** rite 998
+
+ + aspersion       [as-per-sion]
+ + homily          [hom-i-ly]
+ + incantation     [in-can-ta-tion]
+ + rite            [rite]
+
+***** canonicals 999
+
+***** temple 1000
+
+ + mosque          [mosque]
+ + sanctuary       [sanc-tu-ar-y]
+
+* 
+
+ + divestiture     [di-vest-i-ture]
+ + egalitarian     [e-gal-i-tar-i-an]
+ + irradicable     [irradicable]
+ + juggernaut      [jug-ger-naut]
+ + naysay          [naysay]
+ + potentiate      [po-ten-ti-ate]
+ + reconvene       [re-con-vene]
+ + showmanship     [show-man-ship]
