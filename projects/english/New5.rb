@@ -1,8 +1,16 @@
 ﻿#coding: utf-8
 puts "BEGIN>"
-$words = open('wordlist/gre3000.txt','r:utf-8').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
 
-OUT = "output/gre_3000_lite.txt"
+case 1
+when 1
+  $words = open('GRE红宝书.txt','r:gbk:utf-8').each_line.map{|line|line.tap(&:chomp!).split("\t")}.inject({}){|h,(k,v)|h[k]=v;h};
+  OUT = "output/gre_6000_lite.txt"
+  $gg =->(w){sprintf(" %s %-16s %-16s [%s]",($count[w]==1 ? '+' : '-'),w,$words[w],$mhyph[w]||w)}
+end
+
+$words ||= open('wordlist/gre3000.txt','r:utf-8').each_line.inject({}){|hash,line|line.chomp!;hash[line]='';hash}
+
+OUT ||= "output/gre_3000_lite.txt"
 
 
 $index = open('10681-index.txt','r:MacRoman:utf-8').read.scan(/((.+)\n(        .+ \d.*\n)+)/).map{|w,_|
@@ -25,12 +33,12 @@ $index.keys.each{|x|
     w = x.scan(/\w+/)-['be','with','to','oneself','at','of','on','the','out','against','after']
     if w.size==1
       w = w[0]
-       $index[w] = ($index[w]||[])|$index[x]
-#      $index[x].dup.each{|group|
-#      fail group unless group.is_a? String
-#        $index[w]|=[group]
-#        #$group[group]|=[w]
-#      }
+      $index[w] = ($index[w]||[])|$index[x]
+      #      $index[x].dup.each{|group|
+      #      fail group unless group.is_a? String
+      #        $index[w]|=[group]
+      #        #$group[group]|=[w]
+      #      }
       #p [x,w,$index[w],$index[x]];gets;
     end
   end
@@ -64,7 +72,7 @@ def ex
   $rogot.each_value{|x|
     x.combination(2){|a,b|
       g[a][b] = true
-      g[b][a] = true      
+      g[b][a] = true
     }
   }
   g.each_key{|x|
@@ -72,7 +80,7 @@ def ex
   }
   puts "DOWN..."
   $words.keys.each{|x|
-    topics = g[x.gsub("é","e")].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(2)
+    topics = g[x.gsub("é","e")].keys.flat_map{|x|$index[x]||[]}.group_by{|x|x}.sort_by{|k,v|v.size}.map{|k,v|k}.reverse.take(1)
     #fail "#{topics}" unless topics.size==1
     topics.each{|g|$group[g]|=[x]}
   }
@@ -83,6 +91,7 @@ $count = Hash.new(0)
 
 def gg(w)
   $count[w]+=1
+  return $gg.(w) if $gg
   sprintf(" %s %-16s[%s]",($count[w]==1 ? '+' : '-'),w,$mhyph[w]||w)
 end
 
